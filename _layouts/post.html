@@ -13,12 +13,12 @@ layout: default
 {% endif %}
 
 <div class="content">
-  <h2 style="margin-bottom: 15px">Problem</h2>
-  <h4>
-    <a href="//vn.spoj.com/problems/{{ page.code }}" target="_blank">
-      https://vn.spoj.com/problems/{{ page.code }}
+  <h3 style="margin-bottom: 15px">Tác giả</h3>
+  <p>
+    <a href="//facebook.com/ngocdanh0508" target="_blank">
+      Ngọc Danh
     </a>
-  </h4>
+  </p>
   <hr />
 
   <h2 style="margin-bottom: 15px">Tutorial</h2>
@@ -29,9 +29,10 @@ layout: default
   <hr />
 
 <br>
-<h2>Accepted Submissions:</h2>
+
 
   {% if page.src %}
+  <h2>Accepted Submissions:</h2>
     {% for src in page.src %}
       <div class="js-single-src single-src">
         <div class="js-filename-code filename-code" value="{{ src }}">{{ src }}</div>

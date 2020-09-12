@@ -16,15 +16,18 @@
   });
 
   $scrollTop.click(() => {
-    $('html, body').animate({
-      scrollTop: $topElement.offset().top
-    }, 500);
+    $('html, body').animate(
+      {
+        scrollTop: $topElement.offset().top,
+      },
+      500
+    );
   });
 
   const revealElementsOnScroll = () => {
     sr.reveal('.js-reveal', {
       duration: 1000,
-      delay: 300
+      delay: 300,
     });
   };
 
@@ -34,6 +37,25 @@
       hljs.highlightBlock(block);
     });
   });
+
+  let buttonCheck = document
+    .getElementsByClassName('post')[0]
+    .getElementsByTagName('a');
+  for (let i = 0; i < buttonCheck.length; i++) {
+    let content = Array.from(buttonCheck[i].textContent);
+    if (content[0] == '/' && content[1] == '/') {
+      buttonCheck[i].classList.add('button', 'medium');
+      buttonCheck[i].parentElement.classList.add('small-button');
+      content.slice(0, 2);
+      let s = '';
+      for (let j = 2; j < content.length; j++) {
+        s += content[j].toString();
+      }
+      buttonCheck[i].innerText = s;
+      content.slice(0, content.length - 1);
+      var new_row = document.createElement('i');
+      new_row.className = 'fas fa-arrow-alt-circle-down';
+      buttonCheck[i].appendChild(new_row);
+    }
+  }
 })();
-
-

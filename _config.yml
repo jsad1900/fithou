@@ -1,15 +1,15 @@
 title: FITHOU notes
 description: Hướng dẫn, chia sẻ về quá trình học tại khoa CNTT - đại học Mở Hà Nội
 author: FITHOU notes
-github: //github.com/jsad1900/fithou-19
+github: //github.com/jsad1900/fithou
 about: Hướng dẫn, chia sẻ về quá trình học tại khoa CNTT - đại học Mở Hà Nội
-# disqus_shortname: vnspoj
+disqus_shortname: vnspoj
 google_analytics: UA-162061519-1
 avatar_url: /static/img/favicon.png
-email: tutorialspoj@gmail.com
+email: ngocdanh.fithou@gmail.com
 
-username: vnspoj
-repo: vnspoj.github.io
+username: ngocdanh
+repo: fithou.netlify.app
 
 social:
     - icon: fa-facebook
@@ -25,14 +25,14 @@ social:
 
 share:
   twitter_username: huynhsamha
-  # fb_appid: 1749788565247320
+  fb_appid: 1749788565247320
 
 urls:
-    - text: About Us
+    - text: Giới thiệu
       url: /about
-    - text: Categories
+    - text: Danh mục
       url: /category
-    - text: Search
+    - text: Tìm kiếm
       url: /search.html
     - text: CodeLearn.io
       url: /code-learn
@@ -43,7 +43,7 @@ urls:
     # - text: Join with us
     #   url: //github.com/vnspoj
 
-url: "//vnspoj.github.io"
+url: "//fithou.netlify.app"
 baseurl: ""
 paginate: 30
 per_page: 30
