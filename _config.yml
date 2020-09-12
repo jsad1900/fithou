@@ -1,6 +1,6 @@
 title: FITHOU notes
 description: Hướng dẫn, chia sẻ về quá trình học tại khoa CNTT - đại học Mở Hà Nội
-author: FITHOU
+author: FITHOU notes
 github: //github.com/jsad1900/fithou-19
 about: Hướng dẫn, chia sẻ về quá trình học tại khoa CNTT - đại học Mở Hà Nội
 # disqus_shortname: vnspoj
@@ -12,8 +12,8 @@ username: vnspoj
 repo: vnspoj.github.io
 
 social:
-    # - icon: fa-facebook
-      # link: "//facebook.com/huynhsamha"
+    - icon: fa-facebook
+      link: "//facebook.com/ngocdanh0508"
     - icon: fa-telegram
       link: "//t.me/ngocdanh0508"
     - icon: fa-github
