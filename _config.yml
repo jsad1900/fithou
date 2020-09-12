@@ -1,0 +1,63 @@
+title: FITHOU notes
+description: Hướng dẫn, chia sẻ về quá trình học tại khoa CNTT - đại học Mở Hà Nội
+author: FITHOU
+github: //github.com/jsad1900/fithou-19
+about: Hướng dẫn, chia sẻ về quá trình học tại khoa CNTT - đại học Mở Hà Nội
+# disqus_shortname: vnspoj
+google_analytics: UA-162061519-1
+avatar_url: /static/img/favicon.png
+email: tutorialspoj@gmail.com
+
+username: vnspoj
+repo: vnspoj.github.io
+
+social:
+    # - icon: fa-facebook
+      # link: "//facebook.com/huynhsamha"
+    - icon: fa-telegram
+      link: "//t.me/ngocdanh0508"
+    - icon: fa-github
+      link: "//github.com/jsad1900"
+    - icon: fa-linkedin
+      link: "//www.linkedin.com/in/huynhsamha"
+    - icon: fa-twitter
+      link: "//twitter.com/huynhsamha"
+
+share:
+  twitter_username: huynhsamha
+  # fb_appid: 1749788565247320
+
+urls:
+    - text: About Us
+      url: /about
+    - text: Categories
+      url: /category
+    - text: Search
+      url: /search.html
+    - text: CodeLearn.io
+      url: /code-learn
+    - text: Interview Questions
+      url: /top-interview-questions
+    - text: XML Feed
+      url: /feed.xml
+    # - text: Join with us
+    #   url: //github.com/vnspoj
+
+url: "//vnspoj.github.io"
+baseurl: ""
+paginate: 30
+per_page: 30
+paginate_path: "/page/:num/"
+markdown: kramdown
+mathjax: true
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+
+sass:
+  style: compressed
