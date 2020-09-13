@@ -3,10 +3,10 @@
 @import "animate";
 body {
 	@extend .fontPrimary;
-	
+
 	line-height: 1.8em;
 	font-size: 17px;
-    font-weight: normal;
+	font-weight: normal;
 	color: rgb(22, 22, 22);
 }
 
@@ -256,7 +256,7 @@ footer {
 /* Left column */
 
 div.sidebar-layout {
-	margin-top: 10px;	
+	margin-top: 10px;
 	font-size: 14px;
 	color: rgb(15, 15, 15);
 	strong {
@@ -366,7 +366,7 @@ div.btn-share {
 .content img {
 	max-width: 100%;
 	margin: 0 auto;
-    display: block;
+	display: block;
 }
 
 .post-content .btn-sm {
@@ -384,10 +384,10 @@ div.btn-share {
 }
 
 @media (max-width: 768px) {
-	.share-page{
+	.share-page {
 		display: none !important;
 	}
-	.fb-like{
+	.fb-like {
 		display: none !important;
 	}
 	div.sidebar-layout {
@@ -499,7 +499,7 @@ input#js-search__input {
 .sidebar-nav {
 	text-align: left !important;
 	display: flex;
-    justify-content: space-around;
+	justify-content: space-around;
 }
 
 // Override Bootstrap Pagination color
@@ -542,22 +542,44 @@ input#js-page-search__input {
 // Override Prism
 :not(pre) > code[class*="language-"] {
 	background: #d0d0d0 !important;
-    color: #000;
+	color: #000;
 }
 a.button {
-	transition: .3s ease;
+	transition: 0.3s ease;
 	background: #428bca;
-    color: #fff;
-    border-radius: 10px;
+	color: #fff;
+	border-radius: 10px;
 	padding: 5px;
-	
 }
 a.button:hover {
 	background: #00338e;
 }
 .post-body a:not(.button):hover {
-    color: #1f1798;
+	color: #1f1798;
 }
 a.carousel-button {
-    margin-top: 61px;
+	margin-top: 61px;
+}
+.ngocdanh {
+	.monhoc {
+		ul {
+			display: flex;
+			flex-flow: wrap;
+			padding: unset;
+			li {
+				width: calc(50% - 20px);
+				list-style: none;
+				background: #c5c5c5;
+				margin: 10px;
+				padding: 10px 19px;
+				display: flex;
+				justify-content: space-between;
+				a {
+					color: #000;
+					font-size: 18px;
+					font-weight: 500;
+				}
+			}
+		}
+	}
 }
