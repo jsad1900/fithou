@@ -3,8 +3,8 @@ description: Hướng dẫn, chia sẻ về quá trình học tại khoa CNTT - 
 author: FITHOU notes
 github: //github.com/jsad1900/fithou
 about: Hướng dẫn, chia sẻ về quá trình học tại khoa CNTT - đại học Mở Hà Nội
-disqus_shortname: vnspoj
-google_analytics: UA-162061519-1
+# disqus_shortname: vnspoj
+google_analytics: UA-153619057-1
 avatar_url: /static/img/favicon.png
 email: ngocdanh.fithou@gmail.com
 
@@ -24,7 +24,7 @@ social:
       link: "//twitter.com/huynhsamha"
 
 share:
-  twitter_username: huynhsamha
+  # twitter_username: ngocdanha1k49
   fb_appid: 1749788565247320
 
 urls:

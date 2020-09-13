@@ -13,7 +13,7 @@ layout: default
 {% endif %}
 
 <div class="content">
-  <h3 style="margin-bottom: 15px">Tác giả</h3>
+  <h4 style="margin-bottom: 15px">Tác giả</h4>
   <p>
     <a href="//facebook.com/ngocdanh0508" target="_blank">
       Ngọc Danh
@@ -98,4 +98,12 @@ layout: default
 </div>
 
 <!-- Disqus Comment Plugin -->
-{% include disqus.html %}
+<!-- {% include disqus.html %} -->
+
+<!--facebook comment-->
+{% include facebook-like.html %}
+  {% if page.fbcomments %}
+    <hr/>
+    <h4>Comments</h4>
+    <div class="fb-comments" data-href="http://fithou.nettify.com{{ page.url }}" data-colorscheme="dark" data-num-posts="4" data-width="706"></div>
+  {% endif %}
