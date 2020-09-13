@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hướng dẫn cài Code::Blocks học C/C++"
-categories: [software]
+categories: [software, thltcs]
 ---
 
 Khi bắt đầu học lập trình, có rất nhiều bạn bắt đầu với ngôn ngữ C/C++. Với cú pháp mạch lạc, chạy nhanh cũng như khả năng logic, hiện nay C/C++ được sử dụng trong các trường đại học cho những sinh viên năm nhất.

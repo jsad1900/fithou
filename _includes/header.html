@@ -1,15 +1,27 @@
 <div class="header">
   <div class="d-flex flex-content-end">
-    <a href="{{ site.baseurl }}/"
-      ><img
-        class="profile-avatar animated zoomIn duration-500"
-        src="{{ site.baseurl }}{{ site.avatar_url }}"
-        height="120px"
-        width="120px"
-    /></a>
-    <h1 class="author-name animated fadeInUp duration-700">
-      {{ site.author }}
-    </h1>
+
+    <div class="box-header row">
+      <div class="logo col-md-3 col-xs-12">
+        <a  href="{{ site.baseurl }}/"
+        ><img
+          class="profile-avatar animated zoomIn duration-500"
+          src="{{ site.baseurl }}{{ site.avatar_url }}"
+          height="120px"
+          width="120px"
+      /></a>
+      <h1 class="author-name animated fadeInUp duration-700">
+        {{ site.author }}
+      </h1>
+      </div>
+      <div class="khoahoc col-md-9 col-xs-12">
+        <a href="//www.taniarascia.com/guides/" target="_blank">
+          <img src="../static/img/khoahoc/free-c.png" alt="Đăng ký khóa học C/C++ miễn phí">
+        </a>
+      </div>
+    </div>
+
+    
   </div>
   {% if site.about %}
   <div class="profile-about animated fadeInUp duration-1000">

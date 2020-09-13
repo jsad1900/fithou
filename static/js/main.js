@@ -45,6 +45,7 @@
     let content = Array.from(buttonCheck[i].textContent);
     if (content[0] == '/' && content[1] == '/') {
       buttonCheck[i].classList.add('button', 'medium');
+      buttonCheck[i].target = "_blank"
       buttonCheck[i].parentElement.classList.add('small-button');
       content.slice(0, 2);
       let s = '';

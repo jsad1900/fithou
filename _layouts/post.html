@@ -3,24 +3,22 @@ layout: default
 ---
 
 <header class="post-header">
-  <!-- <h1 class="post-title">{{ page.title }}</h1> -->
+  <h1 class="post-title">{{ page.title }}</h1>
 </header>
-
-<span class="time">{{ page.date | date_to_string }}</span>
+<div class="author">
+  <span class="time">Xuất bản lúc: {{ page.date | date_to_string }}</span>
+  <span>Tác giả: <a href="//facebook.com/ngocdanh0508" target="_blank"> Ngọc Danh </a></span>
+</div>
 {% if page.categories %}
 <span class="categories">
-  &raquo; {% for category in page.categories %}<a
+  {% for category in page.categories %}<a
     href="{{ site.baseurl }}/category/{{ category }}"
-    >{{ category }}</a
+    >#{{ category }}</a
   >{% if forloop.last == false %}, {% endif %}{% endfor %}
 </span>
 {% endif %}
 
 <div class="content">
-  <h4 style="margin-bottom: 15px">Tác giả</h4>
-  <p>
-    <a href="//facebook.com/ngocdanh0508" target="_blank"> Ngọc Danh </a>
-  </p>
   <hr />
 
   <div class="post">{{ content }}</div>

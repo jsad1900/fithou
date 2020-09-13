@@ -11,7 +11,7 @@ Sau khi các bạn cài đặt, các bạn được dùng thử trong thời gia
 1\. Tải về Photoshop CS6
 ------------------------
 
-[Photoshop\_13\_LS16.7z](https://bit.ly/2Y20ZEy)  
+[//Photoshop\_13\_LS16.7z](https://bit.ly/2Y20ZEy)  
 
 2\. Cài đặt Photoshop CS6 
 --------------------------
@@ -77,7 +77,7 @@ Mặc định thì Adobe cho bạn sử dụng photoshop CS6 trong 30 ngày, sau
 
 > Pass giải nén: ndanh1
 
- [Universal.Crack.Patcher.zip](https://www.dropbox.com/s/6ylohn8hydqwyd4/Universal.Crack.Patcher.v2.0%28ndanh1%29.zip?dl=0)
+ [//Universal.Crack.Patcher.zip](https://www.dropbox.com/s/6ylohn8hydqwyd4/Universal.Crack.Patcher.v2.0%28ndanh1%29.zip?dl=0)
 
 ### 3.2, Hướng dẫn Cr@ck 
 

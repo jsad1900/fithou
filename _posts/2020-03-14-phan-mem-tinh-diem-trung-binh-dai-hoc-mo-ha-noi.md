@@ -26,7 +26,7 @@ Xem video hướng dẫn chi tiết sau để tính:
 
 Phần mềm chạy trên window.
 
-[tinhTB.zip](https://bit.ly/2ZjLUzC)
+[//tinhTB.zip](https://bit.ly/2ZjLUzC)
 ### Phản hồi 
 
 * Lê lê - K19 FITHOU
