@@ -447,7 +447,10 @@ div.btn-share {
 		transform: translate(-50%, -52%);
 	}
 }
-
+td, th {
+    border: 1px solid;
+    padding: 5px;
+}
 .posts {
 	padding-left: 10px;
 	li {
