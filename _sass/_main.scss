@@ -449,6 +449,19 @@ div.btn-share {
 }
 
 .posts {
+	padding-left: 10px;
+	li {
+		list-style: none;
+		background: #c5c5c5;
+		margin: 10px 0;
+		padding: 10px 30px;
+		display: flex;
+		justify-content: space-between;
+		a {
+			color: #000;
+			background: #c5c5c5;
+		}
+	}
 	span {
 		font-weight: 400;
 	}

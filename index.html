@@ -11,25 +11,29 @@ layout: default
         <li>
           <a href="/category/thlthdt">Thực hành lập trình hướng đối tượng</a>
           <span class="info">
-            1 tín 
+            
           </span>
         </li>
         <li><a href="/category/lthdt">Lập trình hướng đối tượng</a>
           <span class="info">
-            4 tín 
+            #BTL
           </span>
         </li>
         <li><a href="/category/tkw">Thiết kế web</a>
           <span class="info">
-            4 tín 
+            #BTL
           </span>
         </li>
         <li><a href="/category/thltcs">Thực hành lập trình cơ sở</a>
           <span class="info">
-            1 tín 
+            
           </span>
         </li>
-        <li><a href="/category/lthsk">Thực hành hướng sự kiện</a></li>
+        <li><a href="/category/ctdlgt">Cấu trúc dữ liệu và giải thuật</a>
+          <span class="info">
+            #BTL
+          </span>
+        </li>
         <li><a href="/category/lthsk">Thực hành hướng sự kiện</a></li>
         <li><a href="/category/lthsk">Thực hành hướng sự kiện</a></li>
         <li><a href="/category/lthsk">Thực hành hướng sự kiện</a></li>
@@ -38,9 +42,12 @@ layout: default
       </ul>
     </div>
   </div>
+  <h2 class="title-bv">
+    Bài viết mới
+  </h2>
   <ol class="posts">
     {% for post in paginator.posts %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <i><span>{{ post.date | date_to_string }}</span></i></li>
     {% endfor %}
   </ol>
 
