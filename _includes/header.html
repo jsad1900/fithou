@@ -1,42 +1,61 @@
 <div class="header">
-  <a href="{{ site.baseurl }}/"><img class="profile-avatar animated zoomIn duration-500" src="{{ site.baseurl }}{{ site.avatar_url }}" height="120px" width="120px" /></a>
-  <h1 class="author-name animated fadeInUp duration-700">{{ site.author }}</h1>
+  <div class="d-flex flex-content-end">
+    <a href="{{ site.baseurl }}/"
+      ><img
+        class="profile-avatar animated zoomIn duration-500"
+        src="{{ site.baseurl }}{{ site.avatar_url }}"
+        height="120px"
+        width="120px"
+    /></a>
+    <h1 class="author-name animated fadeInUp duration-700">
+      {{ site.author }}
+    </h1>
+  </div>
   {% if site.about %}
-    <div class="profile-about animated fadeInUp duration-1000">
-      {{ site.about }}
-    </div>
+  <div class="profile-about animated fadeInUp duration-1000">
+    {{ site.about }}
+  </div>
   {% endif %}
-  <div class="social animated fadeInLeft duration-700">
+  <!-- <div class="social animated fadeInLeft duration-700">
     <ul>
       {% for link in site.social %}
-        <li><a href="{{ link.link }}" target="_blank"><i class="fa {{ link.icon }}"></i></a></li>
+      <li>
+        <a href="{{ link.link }}" target="_blank"
+          ><i class="fa {{ link.icon }}"></i
+        ></a>
+      </li>
       {% endfor %}
     </ul>
-  </div>
+  </div> -->
   <div class="search animated fadeInLeft duration-900" id="js-search">
-    <input type="text" placeholder="Tìm kiếm nhanh..." class="search__input form-control" id="js-search__input">
+    <input
+      type="text"
+      placeholder="Tìm kiếm nhanh..."
+      class="search__input form-control"
+      id="js-search__input"
+    />
     <ul class="search__results" id="js-search__results"></ul>
     <ul class="search__results is-hidden" id="js-search__no_results">
-      <li class="text-center"><a href="#">&laquo; No results found &raquo;</a></li>
+      <li class="text-center">
+        <a href="#">&laquo; No results found &raquo;</a>
+      </li>
     </ul>
     <ul class="search__results is-hidden" id="js-search__more_results">
-      <li class="text-right"><a href="/search.html">View more results &raquo;</a></li>
+      <li class="text-right">
+        <a href="/search.html">View more results &raquo;</a>
+      </li>
     </ul>
   </div>
   <hr />
   <ul class="sidebar-nav">
-    <div class="title animated fadeInLeft duration-800">
-      <strong>Navigation</strong>
-    </div>
     <li class="animated fadeInLeft duration-1000">
       <a href="{{ site.baseurl }}/">Trang chủ</a>
     </li>
-    {% for i in site.urls %}
-    {% assign time = forloop.index | times: 100 | plus: 1000 %}
+    {% for i in site.urls %} {% assign time = forloop.index | times: 100 | plus:
+    1000 %}
     <li class="animated fadeInLeft duration-{{ time }}">
       <a class="about" href="{{ site.baseurl }}{{ i.url }}">{{ i.text }}</a>
     </li>
     {% endfor %}
   </ul>
 </div>
-

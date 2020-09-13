@@ -29,11 +29,11 @@ Phần mềm chạy trên window.
 [tinhTB.zip](https://bit.ly/2ZjLUzC)
 ### Phản hồi 
 
- Từ một bạn K19 khoa CNTT:V
+* Lê lê - K19 FITHOU
 
 [![](https://1.bp.blogspot.com/-b5jSfOlZ7Wo/XxE8Ds1moVI/AAAAAAAAiAE/VWtgWElcwKQXIxos9muiEFh8f091eXRYACLcBGAsYHQ/w422-h640/Screenshot_20200717-115658459.jpg)](https://1.bp.blogspot.com/-b5jSfOlZ7Wo/XxE8Ds1moVI/AAAAAAAAiAE/VWtgWElcwKQXIxos9muiEFh8f091eXRYACLcBGAsYHQ/s1615/Screenshot_20200717-115658459.jpg)
 
- ##### Bạn Mạnh Đình
+* Bạn Mạnh Đình
 
 [![](https://1.bp.blogspot.com/-NOp38JStY0c/XucG6b7fJRI/AAAAAAAAg_4/1SxdPftL7YISadVr1STo893mHG0F-AJeACK4BGAsYHg/w400-h274/1.jpg)](https://1.bp.blogspot.com/-NOp38JStY0c/XucG6b7fJRI/AAAAAAAAg_4/1SxdPftL7YISadVr1STo893mHG0F-AJeACK4BGAsYHg/s1080/1.jpg)
 

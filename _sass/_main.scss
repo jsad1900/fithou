@@ -3,7 +3,7 @@
 @import "animate";
 body {
 	@extend .fontPrimary;
-	background: url("/static/img/subtle_dots.png");
+	
 	line-height: 1.8em;
 	font-size: 17px;
     font-weight: normal;
@@ -106,12 +106,8 @@ a {
 		margin: 0;
 		list-style: none;
 		transition-duration: 0.3s;
-		&::before {
-			content: "»";
-			margin-right: 0.5em;
-		}
 		&:hover {
-			padding-left: 10px;
+			color: blue;
 		}
 	}
 }
@@ -260,7 +256,7 @@ footer {
 /* Left column */
 
 div.sidebar-layout {
-	margin-top: 100px;
+	margin-top: 10px;	
 	font-size: 14px;
 	color: rgb(15, 15, 15);
 	strong {
@@ -502,6 +498,8 @@ input#js-search__input {
 
 .sidebar-nav {
 	text-align: left !important;
+	display: flex;
+    justify-content: space-around;
 }
 
 // Override Bootstrap Pagination color
@@ -545,4 +543,21 @@ input#js-page-search__input {
 :not(pre) > code[class*="language-"] {
 	background: #d0d0d0 !important;
     color: #000;
+}
+a.button {
+	transition: .3s ease;
+	background: #428bca;
+    color: #fff;
+    border-radius: 10px;
+	padding: 5px;
+	
+}
+a.button:hover {
+	background: #00338e;
+}
+.post-body a:not(.button):hover {
+    color: #1f1798;
+}
+a.carousel-button {
+    margin-top: 61px;
 }
