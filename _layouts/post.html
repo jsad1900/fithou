@@ -62,7 +62,11 @@ layout: default
       <pre><code class="js-source-code"></code></pre>
     </div>
   </div>
-  {% endfor %} {% endif %} {% include share-page.html %}
+  {% endfor %} {% endif %} 
+  <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v8.0&appId=325462015393237&autoLogAppEvents=1" nonce="xHCDUqfV"></script>
+<div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="true"></div>
+  {% include share-page.html %}
 </div>
 
 {% assign hasSimilar = '' %} {% for post in site.posts %} {% assign
@@ -104,8 +108,6 @@ post != page and tag == thisTag %} {% if hasSimilar.size == 0 %}
 <!-- {% include disqus.html %} -->
 
 <!--facebook comment-->
-<div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
-{% if page.fbcomments %}
 <hr />
 <h4>Comments</h4>
 <div
@@ -115,4 +117,4 @@ post != page and tag == thisTag %} {% if hasSimilar.size == 0 %}
   data-num-posts="4"
   data-width="706"
 ></div>
-{% endif %}
+
