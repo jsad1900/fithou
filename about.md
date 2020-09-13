@@ -15,8 +15,7 @@ Lúc bắt đầu đến với lập trình, tôi đã gặp rất nhiều khó 
 Tôi hi vọng bạn sẽ đóng góp cho trang web. Vì còn rất nhiều nội dung cần bổ sung vào nữa.
 * Bạn có thể viết các bài viết về lập trình, kinh nghiệm học tập.
 * Chia sẻ code, bài tập lớn để các bạn học sau sẽ có nguồn tài liệu
-
-Góp ý về các điểm cần khắc phục, bổ sung trong trang web. 
+* Góp ý về nội dung trang web
 Tên của bạn sẽ được ghi trong những bài viết, code mà bạn đóng góp. Mọi thứ sẽ được mọi người công nhận.
 
 

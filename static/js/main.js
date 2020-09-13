@@ -32,11 +32,11 @@
   };
 
   revealElementsOnScroll();
-  document.addEventListener('DOMContentLoaded', (event) => {
-    document.querySelectorAll('pre code').forEach((block) => {
-      hljs.highlightBlock(block);
-    });
-  });
+  // document.addEventListener('DOMContentLoaded', (event) => {
+  //   document.querySelectorAll('pre code').forEach((block) => {
+  //     hljs.highlightBlock(block);
+  //   });
+  // });
 
   let buttonCheck = document
     .getElementsByClassName('post')[0]

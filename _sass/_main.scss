@@ -364,6 +364,8 @@ div.btn-share {
 .post-content img,
 .content img {
 	max-width: 100%;
+	margin: 0 auto;
+    display: block;
 }
 
 .post-content .btn-sm {
@@ -381,6 +383,12 @@ div.btn-share {
 }
 
 @media (max-width: 768px) {
+	.share-page{
+		display: none !important;
+	}
+	.fb-like{
+		display: none !important;
+	}
 	div.sidebar-layout {
 		margin-top: 30px;
 	}
