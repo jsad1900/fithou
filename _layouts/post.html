@@ -108,4 +108,5 @@ post != page and tag == thisTag %} {% if hasSimilar.size == 0 %}
 <!--facebook comment-->
 <hr />
 <h4>Comments</h4>
-<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-numposts="5" data-width=""></div>
+{% include fb-comments.html %}
+
