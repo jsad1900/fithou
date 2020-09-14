@@ -7,7 +7,10 @@ layout: default
 </header>
 <div class="author">
   <span class="time">Xuất bản lúc: {{ page.date | date_to_string }}</span>
-  <span>Tác giả: <a href="//facebook.com/ngocdanh0508" target="_blank"> Ngọc Danh </a></span>
+  <span
+    >Tác giả:
+    <a href="//facebook.com/ngocdanh0508" target="_blank"> Ngọc Danh </a></span
+  >
 </div>
 {% if page.categories %}
 <span class="categories">
@@ -18,94 +21,107 @@ layout: default
 </span>
 {% endif %}
 
-<div class="content">
-  <hr />
+<div class="row">
+  <div class="col-md-9 col-sm-12 content-left">
+    <div class="content">
+      <hr />
 
-  <div class="post">{{ content }}</div>
+      <div class="post">{{ content }}</div>
 
-  <hr />
+      <hr />
 
-  <br />
+      {% if page.src %}
+      <h2>Accepted Submissions:</h2>
+      {% for src in page.src %}
+      <div class="js-single-src single-src">
+        <div class="js-filename-code filename-code" value="{{ src }}">
+          {{ src }}
+        </div>
+        <div class="btn-toolbar-code">
+          <button class="js-toggle-code btn btn-success" data-visible="1">
+            <span class="text">Hide</span>
+            <i class="fa fa-eye-slash"></i>
+          </button>
+          <a
+            href="//github.com/vnspoj/solution/blob/master/src/{{ src }}"
+            class="btn-tool"
+            target="_blank"
+          >
+            <button class="btn btn-warning">
+              View on Github <i class="fa fa-github"></i>
+            </button>
+          </a>
+          <a download href="/solution/src/{{ src }}" class="btn-tool">
+            <button class="btn btn-primary">
+              Download <i class="fa fa-download"></i>
+            </button>
+          </a>
+        </div>
 
-  {% if page.src %}
-  <h2>Accepted Submissions:</h2>
-  {% for src in page.src %}
-  <div class="js-single-src single-src">
-    <div class="js-filename-code filename-code" value="{{ src }}">
-      {{ src }}
+        <div class="js-area-code area-code">
+          <pre><code class="js-source-code"></code></pre>
+        </div>
+      </div>
+      {% endfor %} {% endif %} {% include fb-like.html %}
+      <!--facebook comment-->
+      <hr />
+      Liên hệ
+      <a href="//facebook.com/ngocdanh0508">facebook.com/ngocdanh0508</a> khi
+      cần trao đổi, thắc mắc.
+      <hr />
+      <h4>Bình luận</h4>
+      {% include fb-comments.html %}
     </div>
-    <div class="btn-toolbar-code">
-      <button class="js-toggle-code btn btn-success" data-visible="1">
-        <span class="text">Hide</span>
-        <i class="fa fa-eye-slash"></i>
-      </button>
-      <a
-        href="//github.com/vnspoj/solution/blob/master/src/{{ src }}"
-        class="btn-tool"
-        target="_blank"
-      >
-        <button class="btn btn-warning">
-          View on Github <i class="fa fa-github"></i>
-        </button>
-      </a>
-      <a download href="/solution/src/{{ src }}" class="btn-tool">
-        <button class="btn btn-primary">
-          Download <i class="fa fa-download"></i>
-        </button>
-      </a>
-    </div>
 
-    <div class="js-area-code area-code">
-      <pre><code class="js-source-code"></code></pre>
+    {% assign hasSimilar = '' %} {% for post in site.posts %} {% assign
+    postHasSimilar = false %} {% for tag in post.categories %} {% for thisTag in
+    page.categories %} {% if postHasSimilar == false and hasSimilar.size < 8 and
+    post != page and tag == thisTag %} {% if hasSimilar.size == 0 %}
+    <div class="panel-body">
+      <h3>Related Posts</h3>
+      <div class="block-15"></div>
+      <ul>
+        {% endif %}
+        <li class="relatedPost">
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          <!-- {% if post.categories %} (<i>Categories:</i> {% for category in
+          post.categories %}<a href="{{ site.baseurl }}/category/{{ category }}"
+            >{{ category }}</a
+          >{% if forloop.last == false %}, {% endif %}{% endfor %}) {% endif %} -->
+        </li>
+        {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %} {% assign
+        postHasSimilar = true %} {% endif %} {% endfor %} {% endfor %} {% endfor
+        %} {% if hasSimilar.size > 0 %}
+      </ul>
     </div>
-  </div>
-  {% endfor %} {% endif %} 
-  {% include fb-like.html %}
-  <!--facebook comment-->
-<hr>
-Liên hệ <a href="//facebook.com/ngocdanh0508">facebook.com/ngocdanh0508</a> khi cần trao đổi, thắc mắc.
-<hr />
-<h4>Bình luận</h4>
-{% include fb-comments.html %}
-</div>
-
-{% assign hasSimilar = '' %} {% for post in site.posts %} {% assign
-postHasSimilar = false %} {% for tag in post.categories %} {% for thisTag in
-page.categories %} {% if postHasSimilar == false and hasSimilar.size < 8 and
-post != page and tag == thisTag %} {% if hasSimilar.size == 0 %}
-<div class="panel-body">
-  <h3>Related Posts</h3>
-  <div class="block-15"></div>
-  <ul>
     {% endif %}
-    <li class="relatedPost">
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      {% if post.categories %} (<i>Categories:</i> {% for category in
-      post.categories %}<a href="{{ site.baseurl }}/category/{{ category }}"
-        >{{ category }}</a
-      >{% if forloop.last == false %}, {% endif %}{% endfor %}) {% endif %}
-    </li>
-    {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %} {% assign
-    postHasSimilar = true %} {% endif %} {% endfor %} {% endfor %} {% endfor %}
-    {% if hasSimilar.size > 0 %}
-  </ul>
+
+    <div class="PageNavigation">
+      {% if page.previous.url %}
+      <a class="prev" href="{{ site.baseurl }}{{ page.previous.url }}"
+        >&laquo; {{ page.previous.title }}</a
+      >
+      {% endif %} {% if page.next.url %}
+      <a class="next" href="{{ site.baseurl }}{{ page.next.url }}"
+        >{{ page.next.title }} &raquo;</a
+      >
+      {% endif %}
+    </div>
+
+    <!-- Disqus Comment Plugin -->
+    <!-- {% include disqus.html %} -->
+  </div>
+  <div class="col-sm-12 col-md-3 content-right">
+    <ul>
+      <li>demo 1</li>
+      <li>demo 2</li>
+      <li>demo 3</li>
+    </ul>
+    <h3 class="title">Giới thiệu</h3>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi commodi
+      explicabo inventore hic debitis nisi praesentium incidunt, distinctio
+      consequatur in autem corrupti rerum vero? Deleniti iste officia.
+    </p>
+  </div>
 </div>
-{% endif %}
-
-<div class="PageNavigation">
-  {% if page.previous.url %}
-  <a class="prev" href="{{ site.baseurl }}{{ page.previous.url }}"
-    >&laquo; {{ page.previous.title }}</a
-  >
-  {% endif %} {% if page.next.url %}
-  <a class="next" href="{{ site.baseurl }}{{ page.next.url }}"
-    >{{ page.next.title }} &raquo;</a
-  >
-  {% endif %}
-</div>
-
-<!-- Disqus Comment Plugin -->
-<!-- {% include disqus.html %} -->
-
-
-
