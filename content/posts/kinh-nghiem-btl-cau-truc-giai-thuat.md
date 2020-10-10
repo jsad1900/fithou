@@ -27,9 +27,10 @@ Các thuật toán để quản lý đối tượng có thể chung chức năng
 Kỳ này có thay đổi so với kỳ trước khi bổ sung mục này. Nhóm 4 người thì khó chia, phần này mình không có kinh nghiệm nhiều. Mình sẽ bổ sung phần này sau.
 ### Quản lý tối thiểu 2 đối tượng
 Các bạn xem đề bài mẫu ở mục 1, đề là "Quản lý thuê phòng khách sạn". Sẽ chọn 2 đối tượng liên quan đến đề của mình được cho. Ví dụ đề trên sẽ chọn `phòng` và `khách hàng`
-### Phòng
+#### Phòng
 `mã phòng`, `số tầng`, `giá phòng`, `xếp hạng phòng` ( thường, thương gia,, tổng thống), `tình trạng`(vẫn còn/ đã cho thuê).
-### Khách hàng
+
+#### Khách hàng
 `mã khách hàng`, `tên khách hàng`, `tuổi`, `số CMND`, `số điện thoại`, `đến từ` (New York, Hà Nội, ...)
 Mọi người có thể chọn thuộc tính phù hợp với đối tượng. Không nên làm quá nhiều thuộc tính, rất mất công nhập, chỉ cần các đối tượng khác nhau > 2 thuộc tính. Nếu có nhiều đối tượng cần quản lý thì bạn làm hơn 2 đối tượng cũng được nhưng đó là không cần thiết.
 ### Tối thiểu 20 chức năng
@@ -61,13 +62,19 @@ Nhóm có rất nhiều việc để làm. Có thể kể ra như sau:
 Để chia tốt nhất các bạn nên có nhóm trưởng. Phân các thành viên các nhiệm vụ ở mỗi tuần mà giảng viên yêu cầu. Theo mình, các bạn có thể phân như sau:
 - Họp với nhau chọn các chức năng nào phù hợp. Cả 4 sẽ viết các chức năng giống nhau chỉ khác về thuật toán.
 - Có 4 thành viên theo trình độ thì thực hiện mỗi người một thuật toán: `liên kết đôi`, `liên kết đơn`, `ngăn xếp`, `hàng đợi`.
--  1 bạn code cây/đồ thị.
--  1 bạn thì trình bày file word.
+- 1 bạn code cây/đồ thị.
+- 1 bạn thì trình bày file word.
 -  2 bạn vẽ sơ đồ + chụp code test.
-
 ## 4. Tài liệu
 
 Sau đây, mình chia sẻ bài tập lớn do mình và các khóa trước làm. Các bạn tham khảo.
+
+**Bài tập lớn file Word + Code**
+[BTL_CTDL.zip](https://drive.google.com/file/d/1eEHFah4Ef91EO7GpuPqG6F_8yNwUSWyE/view?usp=sharing)
+pass giải nén: `fithou.netlify.app`
+
+**Yêu cầu BTL của cô Như**
+[yc_BTL.doc](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxxdXluaG5odTA4Nzl8Z3g6NDE0MDE5ZDZhOWU0ZjY5OQ)
 
 ## 5. Kinh nghiệm thi
 
@@ -84,7 +91,6 @@ _Thực hành_
 - Làm lại một chức năng theo yêu cầu giảng viên
 - Ví dụ chưa có sắp xếp theo họ tên thì "viết hàm sắp xếp theo họ tên"
 - Sẽ hỏi về phần đã làm trong BTL (ai nhận phần nào thì khi thi thầy hỏi phần đó)
-
 Good Luck, muốn trao đổi hãy liên hệ [](fb.com/ngocdanh0508).
 
 
