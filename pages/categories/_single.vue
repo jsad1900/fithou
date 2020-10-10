@@ -12,7 +12,7 @@
       </template>
       <template v-slot:sidebar>
         <h3 class="subtitle">
-          Tất cả chủ đề
+          Tất cả danh mục
         </h3>
         <div class="panel">
           <nuxt-link
