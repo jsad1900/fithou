@@ -7,7 +7,6 @@
     Netlify
   </footer>
 </template>
-
 <script>
 export default {
   name: 'SiteFooter'
