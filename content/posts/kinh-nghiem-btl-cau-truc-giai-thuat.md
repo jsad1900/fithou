@@ -43,22 +43,22 @@ Tuy nói rằng 20 chức năng nhưng bạn không cần phải làm 20 tính n
 - Thêm một đối tượng vào đầu danh sách
 - Thêm một đối tượng vào cuối danh sách
 
-  **Tìm kiếm** 
+**Tìm kiếm** 
   
 - Tìm và in ra `mã khách hàng`
 - Tìm và in ra khách hàng có tổng tiền `>= 2000`
 
-  **Sắp xếp**
+**Sắp xếp**
   
 - Sắp xếp theo thứ tự tăng dần `họ tên`.
 - Sắp xếp theo `giá phòng`.
 
-  **Xóa**
+**Xóa**
 
 - Xóa khách hàng có `mã` được nhập vào.
 - Xóa các khách hàng đến từ `thành phố` được nhập vào.
 
-  **Thống kê**
+**Thống kê**
 
 - Thống kê (đếm) số khách hàng đến từ `thành phố` được nhập vào.
 - In ra các phòng có giá trên `400`.
@@ -82,10 +82,13 @@ Nhóm có rất nhiều việc để làm. Có thể kể ra như sau:
 Sau đây, mình chia sẻ bài tập lớn do mình và các khóa trước làm. Các bạn tham khảo.
 
 **Bài tập lớn file Word + Code**
+
 [BTL_CTDL.zip](https://drive.google.com/file/d/1eEHFah4Ef91EO7GpuPqG6F_8yNwUSWyE/view?usp=sharing)
+
 pass giải nén: `fithou.netlify.app`
 
 **Yêu cầu BTL của cô Như**
+
 [yc_BTL.doc](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxxdXluaG5odTA4Nzl8Z3g6NDE0MDE5ZDZhOWU0ZjY5OQ)
 
 ## 5. Kinh nghiệm thi
@@ -93,6 +96,7 @@ pass giải nén: `fithou.netlify.app`
 Đây là kinh nghiệm của mình ở kỳ vừa rồi. Có thể kỳ này các bạn sẽ thi khác chút về đề. Nhưng có thể tham khảo.
 - Khi thi cả nhóm 4 người in duy nhất 1 quyển BTL, bạn nào thi trước thì nộp
 - Thi bằng laptop cá nhân, các bạn copy code + file word BTL vào máy
+
 **Đề thi bao gồm 2 phần: câu hỏi + thực hành**
 
 _Câu hỏi_ (có các dạng sau)
