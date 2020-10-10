@@ -5,13 +5,15 @@ category:
   - cấu trúc dữ liệu và giải thuật
 author: Ngọc Danh
 date: 2020-10-10T03:49:49.295Z
-featureImage: /uploads/mailchimp.jpg
+featureImage: /uploads/baiviet/kinhnghiem-ctgt.jpeg
 ---
-Cấu trúc & giải thuật là một môn quan trọng trong quá trình học tập. Các thuật toán, giải thuật được
-dùng để giải quyết các bài toán.  
-## 1. Signup with Mailchimp
+Hôm nay mình sẽ hướng dẫn các bạn làm bài tập lớn môn "Cấu trúc và giải thuật".  Môn này được đánh giá khá khó và quan trọng trong chương trình học. Khi có một nền tảng giải thuật tốt, bạn có thể giải quyết rất nhiều bài toán khó. Bắt đầu thôi nào ^^
 
-If you don't already have a mailchimp account, head on over to [mailchimp.com](https://mailchimp.com) and sign up (don't worry they have free tiers that will give you all you probably need).
+## 1. Yêu cầu từ thầy cô
+
+Ở trường, môn CT & GT được chia làm theo nhóm tối đa 4 bạn. Yêu cầu như sau:
+
+![đề bài cấu trúc giải thuật](/uploads/baiviet/kinhnghiem-ctgt-debai.jpeg)
 
 ## 2. Create a New Campaign
 

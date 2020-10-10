@@ -1,5 +1,5 @@
 ---
 name: cấu trúc dữ liệu và giải thuật
-image: /upload/ctgt.jpeg
+image: /uploads/ctgt.jpeg
 ---
 Cấu trúc + Giải thuật = Thuật toán

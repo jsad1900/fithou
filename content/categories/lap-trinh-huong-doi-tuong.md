@@ -1,5 +1,5 @@
 ---
 name: lập trình hướng đối tượng
-image: /upload/lthdt.jpeg
+image: /uploads/lthdt.jpg
 ---
 Lập trình với Java
