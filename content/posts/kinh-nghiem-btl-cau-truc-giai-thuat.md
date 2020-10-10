@@ -1,5 +1,5 @@
 ---
-title: bài tập lớn Cấu trúc & Giải thuật
+title: Kinh nghiệm BTL Cấu trúc & Giải thuật
 subtitle: Code + hướng dẫn + file BTL
 category:
   - cấu trúc dữ liệu và giải thuật
