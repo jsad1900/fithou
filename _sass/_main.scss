@@ -60,12 +60,12 @@ span {
 	}
 }
 i.fas.fa-arrow-alt-circle-down {
-    margin-left: 6px;
-    font-size: 18px;
+	margin-left: 6px;
+	font-size: 18px;
 }
 .box-header {
-    display: flex;
-    justify-content: space-between;
+	display: flex;
+	justify-content: space-between;
 	align-items: center;
 	.khoahoc {
 		text-align: center;
@@ -74,20 +74,26 @@ i.fas.fa-arrow-alt-circle-down {
 		}
 	}
 }
+.author-name {
+    font-weight: bold;
+    font-size: 36px;
+    color: blue;
+    text-align: center;
+}
 .author span {
 	color: rgb(83, 83, 83);
-		margin-bottom: 5px;
-		font-size: 14px;
+	margin-bottom: 5px;
+	font-size: 14px;
 }
 span.time {
 	margin-right: 10px;
 }
 span.categories a {
 	color: #fff;
-    padding: 5px;
-    background: #428bca;
-    border-radius: 5px;
-    margin-right: 5px;
+	padding: 5px;
+	background: #428bca;
+	border-radius: 5px;
+	margin-right: 5px;
 }
 
 h1,
@@ -139,6 +145,12 @@ a {
 		margin: 0;
 		list-style: none;
 		transition-duration: 0.3s;
+		text-align: center;
+		border: 1px solid #fff;
+		a {
+			display: inline-block;
+			padding: 5px 15px;
+		}
 		&:hover {
 			color: blue;
 		}
@@ -310,6 +322,8 @@ div.sidebar-layout {
 		font-size: 15px;
 	}
 	img.profile-avatar {
+		max-width: 100px;
+		height: auto;
 		border-radius: 10px;
 		-webkit-border-radius: 10px;
 		-moz-border-radius: 10px;
@@ -382,7 +396,6 @@ div.sidebar-layout {
 }
 
 .share-page {
-
 	padding: 15px 20px 15px;
 	> div.btn-share {
 		margin-top: 5px;
@@ -432,7 +445,8 @@ div.btn-share {
 	.ngocdanh .monhoc ul li {
 		width: 100% !important;
 	}
-	.posts span, .ngocdanh .monhoc ul li .info {
+	.posts span,
+	.ngocdanh .monhoc ul li .info {
 		display: none !important;
 	}
 	footer {
@@ -489,9 +503,10 @@ div.btn-share {
 		transform: translate(-50%, -52%);
 	}
 }
-td, th {
-    border: 1px solid;
-    padding: 5px;
+td,
+th {
+	border: 1px solid;
+	padding: 5px;
 }
 .posts {
 	padding-left: 10px;
@@ -557,7 +572,7 @@ input#js-search__input {
 .sidebar-nav {
 	text-align: left !important;
 	display: flex;
-	justify-content: space-around;
+	justify-content: flex-end;
 }
 
 // Override Bootstrap Pagination color
@@ -603,14 +618,14 @@ input#js-page-search__input {
 	color: #000;
 }
 p.small-button {
-    text-align: center;
+	text-align: center;
 }
 a.button {
-    transition: 0.3s ease;
-    background: #056bc3;
-    color: #fff;
-    border-radius: 5px;
-    padding: 7px;
+	transition: 0.3s ease;
+	background: #056bc3;
+	color: #fff;
+	border-radius: 5px;
+	padding: 7px;
 }
 a.button:hover {
 	background: #00338e;
@@ -646,10 +661,8 @@ a.carousel-button {
 }
 
 .content-left {
-
 }
 .content-right {
 	.title {
-		
 	}
 }
