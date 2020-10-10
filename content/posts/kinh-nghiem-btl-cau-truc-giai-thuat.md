@@ -32,22 +32,34 @@ Các bạn xem đề bài mẫu ở mục 1, đề là "Quản lý thuê phòng 
 
 #### Khách hàng
 `mã khách hàng`, `tên khách hàng`, `tuổi`, `số CMND`, `số điện thoại`, `đến từ` (New York, Hà Nội, ...)
+
 Mọi người có thể chọn thuộc tính phù hợp với đối tượng. Không nên làm quá nhiều thuộc tính, rất mất công nhập, chỉ cần các đối tượng khác nhau > 2 thuộc tính. Nếu có nhiều đối tượng cần quản lý thì bạn làm hơn 2 đối tượng cũng được nhưng đó là không cần thiết.
+
 ### Tối thiểu 20 chức năng
 Tuy nói rằng 20 chức năng nhưng bạn không cần phải làm 20 tính năng. Vì có 2 đối tượng cần quản lý, chúng ta sẽ viết 10 chức năng cho mỗi đối tượng. Vậy chỉ cần thay các thuộc tính ở trong là được. Nếu bạn không chọn được thì có thể tham khảo:
+
 **Thêm**
+
 - Thêm một đối tượng vào đầu danh sách
 - Thêm một đối tượng vào cuối danh sách
-**Tìm kiếm** 
+
+  **Tìm kiếm** 
+  
 - Tìm và in ra `mã khách hàng`
 - Tìm và in ra khách hàng có tổng tiền `>= 2000`
-**Sắp xếp**
+
+  **Sắp xếp**
+  
 - Sắp xếp theo thứ tự tăng dần `họ tên`.
 - Sắp xếp theo `giá phòng`.
-**Xóa**
+
+  **Xóa**
+
 - Xóa khách hàng có `mã` được nhập vào.
 - Xóa các khách hàng đến từ `thành phố` được nhập vào.
-**Thống kê**
+
+  **Thống kê**
+
 - Thống kê (đếm) số khách hàng đến từ `thành phố` được nhập vào.
 - In ra các phòng có giá trên `400`.
 
@@ -82,15 +94,19 @@ pass giải nén: `fithou.netlify.app`
 - Khi thi cả nhóm 4 người in duy nhất 1 quyển BTL, bạn nào thi trước thì nộp
 - Thi bằng laptop cá nhân, các bạn copy code + file word BTL vào máy
 **Đề thi bao gồm 2 phần: câu hỏi + thực hành**
+
 _Câu hỏi_ (có các dạng sau)
+
 - Liên kết đơn và liên kết đôi khác nhau như nào?
 - Stack chèn phần tử vào đâu? 
 - Trình bày ý tưởng xóa một phần tử bất kỳ trong liên kết đơn?
 - ...
+
 _Thực hành_
+
 - Làm lại một chức năng theo yêu cầu giảng viên
 - Ví dụ chưa có sắp xếp theo họ tên thì "viết hàm sắp xếp theo họ tên"
 - Sẽ hỏi về phần đã làm trong BTL (ai nhận phần nào thì khi thi thầy hỏi phần đó)
-Good Luck, muốn trao đổi hãy liên hệ [](fb.com/ngocdanh0508).
+Good Luck, muốn trao đổi hãy liên hệ [fb.com/ngocdanh0508](fb.com/ngocdanh0508).
 
 
