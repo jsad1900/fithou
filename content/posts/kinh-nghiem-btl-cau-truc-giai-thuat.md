@@ -5,7 +5,7 @@ category:
   - cấu trúc dữ liệu và giải thuật
 author: Ngọc Danh
 date: 2020-10-10T03:49:49.295Z
-featureImage: /uploads/baiviet/kinhnghiem-ctgt.jpeg
+featureImage: /uploads/baiviet/kinhnghiem-ctgt.jpg
 ---
 Hôm nay mình sẽ hướng dẫn các bạn làm bài tập lớn môn "Cấu trúc và giải thuật".  Môn này được đánh giá khá khó và quan trọng trong chương trình học. Khi có một nền tảng giải thuật tốt, bạn có thể giải quyết rất nhiều bài toán khó. Bắt đầu thôi nào ^^
 
@@ -13,7 +13,7 @@ Hôm nay mình sẽ hướng dẫn các bạn làm bài tập lớn môn "Cấu 
 
 Ở trường, môn CT & GT được chia làm theo nhóm tối đa 4 bạn. Yêu cầu như sau:
 
-![đề bài cấu trúc giải thuật](/uploads/baiviet/kinhnghiem-ctgt-debai.jpeg)
+![đề bài cấu trúc giải thuật](/uploads/baiviet/kinhnghiem-ctgt-debai.jpg)
 
 ## 2. Create a New Campaign
 
