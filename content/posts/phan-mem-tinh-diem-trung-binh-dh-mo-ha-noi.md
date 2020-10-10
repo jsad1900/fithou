@@ -28,7 +28,7 @@ Từ công thức tính từ đại học Mở Hà Nội, phần mềm có thể
 
 Xem video hướng dẫn chi tiết sau để tính: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rqXKmfS-spk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Phần mềm tính điểm trung bình](http://img.youtube.com/vi/rqXKmfS-spk/0.jpg)](http://www.youtube.com/watch?v=rqXKmfS-spk)
 
 ### Tải phần mềm.
 
