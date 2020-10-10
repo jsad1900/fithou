@@ -1,5 +1,6 @@
 ---
-title: Comments Support
+---
+title: Commentsx Support
 subtitle: Add Comments to Posts With Disqus
 category:
   - Third Party Integrations
