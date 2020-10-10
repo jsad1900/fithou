@@ -1,10 +1,5 @@
-# Jekyll
-_site*
-.sass-cache
-.jekyll-metadata
-*backup/
-
-# Node.JS
+# Created by .ignore support plugin (hsz.mobi)
+### Node template
 # Logs
 logs
 *.log
@@ -73,10 +68,25 @@ typings/
 # nuxt.js build output
 .nuxt
 
+# Nuxt generate
+dist
+
 # vuepress build output
 .vuepress/dist
 
 # Serverless directories
 .serverless
 
+# IDE / Editor
+.idea
+.editorconfig
+
+# Service worker
+sw.*
+
+# Mac OSX
 .DS_Store
+
+#Awake CMS
+static/api
+static/admin
