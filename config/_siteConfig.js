@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'FITHOU Notes',
+  tagline: 'Chia sẻ kinh nghiệm học tại khoa CNTT - ĐH Mở Hà Nội',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -19,26 +19,24 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
+      name: 'Giới thiệu',
       link: '/about'
     },
     {
-      name: 'Contact',
-      link: '/contact'
+      name: 'Bài tập lớn',
+      link: '/baitaplon'
     },
     {
-      name: 'Categories',
+      name: 'Danh mục',
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
+      name: 'Tài liệu',
+      link: '/tailieu'
     },
     {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
+      name: 'Liên hệ',
+      link: '/contact'
     }
   ],
   hero: {

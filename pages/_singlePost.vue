@@ -5,10 +5,10 @@
         v-if="author && $siteConfig.posts.displayAuthor"
         class="author-wrapper"
       >
-        <strong>Author:</strong> {{ author }}
+        <strong>Tác giả:</strong> {{ author }}
       </span>
       <span v-if="date" class="date-wrapper">
-        <strong>Published on:</strong> {{ date }}
+        <strong>Đăng lúc:</strong> {{ date }}
       </span>
     </site-hero>
     <main-section :one-column-constrained="true">
@@ -17,7 +17,7 @@
           <markdown :markdown="$store.state.content" />
           <div class="other-posts">
             <h6 class="subtitle is-size-4">
-              Related Posts
+              Bài đăng khác
             </h6>
             <!-- Related Posts -->
             <posts-grid :number="3" :category="category" :exclude="slug" />

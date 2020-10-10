@@ -27,10 +27,10 @@ Các thuật toán để quản lý đối tượng có thể chung chức năng
 Kỳ này có thay đổi so với kỳ trước khi bổ sung mục này. Nhóm 4 người thì khó chia, phần này mình không có kinh nghiệm nhiều. Mình sẽ bổ sung phần này sau.
 ### Quản lý tối thiểu 2 đối tượng
 Các bạn xem đề bài mẫu ở mục 1, đề là "Quản lý thuê phòng khách sạn". Sẽ chọn 2 đối tượng liên quan đến đề của mình được cho. Ví dụ đề trên sẽ chọn `phòng` và `khách hàng`
-#### Phòng
+  #### Phòng
 `mã phòng`, `số tầng`, `giá phòng`, `xếp hạng phòng` ( thường, thương gia,, tổng thống), `tình trạng`(vẫn còn/ đã cho thuê).
 
-#### Khách hàng
+  #### Khách hàng
 `mã khách hàng`, `tên khách hàng`, `tuổi`, `số CMND`, `số điện thoại`, `đến từ` (New York, Hà Nội, ...)
 
 Mọi người có thể chọn thuộc tính phù hợp với đối tượng. Không nên làm quá nhiều thuộc tính, rất mất công nhập, chỉ cần các đối tượng khác nhau > 2 thuộc tính. Nếu có nhiều đối tượng cần quản lý thì bạn làm hơn 2 đối tượng cũng được nhưng đó là không cần thiết.
@@ -111,6 +111,6 @@ _Thực hành_
 - Làm lại một chức năng theo yêu cầu giảng viên
 - Ví dụ chưa có sắp xếp theo họ tên thì "viết hàm sắp xếp theo họ tên"
 - Sẽ hỏi về phần đã làm trong BTL (ai nhận phần nào thì khi thi thầy hỏi phần đó)
-Good Luck, muốn trao đổi hãy liên hệ [fb.com/ngocdanh0508](fb.com/ngocdanh0508).
+Good Luck, muốn trao đổi hãy liên hệ [fb.com/ngocdanh0508](https://facebook.com/ngocdanh0508).
 
 
