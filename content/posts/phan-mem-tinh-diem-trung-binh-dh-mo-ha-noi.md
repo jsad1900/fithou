@@ -26,9 +26,7 @@ Từ công thức tính từ đại học Mở Hà Nội, phần mềm có thể
 
 ### Hướng dẫn sử dụng 
 
-Xem video hướng dẫn chi tiết sau để tính: 
-
-[![](http://img.youtube.com/vi/rqXKmfS-spk/0.jpg)](http://www.youtube.com/watch?v=rqXKmfS-spk "")
+Xem video hướng dẫn chi tiết sau để tính: [http://www.youtube.com/watch?v=rqXKmfS-spk](http://www.youtube.com/watch?v=rqXKmfS-spk)
 
 ### Tải phần mềm.
 
