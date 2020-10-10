@@ -26,13 +26,15 @@ Từ công thức tính từ đại học Mở Hà Nội, phần mềm có thể
 
 ### Hướng dẫn sử dụng 
 
-### 
-
 Xem video hướng dẫn chi tiết sau để tính: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rqXKmfS-spk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Tải phần mềm.
 
-Để lại email dưới bình luận để nhận!
+[https://bit.ly/2ZjLUzC](https://bit.ly/2ZjLUzC)
+
+pass: `blog.ndanh.com`
 
 ### Phản hồi 
 
