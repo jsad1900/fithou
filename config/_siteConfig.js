@@ -12,7 +12,7 @@ export default {
   siteName: 'FITHOU Notes',
   tagline: 'Chia sẻ kinh nghiệm học tại khoa CNTT - ĐH Mở Hà Nội',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
@@ -65,8 +65,8 @@ export default {
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'Subscribe to Our Newsletter',
-    btnText: 'Subscribe',
+    heading: 'Đăng ký nhận bài viết mới',
+    btnText: 'Đăng ký',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
