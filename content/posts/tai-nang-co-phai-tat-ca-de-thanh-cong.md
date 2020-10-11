@@ -1,6 +1,6 @@
 ---
 title: Tài năng có phải tất cả để thành công
-subtitle: Nguồn: QuoraVN
+subtitle: Nguồn QuoraVN
 category:
   - QuoraVN
 author: Sưu Tầm
