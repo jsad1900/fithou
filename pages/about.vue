@@ -10,9 +10,8 @@
         <div class="content">
           <h2>Giới thiệu trang web</h2>
           <p>
-            Trang web là dự án tổng hợp lại quá trình học tập của
-            <code>Ngọc Danh</code> tại khoa công nghệ thông tin đại học Mở Hà
-            Nội.
+            Trang web là dự án tổng hợp lại quá trình học tập tại khoa công nghệ
+            thông tin đại học Mở Hà Nội.
           </p>
           <p>
             Tổng hợp bài thực hành, bài tập lớn, kinh nghiệm học tập,... Dù đã

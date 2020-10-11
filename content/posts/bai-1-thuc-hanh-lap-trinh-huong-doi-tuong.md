@@ -1,5 +1,5 @@
 ---
-title: Bài 21 - thực hành lập trình hướng đối tượng
+title: Bài 1 - thực hành lập trình hướng đối tượng
 subtitle: bài tập về mảng trong java
 category:
   - thực hành lập trình hướng đối tượng

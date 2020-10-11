@@ -33,10 +33,6 @@ export default {
     {
       name: 'Tài liệu',
       link: '/tailieu'
-    },
-    {
-      name: 'Liên hệ',
-      link: '/contact'
     }
   ],
   hero: {
