@@ -8,80 +8,53 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h2>Giới thiệu trang web</h2>
           <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
+            Trang web là dự án tổng hợp lại quá trình học tập của
+            <code>Ngọc Danh</code> tại khoa công nghệ thông tin đại học Mở Hà
+            Nội.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Tổng hợp bài thực hành, bài tập lớn, kinh nghiệm học tập,... Dù đã
+            cố gắng nhưng sẽ không tránh khỏi một số lỗi. Nếu thấy bài viết
+            thiếu sót hãy báo lại để sửa chữa.
+          </p>
+          <p>
+            Chia sẻ là kết nối, mỗi ngày trôi qua có những điều mới mẻ trong
+            cuộc sống.
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h2>Đóng góp bài viết</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Tôi quá nhỏ bé để chia sẻ hết được và cũng không giỏi trong nhiều
+            môn khác.
           </p>
-          <quote-card />
-          <h3>Still More Fake Content</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
+            Nếu bạn muốn viết các chủ đề trong trang web, hoàn toàn dễ dàng. Tên
+            của bạn sẽ hiện ở bài viết, sự đóng góp của bạn sẽ được mọi người
+            ghi nhận. Nhắn cho tôi trong phần liên hệ để thêm bài viết của bạn
+            :D
           </p>
-        </div>
 
-        <div class="tile is-ancestor">
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Cool Stuff We Do
-              </p>
-              <p class="subtitle">
-                Sooo Cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Other Cool Things
-              </p>
-              <p class="subtitle">
-                Just as cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                All the cool
-              </p>
-              <p class="subtitle">
-                that is all
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
+          <h2>Liên hệ</h2>
+          <p>
+            - Email:
+            <a href="mailto:ngocdanh.fithou@gmail.com" target="_blank">
+              ngocdanh.fithou@gmail.com</a
+            >
+          </p>
+          <p>
+            - Facebook:
+            <a href="https://www.facebook.com/ngocdanh0508" target="_blank">
+              https://facebook.com/ngocdanh0508</a
+            >
+          </p>
+          <p>
+            - Telegram:
+            <a href="https://www.t.me/ngocdanh0508">
+              https://t.me/ngocdanh0508</a
+            >
+          </p>
         </div>
       </template>
 
@@ -95,13 +68,11 @@
   </div>
 </template>
 <script>
-import QuoteCard from '~/components/cards/QuoteCard'
 export default {
   head() {
     return {
       title: `About | ${this.$siteConfig.siteName}`
     }
-  },
-  components: { QuoteCard }
+  }
 }
 </script>
