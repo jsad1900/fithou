@@ -29,6 +29,7 @@
         <post-sidebar />
       </template>
     </main-section>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.4.0/clipboard.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/prism.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/components/prism-cpp.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/components/prism-c.min.js"></script>
