@@ -24,11 +24,9 @@ featureImage: /uploads/getting-started-hero.jpg
 
 [![](https://1.bp.blogspot.com/-TdepDGTAz64/Xje9vTxeW7I/AAAAAAAAcfM/JKpEkslucw83XyWRvjQqoK1O-fVRsFFFQCLcBGAsYHQ/s400/23.png)](https://1.bp.blogspot.com/-TdepDGTAz64/Xje9vTxeW7I/AAAAAAAAcfM/JKpEkslucw83XyWRvjQqoK1O-fVRsFFFQCLcBGAsYHQ/s1600/23.png)
 
-> Bài viết nằm trong: [Series thực hành cơ sở lập trình](https://ndanh1.blogspot.com/search/label/th%E1%BB%B1c%20h%C3%A0nh%20l%E1%BA%ADp%20tr%C3%ACnh%20c%C6%A1%20s%E1%BB%9F?max-results=7)
-
 ### Code: 
 
-```
+```C
 #include <iostream>
 #include <iomanip>
 using namespace std;

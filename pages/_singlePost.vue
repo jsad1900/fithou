@@ -29,6 +29,7 @@
         <post-sidebar />
       </template>
     </main-section>
+    <script src="../assets/js/prism.js"></script>
   </div>
 </template>
 <script>
