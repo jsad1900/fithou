@@ -1,5 +1,5 @@
 ---
-name: kỹ thuật lập trình cơ sở
+name: thực hành lập trình cơ sở
 image: /uploads/ctgt.jpeg
 ---
-Bắt đầu học lập trình với ngôn ngữ C/C++
+code/hướng dẫn thực hành lập trình với ngôn ngữ C/C++

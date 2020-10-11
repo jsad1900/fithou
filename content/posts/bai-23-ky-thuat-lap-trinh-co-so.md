@@ -2,7 +2,7 @@
 title: Bài 23 - Kỹ thuật lập trình cơ sở
 subtitle: Bài tập mảng 2 chiều C/C++
 category:
-  - kỹ thuật lập trình cơ sở
+  - thực hành lập trình cơ sở
 author: Ngọc Danh
 date: 2020-09-11T19:59:59.000Z
 featureImage: /uploads/getting-started-hero.jpg
@@ -22,7 +22,7 @@ featureImage: /uploads/getting-started-hero.jpg
 > 
 > *   sắp xếp các phần tử ma trận giảm dần theo từng cột và hiển thị ra ma trận mới
 
-[![](https://1.bp.blogspot.com/-TdepDGTAz64/Xje9vTxeW7I/AAAAAAAAcfM/JKpEkslucw83XyWRvjQqoK1O-fVRsFFFQCLcBGAsYHQ/s400/23.png)](https://1.bp.blogspot.com/-TdepDGTAz64/Xje9vTxeW7I/AAAAAAAAcfM/JKpEkslucw83XyWRvjQqoK1O-fVRsFFFQCLcBGAsYHQ/s1600/23.png)
+---
 
 ### Code: 
 
