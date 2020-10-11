@@ -1,56 +1,39 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact Us"
-      subtitle="Example Contact Page"
+      title="Bài tập lớn"
+      subtitle="Tổng hợp bài tập lớn gồm file word + code"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
-        <div class="tile is-ancestor">
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Bài tập lớn
-              </p>
-              <p class="subtitle">
-                What can I do for you?
-              </p>
-              <figure class="image is-1by1 ">
-                <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
-                  :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
-                  "
-                />
-              </figure>
-              <br />
-              <div class="content">
-                <p>
-                  <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
-                  </strong>
-                </p>
-                <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
-                </p>
+        <div class="manager-box">
+          <div class="tile is-child box">
+            <h1 class="title-box">
+              Kỹ thuật lập trình cơ sở
+            </h1>
+            <hr />
+            <div class="content">
+              <div>
+                <h3>
+                  Tài liệu:
+                </h3>
               </div>
-            </article>
+              <p>Bài tập lớn word:</p>
+              <a href="#">BTL_word.zip</a>
+            </div>
           </div>
-          <div class="tile is-parent is-8">
-            <article class="tile is-child box">
-              <contact-form />
-            </article>
+          <div class="tile is-child box">
+            <h1>Lập trình hướng đối tượng</h1>
+          </div>
+          <div class="tile is-child box">
+            <h1>Cấu trúc dữ liệu và giải thuật</h1>
           </div>
         </div>
       </template>
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
-          Latest Posts
+          Bài viết mới nhất
         </h3>
         <!-- Latest Posts -->
         <posts-grid :per-row="1" :number="2" />
@@ -59,13 +42,11 @@
   </div>
 </template>
 <script>
-import ContactForm from '~/components/ContactForm'
 export default {
   head() {
     return {
       title: `Contact | ${this.$siteConfig.siteName}`
     }
-  },
-  components: { ContactForm }
+  }
 }
 </script>
