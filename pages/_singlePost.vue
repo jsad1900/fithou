@@ -29,7 +29,7 @@
         <post-sidebar />
       </template>
     </main-section>
-    <script src="hhttps://cdn.jsdelivr.net/npm/prismjs@1.22.0/prism.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/prism.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/components.js"></script>
   </div>
 </template>
