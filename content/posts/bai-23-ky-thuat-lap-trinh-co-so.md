@@ -5,7 +5,7 @@ category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
 date: 2020-09-11T19:59:59.000Z
-featureImage: /uploads/getting-started-hero.jpg
+featureImage: /uploads/baiviet/cpp.png
 ---
 
 > Bài 23, Viết chương trình thực hiện:  

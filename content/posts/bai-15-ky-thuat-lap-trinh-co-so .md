@@ -1,11 +1,11 @@
 ---
-title: Bài 23 - thực hành lập trình cơ sở
-subtitle: Bài tập mảng 2 chiều C/C++
+title: Bài 15 - thực hành lập trình cơ sở
+subtitle: Kiểm tra số chính phương
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
 date: 2020-09-03T19:59:59.000Z
-featureImage: /uploads/getting-started-hero.jpg
+featureImage: /uploads/baiviet/cpp.png
 ---
 
 > Bài 15, Số chính phương hay gọi là số hình vuông, là số tự nhiên có căn bậc 2 là số nguyên. Hãy viêt CT nhập vào các số nguyên đến khi gặp 0 thì dừng.
@@ -15,9 +15,9 @@ featureImage: /uploads/getting-started-hero.jpg
 
 > Số chính phương là số có căn bậc 2 là số nguyên.  
 > 
-> > VD khi căn 4 sẽ ra 2 => 4 là số chính phương.  
-> > Ở đây tôi sẽ khai căn một số n được nhập vào, kiểm tra nếu kết quả đó là số nguyên thì số đó là số chính phương:  
-> >  Sử dụng biểu thức if(sqrt(n) - (floorf)(sqrt(n)) == 0), giải nghĩa là căn bậc 2 số đó, kiểm tra xem số đó có bằng số đó khi được làm tròn xuống hay không? Bằng nhau tức là số được khai căn là số nguyên.
+> - VD khi căn 4 sẽ ra 2 => 4 là số chính phương.  
+> - Ở đây tôi sẽ khai căn một số n được nhập vào, kiểm tra nếu kết quả đó là số nguyên thì số đó là số chính phương:  
+> -  Sử dụng biểu thức if(sqrt(n) - (floorf)(sqrt(n)) == 0), giải nghĩa là căn bậc 2 số đó, kiểm tra xem số đó có bằng số đó khi được làm tròn xuống hay không? Bằng nhau tức là số được khai căn là số nguyên.
 
 ### Code:
 
