@@ -10,7 +10,7 @@ export default {
     }
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/flaticon.png' }],
-  link: [{ rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/prismjs@1.22.0/themes/prism.css' }],
+  link: [{ rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/prismjs@1.22.0/themes/prism-tomorrow.css' }],
   script: [
     {
       src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
