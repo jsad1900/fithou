@@ -26,7 +26,7 @@ featureImage: /uploads/getting-started-hero.jpg
 
 ### Code: 
 
-```javascript
+```cpp
 #include <iostream>
 #include <iomanip>
 using namespace std;
