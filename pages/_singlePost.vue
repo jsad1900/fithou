@@ -31,6 +31,8 @@
     </main-section>
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/prism.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/components.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/plugins/show-language/prism-show-language.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/plugins/copy-to-clipboard/prism-copy-to-clipboard.min.js"></script>
   </div>
 </template>
 <script>
