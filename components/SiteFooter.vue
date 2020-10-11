@@ -8,7 +8,12 @@
   </footer>
 </template>
 <script>
+import Prism from 'prismjs'
+import 'prismjs/themes/prism.css'
 export default {
+  mounted() {
+    Prism.highlightAll()
+  }
   name: 'SiteFooter'
 }
 </script>

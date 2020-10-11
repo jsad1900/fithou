@@ -10,15 +10,15 @@ featureImage: /uploads/baiviet/success.jpg
 
 Q: Có phải thực sự là top 1% học sinh dẫn đầu chủ yếu dựa vào cả tài năng lẫn khổ luyện để giữ vững vị trí đó không?  
 
-bài dịch QRVN: [https://www.facebook.com/notes/qrvn/2589708547928932/](“https://www.facebook.com/notes/qrvn/tài-năng-và-khổ-luyện-có-phải-là-tất-cả-để-trở-thành-1-học-sinh-xuất-chúng-hay-k/2589708547928932/”)  
-Link gốc: [https://qr.ae/TDLiI4](“https://l.facebook.com/l.php?u=https%3A%2F%2Fqr.ae%2FTDLiI4%3Ffbclid%3DIwAR2isdM8-hdtLBxWAU9c608kGnMqshLz0rBj9gGzWOk1F80W0DrwFWWQH5Y&h=AT01fxtrmVdg3boX7M9v-H9ro6cKpVYghvoGIV15grPv82tksojL9AryCpTK2L8NLGDRu4j-EuSG1zs1zEqprb_T6OVZE-V_uVyAhv-b-YvRUHZPq5OUhg6oh95keGBPEtQwfg”)  
-A: [Chier Hu](“https://www.quora.com/profile/Chier-Hu?fbclid=IwAR18lp-LMWcpayWOLfP93_xuSOgcUy4ECOla7OOwoa6TclTMODnAKUOqsy8”), I was a top student in mainland China  
+bài dịch QRVN: [https://www.facebook.com/notes/qrvn/2589708547928932/](https://www.facebook.com/notes/qrvn/tài-năng-và-khổ-luyện-có-phải-là-tất-cả-để-trở-thành-1-học-sinh-xuất-chúng-hay-k/2589708547928932/)  
+Link gốc: [https://qr.ae/TDLiI4](https://l.facebook.com/l.php?u=https%3A%2F%2Fqr.ae%2FTDLiI4%3Ffbclid%3DIwAR2isdM8-hdtLBxWAU9c608kGnMqshLz0rBj9gGzWOk1F80W0DrwFWWQH5Y&h=AT01fxtrmVdg3boX7M9v-H9ro6cKpVYghvoGIV15grPv82tksojL9AryCpTK2L8NLGDRu4j-EuSG1zs1zEqprb_T6OVZE-V_uVyAhv-b-YvRUHZPq5OUhg6oh95keGBPEtQwfg)  
+A: [Chier Hu](https://www.quora.com/profile/Chier-Hu?fbclid=IwAR18lp-LMWcpayWOLfP93_xuSOgcUy4ECOla7OOwoa6TclTMODnAKUOqsy8), I was a top student in mainland China  
 Là 1 trong những học sinh đỉnh nhất Đại Lục, tôi có thừa tư cách để trả lời câu hỏi này. Câu trả lời của tôi là vị trí của những học sinh hàng đầu không dựa vào cả năng khiếu lẫn nỗ lực gì hết.  
 Nếu như bạn thành tâm muốn biết, thì thứ đóng vai trò quan trọng nhất chính là thói quen suy nghĩ, nó được hình thành 1 cách vô thức bởi các yếu tố ngoại cảnh như môi trường phát triển, tầng lớp xuất thân, tài nguyên giáo dục, vv…trong ít nhất 10 năm.  
   
 Rất nhiều người có 1 suy nghĩ sai lầm về việc học như hình ở dưới  
 
-[![](“https://4.bp.blogspot.com/-Cm-tcQoggIM/XrOQpW8ZI6I/AAAAAAAAfAw/yPmLNoB2lB0ht5egslo-pf9060zwKd_pQCK4BGAYYCw/s320/86671197_1310108979199447_6040787543803297792_n.jpg”)](“http://4.bp.blogspot.com/-Cm-tcQoggIM/XrOQpW8ZI6I/AAAAAAAAfAw/yPmLNoB2lB0ht5egslo-pf9060zwKd_pQCK4BGAYYCw/s1600/86671197_1310108979199447_6040787543803297792_n.jpg”)
+[![](https://4.bp.blogspot.com/-Cm-tcQoggIM/XrOQpW8ZI6I/AAAAAAAAfAw/yPmLNoB2lB0ht5egslo-pf9060zwKd_pQCK4BGAYYCw/s320/86671197_1310108979199447_6040787543803297792_n.jpg)](“http://4.bp.blogspot.com/-Cm-tcQoggIM/XrOQpW8ZI6I/AAAAAAAAfAw/yPmLNoB2lB0ht5egslo-pf9060zwKd_pQCK4BGAYYCw/s1600/86671197_1310108979199447_6040787543803297792_n.jpg)
 
 Lũ thiên tài ngồi nghịch điện thoại và ngủ trong lớp học mỗi ngày, sau đó về nhà cày game tới sáng… sát ngày thi chúng nó lôi sách ra đọc thử trong đó có gì; cuối cùng chúng nó đạt điểm A… Xuất sắc!  
 Lũ “đầu đất” thì ngồi lắng nghe chăm chú hàng ngày, cày bài tập về nhà tới sáng… càng gần kỳ thi chúng nó càng ngủ ít đi; cuối cùng chúng nó ăn điểm F…Quá kém cỏi!  
@@ -36,7 +36,7 @@ Chúng ta quá đề cao chỉ số IQ, trong khi thứ thực sự đóng vai t
   
 Nếu xem học tập hiệu quả như 1 hàm đa biến thì “tài năng, nỗ lực, thói quen, phương pháp, môi trường và nhiều thứ khác nữa" chính là các biến số, trong nội dung giới hạn của câu hỏi chúng ta chỉ lấy ra 2 biến số là “tài năng” và “thói quen” để đem ra so sánh thì sẽ được 1 bảng phân bố như hình sau:  
 
-[![](“https://4.bp.blogspot.com/-QBfc871yNyk/XrOQrgjExiI/AAAAAAAAfA4/xiUHE7ueQhcccGz0cii4bP8R1Yq8o4KswCK4BGAYYCw/s320/86648298_1310109169199428_560979624289370112_n.jpg”)](“http://4.bp.blogspot.com/-QBfc871yNyk/XrOQrgjExiI/AAAAAAAAfA4/xiUHE7ueQhcccGz0cii4bP8R1Yq8o4KswCK4BGAYYCw/s1600/86648298_1310109169199428_560979624289370112_n.jpg”)
+[![](https://4.bp.blogspot.com/-QBfc871yNyk/XrOQrgjExiI/AAAAAAAAfA4/xiUHE7ueQhcccGz0cii4bP8R1Yq8o4KswCK4BGAYYCw/s320/86648298_1310109169199428_560979624289370112_n.jpg)](“http://4.bp.blogspot.com/-QBfc871yNyk/XrOQrgjExiI/AAAAAAAAfA4/xiUHE7ueQhcccGz0cii4bP8R1Yq8o4KswCK4BGAYYCw/s1600/86648298_1310109169199428_560979624289370112_n.jpg)
 
   
 · 31.54% màu đen: Đóng góp của tài năng bẩm sinh  
@@ -49,11 +49,11 @@ Nếu xem học tập hiệu quả như 1 hàm đa biến thì “tài năng, n�
   
 Chúng ta càng đào sâu vào cốt lõi của việc học để có nhận thức sâu sắc hơn về nó, chúng ta càng tìm ra được nhiều nhân tố ngoại cảnh có thể hỗ trợ bản thân, nhờ đó đẩy được giới hạn của bản thân ra xa hơn từng chút từng chút một và giảm bớt sự phụ thuộc vào tài năng bẩm sinh  
 
-[![](“https://2.bp.blogspot.com/-ltnN1n81wbk/XrOQuUIHfMI/AAAAAAAAfBA/iVx474hmRa0Bt3vYyERYbRUmk6yFoubHwCK4BGAYYCw/s320/87278601_1310109345866077_6372165547957682176_n.jpg”)](“http://2.bp.blogspot.com/-ltnN1n81wbk/XrOQuUIHfMI/AAAAAAAAfBA/iVx474hmRa0Bt3vYyERYbRUmk6yFoubHwCK4BGAYYCw/s1600/87278601_1310109345866077_6372165547957682176_n.jpg”)
+[![](https://2.bp.blogspot.com/-ltnN1n81wbk/XrOQuUIHfMI/AAAAAAAAfBA/iVx474hmRa0Bt3vYyERYbRUmk6yFoubHwCK4BGAYYCw/s320/87278601_1310109345866077_6372165547957682176_n.jpg)](“http://2.bp.blogspot.com/-ltnN1n81wbk/XrOQuUIHfMI/AAAAAAAAfBA/iVx474hmRa0Bt3vYyERYbRUmk6yFoubHwCK4BGAYYCw/s1600/87278601_1310109345866077_6372165547957682176_n.jpg)
 
 Trái lại, càng nhận thức mù mờ về việc học, càng không thể tự suy được tại sao mình chưa học hiệu quả để từ đó tìm ra phương pháp học tập hiệu quả hơn. Do đó nhiều người thường quy chụp cho sự trì trệ của mình là do thiếu “tài năng thiên bẩm", qua đó càng thêm dựa dẫm vào nó hơn và luôn bị quanh quẩn trong giới hạn của mình.  
 
-[![](“https://4.bp.blogspot.com/-8z1koA9Kd8w/XrOQwz6T0BI/AAAAAAAAfBI/sGy9ruj4dT0_u8N9hjvWajOwOxK75PkEACK4BGAYYCw/s320/85249690_1310109482532730_2935269414175506432_n.jpg”)](“http://4.bp.blogspot.com/-8z1koA9Kd8w/XrOQwz6T0BI/AAAAAAAAfBI/sGy9ruj4dT0_u8N9hjvWajOwOxK75PkEACK4BGAYYCw/s1600/85249690_1310109482532730_2935269414175506432_n.jpg”)
+[![](https://4.bp.blogspot.com/-8z1koA9Kd8w/XrOQwz6T0BI/AAAAAAAAfBI/sGy9ruj4dT0_u8N9hjvWajOwOxK75PkEACK4BGAYYCw/s320/85249690_1310109482532730_2935269414175506432_n.jpg)](“http://4.bp.blogspot.com/-8z1koA9Kd8w/XrOQwz6T0BI/AAAAAAAAfBI/sGy9ruj4dT0_u8N9hjvWajOwOxK75PkEACK4BGAYYCw/s1600/85249690_1310109482532730_2935269414175506432_n.jpg)
 
 Trong thực tế, thứ được gọi là “tài năng thiên bẩm" (giúp cho những “thiên tài" đạt được kết quả tốt hơn với nỗ lực ít hơn) có thể được chia thành 2 loại:  
 Thói quen học tập  
@@ -88,7 +88,7 @@ Khi chúng ta chấp nhận một kinh nghiệm hoặc lý thuyết mới, chún
 Tôi sẽ đưa ra 1 ví dụ về việc kết nối và tận dụng kinh nghiệm, khi chúng ta nhìn thấy 1 miếng gỗ phẳng được đặt lên nhiều thanh gỗ dựng đứng, ngay lập tức trong đầu sẽ nảy ra ngay 1 “cái ghế” bởi vì hình dáng của cái thứ này làm chúng ta nghĩ ngay đến từ “cái ghế”. Cho dù trước mặt không có 1 cái ghế nào thì “khuôn mẫu nhận thức” sẽ báo hiệu ngay 1 thứ có những đặc điểm và công năng tương đồng với vật dụng trước mặt chính là “cái ghế” hoặc những thứ tương tự như vậy.  
   
 
-[![](“https://1.bp.blogspot.com/-llPh96x_4ko/XuPII1MfqXI/AAAAAAAAgmE/tLXbfx9x1LAOAq6PF4L99cH2mDaEfZ8yACK4BGAsYHg/d/1.jpg”)](“https://1.bp.blogspot.com/-llPh96x_4ko/XuPII1MfqXI/AAAAAAAAgmE/tLXbfx9x1LAOAq6PF4L99cH2mDaEfZ8yACK4BGAsYHg/s120/1.jpg”)
+[![](https://1.bp.blogspot.com/-llPh96x_4ko/XuPII1MfqXI/AAAAAAAAgmE/tLXbfx9x1LAOAq6PF4L99cH2mDaEfZ8yACK4BGAsYHg/d/1.jpg)](https://1.bp.blogspot.com/-llPh96x_4ko/XuPII1MfqXI/AAAAAAAAgmE/tLXbfx9x1LAOAq6PF4L99cH2mDaEfZ8yACK4BGAsYHg/s120/1.jpg)
 
   
 
@@ -98,30 +98,30 @@ Tôi sẽ đưa ra 1 ví dụ về việc kết nối và tận dụng kinh nghi
 Ví dụ bộ não của 1 người ít tích lũy kinh nghiệm học thuật.  
   
 
-[![](“https://1.bp.blogspot.com/-PxtiVnjz6Nk/XuPINCsRBPI/AAAAAAAAgmQ/opwUpPAwbo0w91H-eKm9-bPzwLZ2Zv00gCK4BGAsYHg/s320/2.jpg”)](“https://1.bp.blogspot.com/-PxtiVnjz6Nk/XuPINCsRBPI/AAAAAAAAgmQ/opwUpPAwbo0w91H-eKm9-bPzwLZ2Zv00gCK4BGAsYHg/s600/2.jpg”)
+[![](https://1.bp.blogspot.com/-PxtiVnjz6Nk/XuPINCsRBPI/AAAAAAAAgmQ/opwUpPAwbo0w91H-eKm9-bPzwLZ2Zv00gCK4BGAsYHg/s320/2.jpg)](https://1.bp.blogspot.com/-PxtiVnjz6Nk/XuPINCsRBPI/AAAAAAAAgmQ/opwUpPAwbo0w91H-eKm9-bPzwLZ2Zv00gCK4BGAsYHg/s600/2.jpg)
 
   
 
 Khi bắt gặp 1 thứ gì đó mới mẻ, người đó sẽ khó tìm được mối liên kết tương đồng với những kiến thức có sẵn.  
 
-[![](“https://1.bp.blogspot.com/-E-2Mqsba3b8/XuPIQ6xRBHI/AAAAAAAAgmc/v8mD8GZBDYMh4--MIU3UIEG0p0yL4L6aQCK4BGAsYHg/s320/3.jpg”)](“https://1.bp.blogspot.com/-E-2Mqsba3b8/XuPIQ6xRBHI/AAAAAAAAgmc/v8mD8GZBDYMh4--MIU3UIEG0p0yL4L6aQCK4BGAsYHg/s557/3.jpg”)
+[![](https://1.bp.blogspot.com/-E-2Mqsba3b8/XuPIQ6xRBHI/AAAAAAAAgmc/v8mD8GZBDYMh4--MIU3UIEG0p0yL4L6aQCK4BGAsYHg/s320/3.jpg)](https://1.bp.blogspot.com/-E-2Mqsba3b8/XuPIQ6xRBHI/AAAAAAAAgmc/v8mD8GZBDYMh4--MIU3UIEG0p0yL4L6aQCK4BGAsYHg/s557/3.jpg)
 
 Nhưng nếu anh ta đã tích lũy kiến thức nhiều hơn, đủ sâu và rộng.  
 
-[![](“https://1.bp.blogspot.com/-S7C50Eix044/XuPIduO-3bI/AAAAAAAAgm0/bsi9umGJwS4R53xtA4oQnrrZBPmGX5kLwCK4BGAsYHg/s320/4.jpg”)](“https://1.bp.blogspot.com/-S7C50Eix044/XuPIduO-3bI/AAAAAAAAgm0/bsi9umGJwS4R53xtA4oQnrrZBPmGX5kLwCK4BGAsYHg/s557/4.jpg”)
+[![](https://1.bp.blogspot.com/-S7C50Eix044/XuPIduO-3bI/AAAAAAAAgm0/bsi9umGJwS4R53xtA4oQnrrZBPmGX5kLwCK4BGAsYHg/s320/4.jpg)](https://1.bp.blogspot.com/-S7C50Eix044/XuPIduO-3bI/AAAAAAAAgm0/bsi9umGJwS4R53xtA4oQnrrZBPmGX5kLwCK4BGAsYHg/s557/4.jpg)
 
   
 
 Khả năng để anh ta tìm ra được mối liên kết với kinh nghiệm hiện có sẽ tăng lên rất nhiều, người này đã bắt đầu có sự nhạy cảm để kết nối những kiến thức mới với những thứ quen thuộc trong đầu.  
 
-[![](“https://1.bp.blogspot.com/-Iw9uLtdhLWA/XuPIhbVtQ8I/AAAAAAAAgnE/SAYIv992qtAGi7JxQzzNP8m2sohGYDpDQCK4BGAsYHg/s320/5.jpg”)](“https://1.bp.blogspot.com/-Iw9uLtdhLWA/XuPIhbVtQ8I/AAAAAAAAgnE/SAYIv992qtAGi7JxQzzNP8m2sohGYDpDQCK4BGAsYHg/s557/5.jpg”)
+[![](https://1.bp.blogspot.com/-Iw9uLtdhLWA/XuPIhbVtQ8I/AAAAAAAAgnE/SAYIv992qtAGi7JxQzzNP8m2sohGYDpDQCK4BGAsYHg/s320/5.jpg)](https://1.bp.blogspot.com/-Iw9uLtdhLWA/XuPIhbVtQ8I/AAAAAAAAgnE/SAYIv992qtAGi7JxQzzNP8m2sohGYDpDQCK4BGAsYHg/s557/5.jpg)
 
   
 
 Đối với việc tiếp thu thói quen suy nghĩ này, một trong những điều cốt lõi nhất trong việc giáo dục ở giai đoạn đầu đời chính là hình thành cho trẻ thói quen đọc sách. Điều đó là vì sách có 2 chức năng quan trọng: cung cấp kinh nghiệm và dạy lý thuyết; ví dụ như một cuốn tiểu thuyết chính là một chuỗi các kinh nghiệm có tổ chức và mang tính trật tự trong khi 1 cuốn tạp chí khoa học cung cấp nhiều lý thuyết đã được giản lược hóa.  
 Một đứa trẻ yêu thích việc đọc tiểu thuyết và tin tức từ sớm sẽ có được 1 lượng kinh nghiệm sống tích lũy dưới dạng lý thuyết dồi dào hơn các bạn bè cùng trang lứa, bởi vì con người thường có xu hướng tóm gọn lại những trải nghiệm thực từ cuộc sống thành lý thuyết sống cho bản thân.  
 
-[![](“https://1.bp.blogspot.com/-_4iYcFLLfJ0/XuPIosVvdBI/AAAAAAAAgnU/aMXeFABNALsvrAOCNlk-AZ_yCmYDj2thACK4BGAsYHg/s320/6.jpg”)](“https://1.bp.blogspot.com/-_4iYcFLLfJ0/XuPIosVvdBI/AAAAAAAAgnU/aMXeFABNALsvrAOCNlk-AZ_yCmYDj2thACK4BGAsYHg/s602/6.jpg”)
+[![](https://1.bp.blogspot.com/-_4iYcFLLfJ0/XuPIosVvdBI/AAAAAAAAgnU/aMXeFABNALsvrAOCNlk-AZ_yCmYDj2thACK4BGAsYHg/s320/6.jpg)](https://1.bp.blogspot.com/-_4iYcFLLfJ0/XuPIosVvdBI/AAAAAAAAgnU/aMXeFABNALsvrAOCNlk-AZ_yCmYDj2thACK4BGAsYHg/s602/6.jpg)
 
   
 
@@ -133,13 +133,13 @@ Thậm chí suy nghĩ logic hay trực giác toán học cũng có thể đượ
 Ví dụ như để giải quyết 1 vấn đề/ nắm bắt 1 khái niệm khó nhai, bạn cần phải vượt qua được ít nhất 7 lớp logic phân nhánh.  
 Một người đã được đào tạo chuyên sâu về logic có thể sẽ quen thuộc với 3 lớp đầu tiên, lớp thứ 4 và 5 sẽ có thể tương đồng với những bài tập về nhà/ sách đã đọc của anh ta, và phần còn lại chính là việc tự anh ta phải suy ra 2 lớp logic còn lại.  
 
-[![](“https://1.bp.blogspot.com/-4p9acFUdY5Y/XuPIrPfRcMI/AAAAAAAAgng/p6l35klrDS8YG8H2am0TBkDFGq2FWJiDACK4BGAsYHg/s320/7.jpg”)](“https://1.bp.blogspot.com/-4p9acFUdY5Y/XuPIrPfRcMI/AAAAAAAAgng/p6l35klrDS8YG8H2am0TBkDFGq2FWJiDACK4BGAsYHg/s602/7.jpg”)
+[![](https://1.bp.blogspot.com/-4p9acFUdY5Y/XuPIrPfRcMI/AAAAAAAAgng/p6l35klrDS8YG8H2am0TBkDFGq2FWJiDACK4BGAsYHg/s320/7.jpg)](https://1.bp.blogspot.com/-4p9acFUdY5Y/XuPIrPfRcMI/AAAAAAAAgng/p6l35klrDS8YG8H2am0TBkDFGq2FWJiDACK4BGAsYHg/s602/7.jpg)
 
   
 
 Một người không được đào tạo về logic chỉ có thể quen thuộc với cùng lắm là 2 lớp đầu tiên. Để giải quyết được vấn đề, anh ta cần phải dùng đến 1 bộ nhớ khổng lồ, trải qua nhiều lần thử sai, gặp phải rất nhiều đau đầu vì chưa quen với logic… cuối cùng anh ta chỉ “trồng” được đến lớp thứ 5 của cây logic. Và việc anh ta không giải quyết được vấn đề là hết sức bình thường.  
 
-[![](“https://1.bp.blogspot.com/-0Ay7wN6-io4/XuPIwFx4EQI/AAAAAAAAgnw/5iwFo88a2UsaJu_t-QfE91xztxUK9E0gwCK4BGAsYHg/s320/8.jpg”)](“https://1.bp.blogspot.com/-0Ay7wN6-io4/XuPIwFx4EQI/AAAAAAAAgnw/5iwFo88a2UsaJu_t-QfE91xztxUK9E0gwCK4BGAsYHg/s602/8.jpg”)
+[![](https://1.bp.blogspot.com/-0Ay7wN6-io4/XuPIwFx4EQI/AAAAAAAAgnw/5iwFo88a2UsaJu_t-QfE91xztxUK9E0gwCK4BGAsYHg/s320/8.jpg)](https://1.bp.blogspot.com/-0Ay7wN6-io4/XuPIwFx4EQI/AAAAAAAAgnw/5iwFo88a2UsaJu_t-QfE91xztxUK9E0gwCK4BGAsYHg/s602/8.jpg)
 
   
 
@@ -150,14 +150,14 @@ Khi đã dần quen với những lối phân tích logic, chúng ta sẽ dễ d
 Định lý giới hạn trung tâm đã dạy cho chúng ta về cách mà các biến bị ảnh hưởng bởi 1 số lượng lớn các yếu tố độc lập sẽ bị ảnh hưởng bởi xấp xỉ phân phối Gauss. Vậy nên điểm số của một số lượng nhiều không đếm được các học sinh (mặc dù các yếu tố này không hoàn toàn độc lập, nó vẫn xấp xỉ phân phối chuẩn) được xem xét dựa trên các thói quen lớn nhỏ hình thành trong quá trình trưởng thành được tạo ra bởi tích lũy của các kinh nghiệm, môi trường sống phức tạp, hoàn cảnh khác nhau, cách biệt về năng lực bẩm sinh hay nền tảng xuất thân; tất cả đều tác động lên mọi học sinh của đất nước.  
 Biểu đồ phân phối điểm đầu vào 1 trường đại học khoa học ở Bắc Kinh.  
 
-[![](“https://1.bp.blogspot.com/-oJffG8QB0sM/XrOTihIJAoI/AAAAAAAAfBo/OsdVxYvIwqAt0CvdRDDJroEYTnw0dgcjwCK4BGAYYCw/s400/86872712_1310110819199263_9130483585143275520_n.jpg”)](“http://1.bp.blogspot.com/-oJffG8QB0sM/XrOTihIJAoI/AAAAAAAAfBo/OsdVxYvIwqAt0CvdRDDJroEYTnw0dgcjwCK4BGAYYCw/s1600/86872712_1310110819199263_9130483585143275520_n.jpg”)
+[![](https://1.bp.blogspot.com/-oJffG8QB0sM/XrOTihIJAoI/AAAAAAAAfBo/OsdVxYvIwqAt0CvdRDDJroEYTnw0dgcjwCK4BGAYYCw/s400/86872712_1310110819199263_9130483585143275520_n.jpg)](“http://1.bp.blogspot.com/-oJffG8QB0sM/XrOTihIJAoI/AAAAAAAAfBo/OsdVxYvIwqAt0CvdRDDJroEYTnw0dgcjwCK4BGAYYCw/s1600/86872712_1310110819199263_9130483585143275520_n.jpg)
 
 Những học sinh nằm trong 1% top đầu vượt trội ở hoặc là tài năng, hoặc là thói quen, hoặc là phương pháp và nỗ lực. Nhưng cho dù là gì đi chăng nữa, ít nhất những học sinh này đều phải “xuất sắc” ở mọi biến liên quan trước đã.  
 Sự chăm chỉ quyết định giới hạn đáy, tài năng quyết định đỉnh cao có thể vươn tới được?  
   
 Trong phân phối Gauss được tạo ra bởi vô số biến số, càng gần với cực trị thì “hiệu ứng thịt ba chỉ” càng trở nên rõ rệt. Không chỉ đúng với những thần đồng mà còn đúng với cả những học sinh toàn được điểm A. Nếu bạn quan sát những thói quen của nhóm này, bạn sẽ nhận thấy ai cũng có những thói quen tốt. Nếu bạn quan sát nỗ lực của họ, bạn cũng sẽ thấy 1 ý chí đáng ghi nhận. Ở những vị trí dẫn đầu thì thói quen, tài năng, nỗ lực, phương pháp và những yếu tố khác đều là không thể thiếu được. Lúc này, tất cả những yếu tố trên về cơ bản đã trở thành những điều kiện cần, và tài năng không tạo ra nhiều sự khác biệt cho lắm.  
 
-[![](“https://4.bp.blogspot.com/-Hq4lkwaZs0k/XrOQ1NYqC3I/AAAAAAAAfBQ/7kmuLIM4uP491CTIiFD2XIt6CSESCudRgCK4BGAYYCw/s400/86441336_1310110925865919_9142761367634182144_n.jpg”)](“http://4.bp.blogspot.com/-Hq4lkwaZs0k/XrOQ1NYqC3I/AAAAAAAAfBQ/7kmuLIM4uP491CTIiFD2XIt6CSESCudRgCK4BGAYYCw/s1600/86441336_1310110925865919_9142761367634182144_n.jpg”)
+[![](“https://4.bp.blogspot.com/-Hq4lkwaZs0k/XrOQ1NYqC3I/AAAAAAAAfBQ/7kmuLIM4uP491CTIiFD2XIt6CSESCudRgCK4BGAYYCw/s400/86441336_1310110925865919_9142761367634182144_n.jpg)](“http://4.bp.blogspot.com/-Hq4lkwaZs0k/XrOQ1NYqC3I/AAAAAAAAfBQ/7kmuLIM4uP491CTIiFD2XIt6CSESCudRgCK4BGAYYCw/s1600/86441336_1310110925865919_9142761367634182144_n.jpg)
 
 Những sinh viên xuất sắc, những người đã kết hợp được nhiều yếu tố như tài năng hàng đầu, khả năng vạch kế hoạch, có những nguồn lực giáo dục tốt nhất, khổ luyện ngay từ thơ ấu, say mê 1 số bộ môn cụ thể, chỉ ngủ 6 tiếng mỗi ngày và vân vân… không thể nào thất bại trong việc đạt lấy kết quả tốt nhất được.  
 Đối với những sinh viên hàng đầu, ngoài năng khiếu ra, họ còn có:  

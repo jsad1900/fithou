@@ -12,7 +12,7 @@ export default {
   siteName: 'FITHOU Notes',
   tagline: 'Chia sẻ kinh nghiệm học tại khoa CNTT - ĐH Mở Hà Nội',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo.png', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'https://i.ibb.co/VTHkMTx/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID

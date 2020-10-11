@@ -28,7 +28,8 @@ featureImage: /uploads/getting-started-hero.jpg
 
 ### Code: 
 
-C/C++ `#include <iostream>
+```
+#include <iostream>
 #include <iomanip>
 using namespace std;
 int main()
@@ -137,4 +138,5 @@ int main()
         cout << endl;
     }
     cout << endl;
-}`
+}
+```
