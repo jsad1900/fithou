@@ -32,7 +32,7 @@ export default {
     },
     {
       name: 'Tài liệu',
-      link: '/tailieu'
+      link: '/tai-lieu'
     }
   ],
   hero: {
