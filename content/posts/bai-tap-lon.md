@@ -9,19 +9,29 @@ featureImage: /uploads/baitaplon.jpg
 # Sơ đồ rằng buộc chương trình CNTT đại học Mở Hà Nội
 ![](/uploads/khungcntt.png)
 ---
-> Pass nếu có: `fithou.netlify.app`
+## Chú ý
+> **Bài tập lớn chỉ dùng để tham khảo.**
+>
+> Các bạn muốn đóng góp BTL vào đây vui lòng liên hệ [facebook Ngọc Danh](https://www.facebook.com/ngocdanh0508)
+>
+> Cám ơn các bạn sau đã đóng góp cho kho BTL:
+>- [Ngọc Danh](https://www.facebook.com/ngocdanh0508)
+>- [Nghiêm Linh](https://www.facebook.com/nghiemlinhnq)
+>- ... 
+
+> **Pass link tải BTL(nếu có)**: `fithou.netlify.app`
 ## Kỹ thuật lập trình cơ sở
->- Bài tập word: [btl.zip](#)
+>- Bài tập lớn Word + Code: [Folder](https://bit.ly/3lznNFh)
 >- Kinh nghiệm làm BTL: [tại đây](#)
 ## Lập trình hướng đối tượng
->- Bài tập word: [btl.zip](#)
+>- Bài tập word+code: [Folder](https://bit.ly/33RAwwZ)
 >- Kinh nghiệm làm BTL: [tại đây](#)
 ## Thiết kế web
->- Bài tập word: [btl.zip](#)
+>- Bài tập word+PSD+Code: [Folder](https://bit.ly/33QGa2w)
 >- Kinh nghiệm làm BTL: [tại đây](#)
 ## Cơ sở dữ liệu
->- Bài tập word: [btl.zip](#)
+>- Bài tập word: [Folder](https://bit.ly/2GX4DKw)
 >- Kinh nghiệm làm BTL: [tại đây](#)
 ## Cấu trúc dữ liệu và giải thuật
->- Bài tập word+code: [btl.zip](https://bit.ly/2SO55gN)
+>- Bài tập word+code: [Folder](https://bit.ly/33NCdLY)
 >- Kinh nghiệm làm BTL: [tại đây](/kinh-nghiem-btl-cau-truc-giai-thuat)

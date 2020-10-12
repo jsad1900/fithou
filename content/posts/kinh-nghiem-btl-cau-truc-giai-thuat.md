@@ -83,13 +83,8 @@ Sau đây, mình chia sẻ bài tập lớn do mình và các khóa trước là
 
 **Bài tập lớn file Word + Code**
 
-[BTL_CTDL.zip](https://bit.ly/2SO55gN)
+[BTL_CTDL.zip](https://bit.ly/33NCdLY)
 
-pass giải nén: `fithou.netlify.app`
-
-**Yêu cầu BTL của cô Như**
-
-[yc_BTL.doc](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxxdXluaG5odTA4Nzl8Z3g6NDE0MDE5ZDZhOWU0ZjY5OQ)
 
 ## 5. Kinh nghiệm thi
 
