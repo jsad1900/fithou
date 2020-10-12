@@ -28,10 +28,6 @@ export default {
     },
     {
       name: 'Bài tập lớn',
-      link: '/baitaplon'
-    },
-    {
-      name: 'Bài tập lớn',
       link: '/bai-tap-lon'
     },
     {
