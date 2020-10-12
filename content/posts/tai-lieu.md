@@ -12,10 +12,10 @@ featureImage: /uploads/moution.jpg
 >- Tài liệu C++ tiếng việt [PDF]: [giao trinh c++.rar](http://www.mediafire.com/file/6eal9evadwxbfm6/Giao_trinh_tu_hoc_C_%252B%252B.rar/file)
 ## Java
 >- Trang web nên học: [https://www.javatpoint.com/java-tutorial](https://www.javatpoint.com/java-tutorial)
->- Tài liệu java (OOPs) [PDF]: [OOP_2013.pdf](https://drive.google.com/file/d/1ldxcb-Hje1us0gfLb_dencQJyC5GUAQA/view)
+>- Tài liệu java tiếng việt (OOPs) [PDF]: [OOP_2013.pdf](https://drive.google.com/file/d/1ldxcb-Hje1us0gfLb_dencQJyC5GUAQA/view)
 ## Python
 >- Trang web nên học: [https://www.learnpython.org/](https://www.learnpython.org/)
->- Tài liệu python cơ bản [PDF]: [python co ban.pdf](https://drive.google.com/file/d/0B1e2ltp8qw9YYmJvSW56MEZDOEk/view)
+>- Tài liệu python tiếng việt cơ bản [PDF]: [python co ban.pdf](https://drive.google.com/file/d/0B1e2ltp8qw9YYmJvSW56MEZDOEk/view)
 ## Javascript
 >- Trang web nên học: [https://javascript.info/](https://javascript.info/)
 >- Khóa học: mình có khóa javascript cực hay nặng 20 GB, học từ cơ bản đến nâng cao chi tiết. Bạn nào cần [inbox fb](https://www.facebook.com/ngocdanh0508) mình copy USB gửi free.
