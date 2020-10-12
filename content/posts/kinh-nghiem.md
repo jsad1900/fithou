@@ -8,4 +8,5 @@ featureImage: /uploads/baitaplon.jpg
 ---
 
 ## Kinh nghiệm sống
-> - [Cách hỏi bài](cach-hoi-bai-lich-su)
+- [Cách hỏi bài lịch sự](/cach-hoi-bai-lich-su)
+- [Tài năng có phải tất cả đề thành công?](/tai-nang-co-phai-tat-ca-de-thanh-cong)
