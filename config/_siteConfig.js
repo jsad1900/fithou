@@ -19,20 +19,24 @@ export default {
   },
   mainMenu: [
     {
-      name: 'Giới thiệu',
+      name: 'Giới Thiệu',
       link: '/about'
     },
     {
-      name: 'Danh mục',
+      name: 'Danh Mục',
       link: '/categories'
     },
     {
-      name: 'Bài tập lớn',
+      name: 'Bài Tập Lớn',
       link: '/bai-tap-lon'
     },
     {
-      name: 'Tài liệu',
+      name: 'Tài Liệu',
       link: '/tai-lieu'
+    },
+    {
+      name: 'Kinh Nghiệm',
+      link: '/kinh-nghiem'
     }
   ],
   hero: {
