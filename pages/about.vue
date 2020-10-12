@@ -29,9 +29,10 @@
             môn khác.
           </p>
           <p>
-            Chia sẻ là giúp cho cộng đồng trường mình tốt lên. Nếu có bài viết,
-            bài tập lớn của bạn muốn chia sẻ hãy liên hệ để được đăng bài lên
-            nhé!
+            Nếu bạn muốn viết các chủ đề trong trang web, hoàn toàn dễ dàng. Tên
+            của bạn sẽ hiện ở bài viết, sự đóng góp của bạn sẽ được mọi người
+            ghi nhận. Nhắn cho tôi trong phần liên hệ để thêm bài viết của bạn
+            :D
           </p>
 
           <h2>Liên hệ</h2>

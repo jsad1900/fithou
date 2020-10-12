@@ -2,6 +2,7 @@
 title: Tài năng có phải tất cả để thành công
 subtitle: Nguồn QuoraVN
 category:
+  - QuoraVN
 author: Sưu Tầm
 date: 2019-08-02T04:27:56.800Z
 featureImage: /uploads/baiviet/success.jpg
