@@ -70,7 +70,7 @@
 export default {
   head() {
     return {
-      title: `About | ${this.$siteConfig.siteName}`
+      title: `Giới thiệu | ${this.$siteConfig.siteName}`
     }
   }
 }
