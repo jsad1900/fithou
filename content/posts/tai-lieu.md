@@ -14,7 +14,8 @@ featureImage: /uploads/moution.jpg
 >- Trang web nên học: [https://www.javatpoint.com/java-tutorial](https://www.javatpoint.com/java-tutorial)
 >- Tài liệu java (OOPs) [PDF]: [OOP_2013.pdf](https://drive.google.com/file/d/1ldxcb-Hje1us0gfLb_dencQJyC5GUAQA/view)
 ## Python
+>- Trang web nên học: [https://www.learnpython.org/](https://www.learnpython.org/)
 >- Tài liệu python cơ bản [PDF]: [python co ban.pdf](https://drive.google.com/file/d/0B1e2ltp8qw9YYmJvSW56MEZDOEk/view)
 ## Javascript
 >- Trang web nên học: [https://javascript.info/](https://javascript.info/)
->- Khóa học: mình có khóa javascript cực hay nặng 20 GB, học từ cơ bản đến nâng cao chi tiết. Bạn nào cần [inbox fb](https://www.facebook.com/ngocdanh0508) copy USB gửi cho.
+>- Khóa học: mình có khóa javascript cực hay nặng 20 GB, học từ cơ bản đến nâng cao chi tiết. Bạn nào cần [inbox fb](https://www.facebook.com/ngocdanh0508) mình copy USB gửi free.
