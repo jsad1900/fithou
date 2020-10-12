@@ -32,7 +32,7 @@ export default {
     },
     {
       name: 'Bài tập lớn',
-      link: '/bai-1-thuc-hanh-lap-trinh-huong-doi-tuong'
+      link: '/bai-tap-lon'
     },
     {
       name: 'Tài liệu',
