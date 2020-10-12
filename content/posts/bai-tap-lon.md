@@ -4,12 +4,12 @@ subtitle: Chia sẻ file code + word bài tập lớn
 category:
 author: Ngọc Danh
 date: 2020-10-12T17:30:16.858Z
-featureImage: /uploads/moution.jpg
+featureImage: /uploads/baitaplon.jpg
 ---
 > pass giải nén (nếu có): `fithou.netlify.com`
 ## Kỹ thuật lập trình cơ sở
 >- Bài tập lớn word: [btl.zip](#)
->- Bài tập lớn code: [btl.zip](#)
+>- Bài tập lớn code: [btl.zip](#) 
 >- Kinh nghiệm làm BTL: [tại đây](#)
 ## Lập trình hướng đối tượng
 >- Bài tập lớn word: [btl.zip](#)
