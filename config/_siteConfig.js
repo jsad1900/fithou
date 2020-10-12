@@ -23,12 +23,16 @@ export default {
       link: '/about'
     },
     {
+      name: 'Danh mục',
+      link: '/categories'
+    },
+    {
       name: 'Bài tập lớn',
       link: '/baitaplon'
     },
     {
-      name: 'Danh mục',
-      link: '/categories'
+      name: 'Bài tập lớn',
+      link: '/bai-1-thuc-hanh-lap-trinh-huong-doi-tuong'
     },
     {
       name: 'Tài liệu',
