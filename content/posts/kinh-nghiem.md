@@ -10,3 +10,4 @@ featureImage: /uploads/baitaplon.jpg
 ## Kinh nghiệm sống
 - [Cách hỏi bài lịch sự](/cach-hoi-bai-lich-su)
 - [Tài năng có phải tất cả đề thành công?](/tai-nang-co-phai-tat-ca-de-thanh-cong)
+- [Vì sao hàng loạt người trẻ down mood?](http://www.trangps.com/2016/10/vi-sao-hang-loat-nguoi-tre-down-mood.html)
