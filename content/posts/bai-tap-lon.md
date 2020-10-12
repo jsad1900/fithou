@@ -6,9 +6,6 @@ author: Ngọc Danh
 date: 2020-07-29T17:30:16.858Z
 featureImage: /uploads/baitaplon.jpg
 ---
-# Sơ đồ rằng buộc chương trình CNTT đại học Mở Hà Nội
-![](/uploads/khungcntt.png)
----
 ## Chú ý
 > **Bài tập lớn chỉ dùng để tham khảo.**
 >
