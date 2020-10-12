@@ -6,6 +6,10 @@ author: Ngọc Danh
 date: 2020-07-29T17:30:16.858Z
 featureImage: /uploads/baitaplon.jpg
 ---
+# Sơ đồ rằng buộc chương trình CNTT đại học Mở Hà Nội
+![](/uploads/khungcntt.png)
+---
+> Pass nếu có: `fithou.netlify.app`
 ## Kỹ thuật lập trình cơ sở
 >- Bài tập word: [btl.zip](#)
 >- Kinh nghiệm làm BTL: [tại đây](#)
