@@ -15,7 +15,7 @@ export default {
   logo: 'https://i.ibb.co/VTHkMTx/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: 'UA-153619057-1'
+    id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
     {
