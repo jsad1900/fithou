@@ -1,0 +1,17 @@
+---
+title: Phần mềm
+subtitle: Chia sẻ các phần mềm trong quá trình học
+category:
+author: Ngọc Danh
+date: 1970-10-13T17:30:16.858Z
+featureImage: /uploads/catelogy/soft.jpg
+---
+## Phần mềm tính điểm trung bình đại học Mở Hà Nội
+>- Xem tại đây: [phan-mem-tinh-diem-trung-binh-dh-mo-ha-noi](/phan-mem-tinh-diem-trung-binh-dh-mo-ha-noi)
+## Lập trình C++
+>- Hướng dẫn cài Code::Blocks để lập trình C/C++: [tại đây](/huong-dan-cai-code-blocks)
+>- Hướng dẫn tùy chỉnh visual studio code để lập trình C/C++: [tại đây](/#)
+## Lập trình Java
+>- Hướng dẫn cài netbrains lập trình java: [tại đây](/#)
+## Thiết kế
+>- Hướng dẫn cài và crack photoshop CS6: [tại đây](/huong-dan-tai-crack-photoshop-cs6)

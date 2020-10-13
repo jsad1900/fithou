@@ -23,12 +23,16 @@ export default {
       link: '/about'
     },
     {
-      name: 'Danh Mục',
+      name: 'Môn học',
       link: '/categories'
     },
     {
       name: 'Bài Tập Lớn',
       link: '/bai-tap-lon'
+    },
+    {
+      name: 'Phần mềm',
+      link: '/phan-mem'
     },
     {
       name: 'Tài Liệu',

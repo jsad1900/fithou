@@ -1,11 +1,10 @@
 ---
-title: Hướng dẫn cài đặt Code Blocks
+title: Hướng dẫn cài đặt Code Blocks lập trình C/C++
 subtitle: Phần mềm lập trình C/C++
 category:
-  - phần mềm
   - thực hành lập trình cơ sở
 author: Ngọc Danh
-date: 2020-10-12T19:59:59.000Z
+date: 1985-10-12T19:59:59.000Z
 featureImage: /uploads/baiviet/code-blocks.png
 ---
 Khi bắt đầu học lập trình, có rất nhiều bạn bắt đầu với ngôn ngữ C/C++. Với cú pháp mạch lạc, chạy nhanh cũng như khả năng logic, hiện nay C/C++ được sử dụng trong các trường đại học cho những sinh viên năm nhất.
