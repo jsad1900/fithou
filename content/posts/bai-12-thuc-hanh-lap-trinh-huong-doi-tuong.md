@@ -1,5 +1,5 @@
 ---
-title: Bài 10 - thực hành lập trình hướng đối tượng
+title: Bài 12 - thực hành lập trình hướng đối tượng
 subtitle: bài tập thực hành trong java
 category:
   - thực hành lập trình hướng đối tượng
@@ -7,7 +7,7 @@ author: Ngọc Danh
 date: 2020-09-19T19:59:59.000Z
 featureImage: /uploads/baiviet/java.png
 ---
-
+ 
 > **Bài 12, xây dựng lần lượt theo các yêu cầu sau:**  
 > Class nguoi quản lý 1 người
 > 
