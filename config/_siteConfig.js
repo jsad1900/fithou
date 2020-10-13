@@ -33,10 +33,6 @@ export default {
     {
       name: 'Tài Liệu',
       link: '/tai-lieu'
-    },
-    {
-      name: 'Kinh Nghiệm',
-      link: '/kinh-nghiem'
     }
   ],
   hero: {
