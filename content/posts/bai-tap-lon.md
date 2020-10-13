@@ -25,7 +25,8 @@ featureImage: /uploads/baitaplon.jpg
 >- Kinh nghiệm làm BTL: [tại đây](#)
 ## Thiết kế web
 >- Bài tập word+PSD+Code: [Folder](https://bit.ly/33QGa2w)
->- Kinh nghiệm làm BTL: [tại đây](#)
+>- Kinh nghiệm làm BTL phần photoshop: [tại đây](/kinh-nghiem-lam-btl-thiet-ke-web-photoshop)
+>- Kinh nghiệm làm BTL phần cắt web: [tại đây](/#)
 ## Cơ sở dữ liệu
 >- Bài tập word: [Folder](https://bit.ly/2GX4DKw)
 >- Kinh nghiệm làm BTL: [tại đây](#)

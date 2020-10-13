@@ -15,7 +15,7 @@ export default {
   logo: 'https://i.ibb.co/VTHkMTx/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: process.env.GOOGLE_ANALYTICS_ID
+    id: 'UA-153619057-1'
   },
   mainMenu: [
     {
@@ -33,10 +33,6 @@ export default {
     {
       name: 'Phần mềm',
       link: '/phan-mem'
-    },
-    {
-      name: 'Tài Liệu',
-      link: '/tai-lieu'
     }
   ],
   hero: {
