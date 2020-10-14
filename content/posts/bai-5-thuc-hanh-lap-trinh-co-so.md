@@ -4,7 +4,7 @@ subtitle: Xuất ra chữ số lớn nhất
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
-date: 2019-08-11T19:59:59.000Z
+date: 2020-09-12T19:59:59.000Z
 featureImage: /uploads/baiviet/cpp.png
 ---
 
