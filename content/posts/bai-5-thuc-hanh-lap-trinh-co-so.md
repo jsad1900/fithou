@@ -1,11 +1,11 @@
 ---
-title: Bài 4 - thực hành lập trình cơ sở
-subtitle: bài tập thực hành trong java
+title: Bài 5 - thực hành lập trình cơ sở
+subtitle: Xuất ra chữ số lớn nhất
 category:
-  - thực hành lập trình hướng đối tượng
+  - thực hành lập trình cơ sở
 author: Ngọc Danh
-date: 2020-10-11T12:58:59.000Z
-featureImage: /uploads/baiviet/java.png
+date: 2019-08-11T19:59:59.000Z
+featureImage: /uploads/baiviet/cpp.png
 ---
 
 > Bài 5, Viết chương trình nhập vào số nguyên N gồm 3 chữ số. Xuất ra màn hình chữ số lớn nhất ở vị trí nào?  
