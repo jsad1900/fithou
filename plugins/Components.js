@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import CategoriesGrid from '../components/grids/CategoriesGrid'
-import DisqusComments from '../components/DisqusComments'
 import IntersectionObserver from '../components/IntersectionObserver'
 import LoadingSpinner from '../components/LoadingSpinner'
 import MainSection from '../components/MainSection'
@@ -13,7 +12,6 @@ import SiteNav from '../components/SiteNav'
 import ResourceGrid from '~/components/grids/ResourceGrid'
 
 Vue.component(CategoriesGrid.name, CategoriesGrid)
-Vue.component(DisqusComments.name, DisqusComments)
 Vue.component(IntersectionObserver.name, IntersectionObserver)
 Vue.component(LoadingSpinner.name, LoadingSpinner)
 Vue.component(MainSection.name, MainSection)

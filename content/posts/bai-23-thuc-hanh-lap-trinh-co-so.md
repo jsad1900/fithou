@@ -1,5 +1,5 @@
 ---
-title: Bài 23 - Kỹ thuật lập trình cơ sở
+title: Bài 23 - thực hành lập trình cơ sở
 subtitle: Bài tập mảng 2 chiều C/C++
 category:
   - thực hành lập trình cơ sở

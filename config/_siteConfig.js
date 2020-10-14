@@ -13,7 +13,7 @@ export default {
   tagline: 'Chia sẻ kinh nghiệm học tại khoa CNTT - ĐH Mở Hà Nội',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'https://i.ibb.co/VTHkMTx/logo.png', // 'logo-component', // or '/logo.svg' for regular image
-  googleAnalytics: { 
+  googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
   },

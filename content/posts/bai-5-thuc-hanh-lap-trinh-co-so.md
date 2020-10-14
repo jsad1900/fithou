@@ -3,6 +3,8 @@ title: Bài 5 - thực hành lập trình cơ sở
 subtitle: Xuất ra chữ số lớn nhất
 category:
   - thực hành lập trình cơ sở
+  - kỹ thuật lập trình cơ sở
+  - thực hành lập trình hướng đối tượng
 author: Ngọc Danh
 date: 2020-08-11T19:59:59.000Z
 featureImage: /uploads/baiviet/cpp.png
