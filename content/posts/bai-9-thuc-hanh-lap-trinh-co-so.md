@@ -8,7 +8,10 @@ date: 2020-09-15T19:59:59.000Z
 featureImage: /uploads/baiviet/cpp.png
 ---
 
-> Bài 9 (TH-CSLT-05): Viết chương trình nhập vào 3 số nguyên `a`, `b`, `c`. Tính và giá trị của f(x) theo công thức:
+> Bài 9 (TH-CSLT-05): Viết chương trình nhập vào 3 số nguyên `a`, `b`, `c`. 
+>
+>Tính và giá trị của f(x) theo công thức:
+>
 >`f(x) = (a+c)/b` nếu `b <> 0 (1)` Hoặc `f(x) = a-c` nếu `b = 0 (2)`
 
 ## Code:  
