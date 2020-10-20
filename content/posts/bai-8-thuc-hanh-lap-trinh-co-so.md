@@ -17,6 +17,7 @@ featureImage: /uploads/baiviet/cpp.png
 #include <math.h>
 using namespace std;
 int main() {
+	//bai 8 - fithou.netlify.app - @NgocDanh
 	float a, b, c;
 	string thongBao;
 	cout<<"Nhap vao do dai canh a cua tam giac: "; cin>> a;
