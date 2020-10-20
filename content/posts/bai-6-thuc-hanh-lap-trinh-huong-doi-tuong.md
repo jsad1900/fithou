@@ -8,16 +8,17 @@ date: 2020-09-13T19:59:59.000Z
 featureImage: /uploads/baiviet/java.png
 ---
 > Bài 6, Cho mô tả lớp congNhan(Công nhân) như sau:  
-> lcb/float (lương cơ bản)  
-> hsl/float(hệ số lương)  
-> hoten/Srting(Họ tên)  
-> setHsl(h:float):void  
-> getHsl(): float  
-> setHoten(ht:String):void  
-> getHoten(): String  
-> tinhLuong(): Float// Tính lương  
+>- lcb/float (lương cơ bản)  
+>- hsl/float(hệ số lương)  
+>- hoten/Srting(Họ tên)  
+>- setHsl(h:float):void  
+>- getHsl(): float  
+>- setHoten(ht:String):void  
+>- getHoten(): String  
+>- tinhLuong(): Float// Tính lương  
+>
 > Trong đó, phương thức tinhluong() hoạt động theo công công thức sau:  
-> luong = lcb\*hsl  
+>- luong = lcb\*hsl  
 > **Viết chương trình:**  
 > 
 > *   Xây dựng lớp congNhan theo mô tả trên
