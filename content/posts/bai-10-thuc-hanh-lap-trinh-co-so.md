@@ -1,5 +1,5 @@
 ---
-title: Bài 9 - thực hành lập trình cơ sở
+title: Bài 10 - thực hành lập trình cơ sở
 subtitle: Sử dụng if/else
 category:
   - thực hành lập trình cơ sở
