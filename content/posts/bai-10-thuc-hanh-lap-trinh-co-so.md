@@ -43,11 +43,11 @@ int main(){
 	if(BMI < 40){
 	    if(BMI > 30)
 	         cout << "Beo, can giam can";
-	    if(BMI >= 25 && BMI <= 30)
+	    else if(BMI >= 25)
 	         cout << "Thua can";
-	    if(BMI >= 18.5 && BMI < 25)
+	    else if(BMI >= 18.5)
 	         cout << "Chuan";
-	    if(BMI < 18.5)
+	    else
 	    	cout << "Duoi chuan";
 		
     }

@@ -23,8 +23,8 @@ int main(){
 	//bai 9 - fithou.netlify.app - Van Truong
 	int a, b, c;
 	cout << "a = "; cin >> a;
-	cout << "\nb = "; cin >> b;
-	cout << "\nc = "; cin >> c;
+	cout << "b = "; cin >> b;
+	cout << "c = "; cin >> c;
 	if(b != 0)
 	   cout << "F(x) = (a + c) / b = " << (a + c) / b;
 	else{
@@ -33,3 +33,6 @@ int main(){
 	return 0;
 }
 ```
+
+## Dữ liệu test:
+![](https://i.ibb.co/sWQ7pRf/122189977-871032180098300-8045954566134336144-n.png)

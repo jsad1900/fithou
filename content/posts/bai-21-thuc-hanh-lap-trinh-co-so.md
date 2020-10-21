@@ -1,6 +1,6 @@
 ---
-title: Bài 21 - thực hành lập trình hướng đối tượng
-subtitle: bài tập thực hành trong java
+title: Bài 21 - thực hành lập trình cơ sở
+subtitle: bài tập thực hành trong C/C++
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh

@@ -50,3 +50,7 @@ int main() {
 	return 0;
 }
 ```
+
+## Dữ liệu test
+
+![](https://i.ibb.co/RYTmvF5/image.png)
