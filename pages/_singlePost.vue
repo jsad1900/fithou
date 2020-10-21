@@ -15,6 +15,20 @@
       <template v-slot:default>
         <div class="post-wrapper">
           <markdown :markdown="$store.state.content" />
+          <div class="author-active">
+            <h2>
+              Liên hệ
+            </h2>
+            <p>
+              Nếu có bất kỳ thắc mắc về bài thực hành, bài tập lớn, chương trình
+              học, có thể liên hệ với anh tại:
+              <a href="https://www.facebook.com/ngocdanh0508">facebook Ngọc Danh</a>
+            </p>
+          </div>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/prism.js"></script>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/components/prism-cpp.min.js"></script>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/components/prism-c.min.js"></script>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/components/prism-java.min.js"></script>
           <div class="other-posts">
             <h6 class="subtitle is-size-4">
               Bài đăng khác
@@ -29,10 +43,6 @@
         <post-sidebar />
       </template>
     </main-section>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/prism.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/components/prism-cpp.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/components/prism-c.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/components/prism-java.min.js"></script>
   </div>
 </template>
 <script>

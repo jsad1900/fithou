@@ -9,11 +9,12 @@ featureImage: /uploads/baiviet/cpp.png
 ---
 
 > **Bài 13** (TH-CSLT-03): Một số hoàn thiện là một số có tổng các ước của nó (không kể nó) bằng chính nó. Hãy nhập vào một số nguyên dương n và kiểm tra xem n có phải là số hoàn thiện không.
+>
 >Ví dụ: số `6` là số hoàn thiện và tổng các ước số là `1+2+3 = 6`.
 
 ## Lưu ý:
 
-- Xác định những số chia hết cho `n` nhập vào. Chỉ cần xét từ `2` đến `n`. Ngoài ra có thể xét `n/2` hoặc `sqrt(n)` để tối ưu bài toán hơn.
+- Xác định những số chia hết cho `n` nhập vào. Chỉ cần xét từ `1` đến `n`. Ngoài ra có thể xét `n/2` hoặc `sqrt(n)` để tối ưu bài toán hơn.
 
 ## Code:
 
@@ -25,7 +26,7 @@ int main(){
 	int n,  sum = 0;
 	cout << "Nhap n = ";
 	cin >> n;
-	for(int i = 2; i <= n/2; i++){
+	for(int i = 1; i <= n/2; i++){
 	    if(n%i==0)
 	       sum = sum + i;
     }

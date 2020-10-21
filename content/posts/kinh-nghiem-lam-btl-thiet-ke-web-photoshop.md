@@ -97,7 +97,7 @@ Hi vọng dựa vào bản thiết kế của mình, bạn sẽ học được k
 
 #### Tải thiết kế PSD trang con tin tức:
 
-[Tải TrangCon.psd](https://drive.google.com/drive/folders/1tB2IuicC7sNlWtjJy0wAUl6nt-MenjAE?usp=sharing)
+[Tải TrangCon.psd](https://drive.google.com/drive/folders/1tB2IuicC7sNlWtjJy0wAUl6nt-MenjAE?usp=sharing){: .button}
 
 Good Luck, muốn trao đổi hãy liên hệ [fb.com/ngocdanh0508](https://facebook.com/ngocdanh0508).
 

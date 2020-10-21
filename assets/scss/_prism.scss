@@ -31,6 +31,17 @@
   color: #abf6ff;
   padding-right: 10px;
 }
-blockquote {
-  margin: 7px;
+.post-wrapper blockquote {
+  margin: 7px !important;
+}
+.author-active h2 {
+  font-size: 1.25em;
+  font-weight: bold;
+  border-bottom: 1px solid;
+  margin: 5px 0;
+}
+.author-active {
+  padding: 10px;
+  background: #f2fafb;
+  margin: 15px 0;
 }
