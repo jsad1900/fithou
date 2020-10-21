@@ -3,6 +3,7 @@ title: Bài 13 - thực hành lập trình hướng đối tượng
 subtitle: bài tập thực hành trong java
 category:
   - thực hành lập trình hướng đối tượng
+  - lập trình hướng đối tượng
 author: Ngọc Danh
 date: 2020-09-21T19:59:59.000Z
 featureImage: /uploads/baiviet/java.png

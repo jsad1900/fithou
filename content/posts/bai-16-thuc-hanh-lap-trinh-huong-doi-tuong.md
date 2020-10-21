@@ -4,7 +4,7 @@ subtitle: bài tập thực hành trong java
 category:
   - thực hành lập trình hướng đối tượng
 author: Ngọc Danh
-date: 2020-09-24T19:59:59.000Z
+date: 2020-09-24
 featureImage: /uploads/baiviet/java.png
 ---
 
@@ -134,4 +134,4 @@ Tải và xem ở mục Code đầy đủ
 
 ### Kết quả test
 
-![](https://1.bp.blogspot.com/-_gUoYWFTHX0/XomFJbZx_xI/AAAAAAAAeWU/yW18wWwq8TEydfw6hyH5LKktnCflkMQOgCLcBGAsYHQ/s1600/Screen%2BShot%2B2020-04-05%2Bat%2B2.12.05%2BPM.png)](https://1.bp.blogspot.com/-_gUoYWFTHX0/XomFJbZx_xI/AAAAAAAAeWU/yW18wWwq8TEydfw6hyH5LKktnCflkMQOgCLcBGAsYHQ/s1600/Screen%2BShot%2B2020-04-05%2Bat%2B2.12.05%2BPM.png)
+![](https://1.bp.blogspot.com/-_gUoYWFTHX0/XomFJbZx_xI/AAAAAAAAeWU/yW18wWwq8TEydfw6hyH5LKktnCflkMQOgCLcBGAsYHQ/s1600/Screen%2BShot%2B2020-04-05%2Bat%2B2.12.05%2BPM.png)
