@@ -16,7 +16,7 @@ featureImage: /uploads/baiviet/java.png
 
 ### Code đầy đủ:
 
-[bai15.zip](https://bit.ly/2SOnk5x) 
+[`bai15.zip`](https://bit.ly/2SOnk5x) 
 
 pass giải nén: `fithou.netlify.app`
 
@@ -203,4 +203,4 @@ Tải và xem ở mục code đầy đủ
 
 ### Kết quả test:
 
-[![](https://1.bp.blogspot.com/-XJScMuNo2hY/XohdyQPkUFI/AAAAAAAAeVk/C2WdchP-P9ElL3hOYg0TobQNupX9AphQwCLcBGAsYHQ/s400/Screen%2BShot%2B2020-04-04%2Bat%2B5.12.09%2BPM.png)](https://1.bp.blogspot.com/-XJScMuNo2hY/XohdyQPkUFI/AAAAAAAAeVk/C2WdchP-P9ElL3hOYg0TobQNupX9AphQwCLcBGAsYHQ/s1600/Screen%2BShot%2B2020-04-04%2Bat%2B5.12.09%2BPM.png)
+![](https://1.bp.blogspot.com/-XJScMuNo2hY/XohdyQPkUFI/AAAAAAAAeVk/C2WdchP-P9ElL3hOYg0TobQNupX9AphQwCLcBGAsYHQ/s400/Screen%2BShot%2B2020-04-04%2Bat%2B5.12.09%2BPM.png)](https://1.bp.blogspot.com/-XJScMuNo2hY/XohdyQPkUFI/AAAAAAAAeVk/C2WdchP-P9ElL3hOYg0TobQNupX9AphQwCLcBGAsYHQ/s1600/Screen%2BShot%2B2020-04-04%2Bat%2B5.12.09%2BPM.png)

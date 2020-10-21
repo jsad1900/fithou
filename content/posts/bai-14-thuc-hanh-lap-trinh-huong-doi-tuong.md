@@ -45,7 +45,7 @@ Nếu bạn vẫn thắc mắc thì hãy đọc một bài khá hay về interfa
 *   Phần dưới có thể thiếu, tải về đây để đúng yêu cầu bài
 *   Code để tham khảo, Chúc các bạn sẽ học tập tốt.
 
-[Bài14.zip](https://bit.ly/2SQtD8S)
+[`Bài14.zip`](https://bit.ly/2SQtD8S)
 
 pass giải nén: `fithou.netlify.app`
 

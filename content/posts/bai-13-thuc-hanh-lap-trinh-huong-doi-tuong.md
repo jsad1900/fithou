@@ -46,7 +46,7 @@ Thực ra, với interface hay một class bình thường thì vẫn không kh�
 
 ### Code đầy đủ
 
-[Bài 13.zip](https://bit.ly/3iZqnm1)
+[`Bài 13.zip`](https://bit.ly/3iZqnm1)
 
 pass giải nén: `fithou.netlify.app`
 

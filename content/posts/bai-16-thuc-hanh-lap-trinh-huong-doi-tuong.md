@@ -19,7 +19,7 @@ featureImage: /uploads/baiviet/java.png
 
 ### Code đầy đủ 
 
-[Bài 16.zip](https://bit.ly/34ViadI)
+[`Bài 16.zip`](https://bit.ly/34ViadI)
 
 pass giải nén: `fithou.netlify.app`
 
@@ -134,4 +134,4 @@ Tải và xem ở mục Code đầy đủ
 
 ### Kết quả test
 
-[![](https://1.bp.blogspot.com/-_gUoYWFTHX0/XomFJbZx_xI/AAAAAAAAeWU/yW18wWwq8TEydfw6hyH5LKktnCflkMQOgCLcBGAsYHQ/s1600/Screen%2BShot%2B2020-04-05%2Bat%2B2.12.05%2BPM.png)](https://1.bp.blogspot.com/-_gUoYWFTHX0/XomFJbZx_xI/AAAAAAAAeWU/yW18wWwq8TEydfw6hyH5LKktnCflkMQOgCLcBGAsYHQ/s1600/Screen%2BShot%2B2020-04-05%2Bat%2B2.12.05%2BPM.png)
+![](https://1.bp.blogspot.com/-_gUoYWFTHX0/XomFJbZx_xI/AAAAAAAAeWU/yW18wWwq8TEydfw6hyH5LKktnCflkMQOgCLcBGAsYHQ/s1600/Screen%2BShot%2B2020-04-05%2Bat%2B2.12.05%2BPM.png)](https://1.bp.blogspot.com/-_gUoYWFTHX0/XomFJbZx_xI/AAAAAAAAeWU/yW18wWwq8TEydfw6hyH5LKktnCflkMQOgCLcBGAsYHQ/s1600/Screen%2BShot%2B2020-04-05%2Bat%2B2.12.05%2BPM.png)

@@ -44,7 +44,7 @@ featureImage: /uploads/baiviet/java.png
 
 ### Code đầy đủ: 
 
-[Bài 10.zip](https://bit.ly/2Iuf4Gh)  
+[`Bài 10.zip`](https://bit.ly/2Iuf4Gh)  
 
 pass giải nén: `fithou.netlify.app`
   

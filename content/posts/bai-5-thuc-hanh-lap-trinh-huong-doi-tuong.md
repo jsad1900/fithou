@@ -19,7 +19,7 @@ featureImage: /uploads/baiviet/java.png
 
 ### Code đầy đủ:
 
-[bai5.zip](https://bit.ly/3drMa4L)
+[`bai5.zip`](https://bit.ly/3drMa4L)
 
 pass giải nén: `fithou.netlify.app`
 

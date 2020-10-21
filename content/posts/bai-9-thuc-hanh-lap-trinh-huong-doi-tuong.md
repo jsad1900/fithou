@@ -30,7 +30,7 @@ Dựa vào bài 6, bổ sung một số thuộc tính lương phụ cấp, in ra
 Code đầy đủ:
 ------------
 
-[Bài 9.zip](https://bit.ly/3lKe1Qu)  
+[`Bài 9.zip`](https://bit.ly/3lKe1Qu)  
 
 pass giải nén: `fithou.netlify.app`
 

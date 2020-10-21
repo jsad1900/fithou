@@ -31,7 +31,7 @@ featureImage: /uploads/baiviet/java.png
 
 ### Code đầy đủ
 
-[Bai 12.zip](https://bit.ly/33UvqjG)
+[`Bai 12.zip`](https://bit.ly/33UvqjG)
 
 pass giải nén: `fithou.netlify.app`
 

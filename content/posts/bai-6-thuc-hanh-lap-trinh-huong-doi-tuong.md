@@ -36,7 +36,7 @@ featureImage: /uploads/baiviet/java.png
 ### Code đầy đủ:
 ------------
 
-[Bài 6.zip](https://bit.ly/2GKtkdt)  
+[`Bài 6.zip`](https://bit.ly/2GKtkdt)  
 
 pass giải nén: `fithou.netlify.app`
 

@@ -15,7 +15,7 @@ Demo web bán sách
 
 #### Đầu tiên, bạn có thể xem sản phẩm hoàn thiện của mình đã chuyển qua html
 
-*   Web bán sách ND Books: [https://btl-tkw-sach.web.app/](https://btl-tkw-sach.web.app/)
+*   Web bán sách ND Books: [`https://btl-tkw-sach.web.app/`](https://btl-tkw-sach.web.app/)
 
 #### Bây giờ đi vào chi tiết, mình sẽ hướng dẫn các khái niệm cơ bản
 
@@ -48,7 +48,7 @@ Với môn TKW, bạn chỉ cần xét tỷ lệ là màn hình HD thôi. **Tỷ
 
 #### Chia sẻ mẫu PSD, tỷ lệ chuẩn (nội dung: 1200px) để ae thiết kế 
 
-[Tải TKW.psd](https://drive.google.com/file/d/1dWgpISdvfPr0bC7B4NLFd6KMcAi7C1F6/view?usp=sharing)
+[`Tải TKW.psd`](https://drive.google.com/file/d/1dWgpISdvfPr0bC7B4NLFd6KMcAi7C1F6/view?usp=sharing)
 
 ### 2, Căn nội dung trên photoshop
 
@@ -97,8 +97,6 @@ Hi vọng dựa vào bản thiết kế của mình, bạn sẽ học được k
 
 #### Tải thiết kế PSD trang con tin tức:
 
-[Tải TrangCon.psd](https://drive.google.com/drive/folders/1tB2IuicC7sNlWtjJy0wAUl6nt-MenjAE?usp=sharing){: .button}
-
-Good Luck, muốn trao đổi hãy liên hệ [fb.com/ngocdanh0508](https://facebook.com/ngocdanh0508).
+[`Tải TrangCon.psd`](https://drive.google.com/drive/folders/1tB2IuicC7sNlWtjJy0wAUl6nt-MenjAE?usp=sharing)
 
 
