@@ -4,7 +4,7 @@ subtitle: bài tập thực hành trong java
 category:
   - thực hành lập trình hướng đối tượng
 author: Ngọc Danh
-date: 2020-09-23T19:59:59.000Z
+date: 2020-09-16
 featureImage: /uploads/baiviet/java.png
 ---
 

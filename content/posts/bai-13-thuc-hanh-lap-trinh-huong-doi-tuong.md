@@ -5,7 +5,7 @@ category:
   - thực hành lập trình hướng đối tượng
   - lập trình hướng đối tượng
 author: Ngọc Danh
-date: 2020-09-21T19:59:59.000Z
+date: 2020-09-16
 featureImage: /uploads/baiviet/java.png
 ---
 > Bài 13, Cho một tập danh sách các cán bộ cần quản lý của một cơ quan nhà nước:  

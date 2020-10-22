@@ -4,7 +4,7 @@ subtitle: Tính tổng các chữ số C/C++
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
-date: 2020-09-12T19:59:59.000Z
+date: 2020-09-12
 featureImage: /uploads/baiviet/cpp.png
 ---
 
