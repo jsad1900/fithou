@@ -4,7 +4,7 @@ subtitle: Phần mềm lập trình C/C++
 category:
   - kỹ thuật lập trình cơ sở
 author: Ngọc Danh
-date: 2020-10-10
+date: 2020-10-18
 featureImage: /uploads/baiviet/code-blocks.png
 ---
 Khi bắt đầu học lập trình, có rất nhiều bạn bắt đầu với ngôn ngữ C/C++. Với cú pháp mạch lạc, chạy nhanh cũng như khả năng logic, hiện nay C/C++ được sử dụng trong các trường đại học cho những sinh viên năm nhất.
@@ -18,7 +18,7 @@ Hôm nay, tôi sẽ hướng dẫn các bạn cài Code::Blocks, một IDE dùng
 
 Các bạn tải Code::Blocks theo đường dẫn sau, phiên bản là 17.12. 
 
-[codeblocks-17.12mingw.exe](https://bit.ly/2E87lvm)
+[`codeblocks-17.12mingw.exe`](https://bit.ly/2E87lvm)
 
 *   Phiên bản mới hơn hiện tại là 20.3 nhưng trong quá trình chạy sẽ gặp vài lỗi, nên tôi khuyên bạn chạy 17.12
 *   Phiên bản đã tích hợp MingW, Compiler để chạy C/C++
