@@ -4,7 +4,7 @@ subtitle: Sử dụng if/else
 category:
   - thực hành lập trình cơ sở
 author: Văn Trường
-date: 2020-09-13
+date: 2020-09-16T19:59:59.000Z
 featureImage: /uploads/baiviet/cpp.png
 ---
 

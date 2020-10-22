@@ -4,7 +4,7 @@ subtitle: bài tập về số nguyên
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
-date: 2020-09-13
+date: 2020-09-25T19:59:59.000Z
 featureImage: /uploads/baiviet/cpp.png
 ---
 

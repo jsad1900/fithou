@@ -4,7 +4,7 @@ subtitle: bài tập thực hành trong C/C++
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
-date: 2020-09-14
+date: 2020-09-26T19:59:59.000Z
 featureImage: /uploads/baiviet/cpp.png
 ---
 > **Bài 21**, Viết chương trình nhập vào mảng hai chiều các số thực. Áp dụng:  
