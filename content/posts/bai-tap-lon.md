@@ -14,6 +14,7 @@ featureImage: /uploads/baitaplon.jpg
 > Cám ơn các bạn sau đã đóng góp cho kho BTL:
 >- [Ngọc Danh](https://www.facebook.com/ngocdanh0508)
 >- [Nghiêm Linh](https://www.facebook.com/nghiemlinhnq)
+>- [Thủy](https://www.facebook.com/anlinh.nguyen.370)
 >- ... 
 
 > **Pass link tải BTL(nếu có)**: `fithou.netlify.app`
