@@ -12,9 +12,10 @@ featureImage: /uploads/baitaplon.jpg
 > Các bạn muốn đóng góp BTL vào đây vui lòng liên hệ [facebook Ngọc Danh](https://www.facebook.com/ngocdanh0508)
 >
 > Cám ơn các bạn sau đã đóng góp cho kho BTL:
->- [Ngọc Danh](https://www.facebook.com/ngocdanh0508)
->- [Nghiêm Linh](https://www.facebook.com/nghiemlinhnq)
->- [Thủy](https://www.facebook.com/anlinh.nguyen.370)
+>- [Ngọc Danh - k19](https://www.facebook.com/ngocdanh0508)
+>- [Nguyễn Đình Đạt - k15](https://www.facebook.com/friends/?profile_id=100001624700614)
+>- [Nghiêm Thị Thu Linh - k19](https://www.facebook.com/nghiemlinhnq)
+>- [Nguyễn Thị Thủy - k19](https://www.facebook.com/anlinh.nguyen.370)
 >- ... 
 
 > **Pass link tải BTL(nếu có)**: `fithou.netlify.app`

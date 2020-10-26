@@ -56,3 +56,34 @@ a code {
   padding: 8px;
   border: 1px solid #0ea992;
 }
+.card {
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 1px 3px 6px rgba(84, 94, 111, 0.2);
+  transition: transform 0.2s ease-in-out, background 0.2s ease-in-out;
+  .card-content {
+    h3.title.is-5 {
+      font-weight: bold !important;
+    }
+  }
+}
+.navbar-menu a {
+  color: #fff;
+  background: #148c7a;
+  padding: 6px 10px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 1px rgb(20 140 122 / 34%);
+  transition: all 0.3s ease;
+}
+.navbar-menu a:hover {
+  transform: translate(0px, -2px);
+}
+
+.search-wrapper.inactive .search-icon {
+  cursor: pointer;
+}
+@media screen and (max-width: 768px) {
+  .media-content {
+    overflow-x: unset !important;
+  }
+}
