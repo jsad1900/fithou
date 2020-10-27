@@ -24,15 +24,6 @@
 import { mapState } from 'vuex'
 import { setPageData } from '../helper'
 import NewsLetterFormModal from '~/components/NewsLetterFormModal'
-const ig = document.getElementsByTagName('img')
-for (const i of ig) {
-  i.style.display = 'table'
-  i.style.margin = '0 auto'
-}
-const hf = document.querySelectorAll('#post-page a')
-for (const i of hf) {
-  i.setAttribute('target', '_blank')
-}
 export default {
   name: 'HomePage',
   head() {

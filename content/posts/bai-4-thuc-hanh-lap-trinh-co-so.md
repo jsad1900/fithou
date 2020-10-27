@@ -4,7 +4,7 @@ subtitle: Nhập xuất cơ bản C/C++
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
-date: 2020-09-01
+date: 2020-09-12T19:59:59.000Z
 featureImage: /uploads/baiviet/cpp.png
 ---
 
