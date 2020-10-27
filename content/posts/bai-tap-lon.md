@@ -16,6 +16,8 @@ featureImage: /uploads/baitaplon.jpg
 >- [Nguyễn Đình Đạt - k15](https://www.facebook.com/friends/?profile_id=100001624700614)
 >- [Nghiêm Thị Thu Linh - k19](https://www.facebook.com/nghiemlinhnq)
 >- [Nguyễn Thị Thủy - k19](https://www.facebook.com/anlinh.nguyen.370)
+>- [Thu Hằng - k19](https://www.facebook.com/hoang.minhtu.1610)
+>- [Phạm Hùng - k19](https://www.facebook.com/hungggg1)
 >- ... 
 
 > **Pass link tải BTL(nếu có)**: `fithou.netlify.app`

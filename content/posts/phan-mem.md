@@ -10,7 +10,6 @@ featureImage: /uploads/catelogy/soft.jpg
 >- **Tải và xem hướng dẫn** : [tại đây](/phan-mem-tinh-diem-trung-binh-dh-mo-ha-noi)
 ### Lập trình C++
 >- Hướng dẫn cài `Code::Blocks` để lập trình C/C++: [tại đây](/huong-dan-cai-code-blocks)
->- Hướng dẫn tùy chỉnh **visual studio** code để lập trình C/C++: [tại đây](/#)
 ### Lập trình Java
 >- Hướng dẫn cài `netbrains` lập trình java: [tại đây](/#)
 ### Lập trình Android
