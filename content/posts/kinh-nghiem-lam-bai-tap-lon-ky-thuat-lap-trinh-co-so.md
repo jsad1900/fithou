@@ -76,17 +76,19 @@ Hoặc có thể truy cập link sau:
 
 Nếu để trật môn hay điểm thấp sẽ rất ảnh hưởng sau này. Ví dụ kỳ này trật môn này thì em phải chờ đến kỳ sau mới được mở lớp học tiếp. Và ở kỳ 2, các bạn cùng khóa đang học java thì chúng ta vẫn phải chờ năm sau học C++ mới được học java. 
 
-Team `BEU` (gồm 3 thành viên) hỗ trợ làm bài tập lớn từ A-> Z. Đối tượng các bạn có thể tham gia là:
+Biết được điều đó. Team `BEU` tụi mình với kinh nghiệm làm bài tập lớn cho các khóa trước. Nay hỗ trợ làm bài tập lớn từ A-> Z cho k20, k19 với chi phí rất hợp lý. Đảm bảo đạt kết quả cao, quy trình báo cáo rõ ràng. Đối tượng có thể tham gia là:
 
-- Muốn đạt điểm cao trong môn học
-- Gần ngày thi nhưng chưa hoàn thành bài tập lớn
+- Các bạn muốn đạt điểm cao trong môn học
+- Gần ngày thi nhưng bạn chưa hoàn thành bài tập lớn
 - Làm gần hết, nhưng còn vài bài chưa viết được.
+- Muốn làm bài thi tốt và đẹp nhất
 - ...
 
-Các em sẽ được hỗ trợ làm bài tập lớn gồm: 
+#### Các gói sẽ được hỗ trợ làm bài tập lớn gồm: 
 
 - Gói tổng hợp: viết code, trình bày bản word, in quyển và tư vấn trực tiếp về thi. 
 - Gói nhỏ: Viết riêng các bài code
 
-**Xem chi tiết tại đây: **
+Ngoài ra, tụi mình tư vấn miễn phí và nhiệt tình về các hình thức thi, ý tưởng làm bài, ...
+#### Xem chi tiết tại đây: 
 [`Hỗ trợ bài tập lớn`](#)
