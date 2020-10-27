@@ -4,7 +4,7 @@ subtitle: Tính giá trị biểu thức
 category:
   - thực hành lập trình cơ sở
 author: Văn Trường
-date: 2020-09-18T19:59:59.000Z
+date: 2020-09-02
 featureImage: /uploads/baiviet/cpp.png
 ---
 

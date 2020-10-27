@@ -4,7 +4,7 @@ subtitle: Kiểm tra số chính phương
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
-date: 2020-09-22T19:59:59.000Z
+date: 2020-09-02
 featureImage: /uploads/baiviet/cpp.png
 ---
 
