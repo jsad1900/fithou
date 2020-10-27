@@ -4,7 +4,7 @@ subtitle: Bài tập lớn môn C/C++
 category:
   - kỹ thuật lập trình cơ sở
 author: Ngọc Danh
-date: 2020-09-03
+date: 2020-10-25
 featureImage: /uploads/baiviet/cpp.png
 ---
 
@@ -88,4 +88,5 @@ Các em sẽ được hỗ trợ làm bài tập lớn gồm:
 - Gói tổng hợp: viết code, trình bày bản word, in quyển và tư vấn trực tiếp về thi. 
 - Gói nhỏ: Viết riêng các bài code
 
-**Xem chi tiết tại đây: [Hỗ trợ bài tập lớn môn kỹ thuật lập trình cơ sở](#)**
+**Xem chi tiết tại đây: **
+[`Hỗ trợ bài tập lớn`](#)
