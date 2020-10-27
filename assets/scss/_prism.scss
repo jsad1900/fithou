@@ -33,7 +33,7 @@
 }
 .post-wrapper blockquote {
   margin: 7px !important;
-  background: #c5fbf3;
+  background: #e1f9f5;
   border-left: 5px solid #81f3e2 !important;
 }
 .author-active h2 {
@@ -100,8 +100,21 @@ a code {
   .media-content {
     overflow-x: unset !important;
   }
+  h1.title {
+    font-size: 22px;
+  }
 }
 .has-text-weight-light {
   font-size: 17px !important;
   font-weight: 500 !important;
+}
+.khoa-hoc {
+  padding-top: 30px;
+  display: none;
+}
+.khoa-hoc a.pic-kh {
+  max-width: 680px;
+  display: table;
+  margin: 0 auto;
+  padding: 0 20px;
 }

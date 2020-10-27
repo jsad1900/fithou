@@ -5,7 +5,7 @@ category:
   - kỹ thuật lập trình cơ sở
 author: Ngọc Danh
 date: 2020-10-25
-featureImage: /uploads/baiviet/cpp.png
+featureImage: /uploads/bg/6.jpg
 ---
 
 Bước vào giảng đường đại học, các em sẽ được tiếp xúc với nhiều sự thay đổi. Ở hình thức chấm thi, cách đánh giá học tập. Trong số đó thì `bài tập lớn` được đưa ra để đánh giá một số môn học, trong đó chủ yếu là các môn về lập trình. ` Bài tập lớn ` bao gồm các yêu cầu có sẵn các bài toán tùy thuộc vào đề, các em sẽ phải trình bày trên một quyển và dùng nó để đi thi.
@@ -76,19 +76,9 @@ Hoặc có thể truy cập link sau:
 
 Nếu để trật môn hay điểm thấp sẽ rất ảnh hưởng sau này. Ví dụ kỳ này trật môn này thì em phải chờ đến kỳ sau mới được mở lớp học tiếp. Và ở kỳ 2, các bạn cùng khóa đang học java thì chúng ta vẫn phải chờ năm sau học C++ mới được học java. 
 
-Biết được điều đó. Team `BEU` tụi mình với kinh nghiệm làm bài tập lớn cho các khóa trước. Nay hỗ trợ làm bài tập lớn từ A-> Z cho k20, k19 với chi phí rất hợp lý. Đảm bảo đạt kết quả cao, quy trình báo cáo rõ ràng. Đối tượng có thể tham gia là:
+Biết được điều đó sẽ ảnh hưởng quá trình học tập các em. Team `BEU` tụi mình với kinh nghiệm làm bài tập lớn cho các khóa trước. Nay hỗ trợ làm bài tập lớn từ A-> Z cho k20, k19 với chi phí rất hợp lý. Đảm bảo đạt kết quả cao, quy trình báo cáo rõ ràng. 
 
-- Các bạn muốn đạt điểm cao trong môn học
-- Gần ngày thi nhưng bạn chưa hoàn thành bài tập lớn
-- Làm gần hết, nhưng còn vài bài chưa viết được.
-- Muốn làm bài thi tốt và đẹp nhất
-- ...
+Team `BEU` chúng mình nhận tư vấn miễn phí và nhiệt tình về các hình thức thi, ý tưởng code bài tập, ...
 
-#### Các gói sẽ được hỗ trợ làm bài tập lớn gồm: 
-
-- Gói tổng hợp: viết code, trình bày bản word, in quyển và tư vấn trực tiếp về thi. 
-- Gói nhỏ: Viết riêng các bài code
-
-Ngoài ra, tụi mình tư vấn miễn phí và nhiệt tình về các hình thức thi, ý tưởng làm bài, ...
 #### Xem chi tiết tại đây: 
-[`Hỗ trợ bài tập lớn`](#)
+[`Hỗ trợ bài tập lớn KTLTCS`](https://bit.ly/3jsssaA)

@@ -11,6 +11,11 @@
         <strong>Đăng lúc:</strong> {{ date }}
       </span>
     </site-hero>
+    <div class="khoa-hoc">
+      <a class="pic-kh" href="https://bit.ly/3jsssaA">
+        <img src="https://i.ibb.co/J2KkMjY/1.jpg" alt="" />
+      </a>
+    </div>
     <main-section :one-column-constrained="true">
       <template v-slot:default>
         <div class="post-wrapper">

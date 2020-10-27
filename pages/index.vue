@@ -2,7 +2,11 @@
   <div id="home-page" class="page-wrapper home-page">
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
     </site-hero>
-    <div class="container khoa-hoc"></div>
+    <div class="container khoa-hoc">
+      <a class="pic-kh" href="https://bit.ly/3jsssaA">
+        <img src="https://i.ibb.co/J2KkMjY/1.jpg" alt="" />
+      </a>
+    </div>
     <main-section theme="one-column">
       <template v-slot:default>
         <!-- All Posts -->
@@ -47,8 +51,7 @@ export default {
 .home-page .under-subtitle {
   border-top: none;
 }
-.khoa-hoc {
-  display: none;
-  padding-top: 30px;
+.page-main-section {
+  margin-top: unset;
 }
 </style>
