@@ -3,7 +3,7 @@ title: Kinh nghiệm làm bài tập lớn môn "Kỹ thuật lập trình cơ s
 subtitle: Bài tập lớn môn C/C++
 category:
   - kỹ thuật lập trình cơ sở
-author: Ngọc Danh
+author: BEU Team
 date: 2020-10-25
 featureImage: /uploads/bg/6.jpg
 ---
@@ -22,7 +22,7 @@ Hôm nay `fithou notes` sẽ hướng dẫn các em chi tiết về cách làm b
 > Bài tập lớn sẽ được trình bày lên word sau đó in thành quyển. Trong đó phải đáp ứng yêu cầu từ thầy cô như có code, bộ test dữ liệu,...
 
 - Thầy cô ra đề thi cuối kỳ thì bài tập nằm trong bài tập lớn hay ở đâu?
->Trước khóa anh khi đi thi thì thầy cô sẽ ra 1 câu trong quyển bài tập lớn và viết lại trên máy tính của trường. Ví dụ: Các em làm lại bài 7 trong bài tập lớn của mình lên máy tính.
+>Khóa anh khi đi thi thì thầy cô sẽ ra 1 câu trong quyển bài tập lớn và viết lại trên máy tính của trường. Ví dụ: Các em làm lại bài 7 trong bài tập lớn của mình lên máy tính.
 
 - Thi ở đâu? Thi giấy hay máy tính? 
 > Đầu tiên, sẽ thi tại phòng máy tầng 3 của khoa. Các em sẽ thi trên máy tính của trường và các máy tính thì sẽ tất nhiên được ngắt internet.  Các em mang theo quyển BTL + quyển thực hành để lấy điểm.
@@ -94,7 +94,7 @@ Dựa theo mẫu trên, các câu trong bài tập lớn sẽ phải đầy đ�
 **Khi in bài tập lớn, chúng ta sẽ có những lưu ý sau để bài tập lớn đẹp nhất:**
 - Bài tập lớn được đóng bìa xanh
 - Có thể đóng bìa bóng hoặc không cần
-- - Sử dụng font Times New Roman, bảng mã Unicode, cỡ chữ (size) 14;
+- Sử dụng font Times New Roman, bảng mã Unicode, cỡ chữ (size) 14;
 - Dãn dòng (Line spacing) ở chế độ 1,5 line;
 - Căn lề: Lề trên (top) 35mm; lề dưới (bottom) 30mm; lề trái (left)
 35mm; lề phải(right) 20 mm, header 12.7mm, footer 12.7mm;
@@ -118,9 +118,9 @@ Hoặc có thể truy cập link sau để xem bài tập lớn của khóa trư
 
 Nếu để trật môn hay điểm thấp sẽ rất ảnh hưởng sau này. Ví dụ kỳ này trật môn này thì em phải chờ đến kỳ sau mới được mở lớp học tiếp. Và ở kỳ 2, các bạn cùng khóa đang học java thì chúng ta vẫn phải chờ năm sau học C++ mới được học java. 
 
-Biết được điều đó sẽ ảnh hưởng quá trình học tập các em. Team `BEU` tụi mình với kinh nghiệm làm bài tập lớn cho các khóa trước. Team tư vấn, định hướng làm bài tập lớn cho các em miễn phí.
+Biết được điều đó sẽ ảnh hưởng quá trình học tập các em. `Team BEU` tụi anh với kinh nghiệm làm bài tập lớn cho các khóa trước. Team tư vấn, định hướng làm bài tập lớn cho các em miễn phí.
 
-Ngoài ra, Team cũng hỗ trợ làm full bài gồm code+word dành cho những bạn không làm được BTL.
+Ngoài ra, Team cũng hỗ trợ làm full bài gồm code+word dành cho các em không làm được BTL.
 
 #### Xem chi tiết tại đây: 
 [`Hỗ trợ bài tập lớn KTLTCS`](https://bit.ly/3jsssaA)
