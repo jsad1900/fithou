@@ -23,7 +23,9 @@ featureImage: /uploads/baitaplon.jpg
 > **Pass link tải BTL(nếu có)**: `fithou.netlify.app`
 ## Kỹ thuật lập trình cơ sở
 >- Bài tập lớn Word + Code: [Folder](https://bit.ly/3lznNFh)
->- Kinh nghiệm làm BTL: [tại đây](#)
+>- Kinh nghiệm làm BTL: [tại đây](/kinh-nghiem-lam-bai-tap-lon-ky-thuat-lap-trinh-co-so)
+## Tin học cơ sở
+>- Bài tập lớn Word: [Folder](https://bit.ly/35IDhQL)
 ## Lập trình hướng đối tượng
 >- Bài tập word+code: [Folder](https://bit.ly/33RAwwZ)
 >- Kinh nghiệm làm BTL: [tại đây](#)
@@ -35,5 +37,8 @@ featureImage: /uploads/baitaplon.jpg
 >- Bài tập word: [Folder](https://bit.ly/2GX4DKw)
 >- Kinh nghiệm làm BTL: [tại đây](#)
 ## Cấu trúc dữ liệu và giải thuật
+>- Bài tập word+code: [Folder](https://bit.ly/33NCdLY)
+>- Kinh nghiệm làm BTL: [tại đây](/kinh-nghiem-btl-cau-truc-giai-thuat)
+## Lập trình di động Android
 >- Bài tập word+code: [Folder](https://bit.ly/33NCdLY)
 >- Kinh nghiệm làm BTL: [tại đây](/kinh-nghiem-btl-cau-truc-giai-thuat)
