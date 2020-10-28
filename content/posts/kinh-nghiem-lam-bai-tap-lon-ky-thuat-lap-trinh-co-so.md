@@ -10,13 +10,13 @@ featureImage: /uploads/bg/6.jpg
 
 Bước vào giảng đường đại học, các em sẽ được tiếp xúc với nhiều sự thay đổi. Ở hình thức chấm thi, cách đánh giá học tập. Trong số đó thì `bài tập lớn` được đưa ra để đánh giá một số môn học, trong đó chủ yếu là các môn về lập trình. ` Bài tập lớn ` bao gồm các yêu cầu có sẵn các bài toán tùy thuộc vào đề, các em sẽ phải trình bày trên một quyển và dùng nó để đi thi.
 
-Hôm nay `fithou notes` sẽ hướng dẫn các em chi tiết về cách làm bài tập lớn của môn ` Kỹ thuật lập trình cơ sở `. Trình bày về cách trình bày word, cách in quyển bài tập lớn,...
+Hôm nay `BEU Team` sẽ hướng dẫn các em chi tiết về cách làm bài tập lớn của môn ` Kỹ thuật lập trình cơ sở `. Trình bày về cách trình bày word, cách in quyển bài tập lớn,...
 
 ### Q & A
 **Mục này tóm tắt vài câu hỏi ngắn về bài tập lớn**
 
 - Bài tập lớn là gì?
->Bài tập lớn là bài dùng để đánh giá quá trình học tập của môn. Hôm thi bài tập lớn sẽ in ra thành quyển và nộp cho thầy cô, đề thi cũng nằm trong bài tập lớn.
+>Bài tập lớn là bài dùng để đánh giá quá trình học tập của môn. Hôm thi, bài tập lớn sẽ in ra thành quyển và nộp cho thầy cô, đề thi cũng nằm trong bài tập lớn.
 
 - Trình bày bài tập lớn như nào?
 > Bài tập lớn sẽ được trình bày lên word sau đó in thành quyển. Trong đó phải đáp ứng yêu cầu từ thầy cô như có code, bộ test dữ liệu,...
