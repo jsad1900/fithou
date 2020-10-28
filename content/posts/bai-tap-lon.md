@@ -39,6 +39,9 @@ featureImage: /uploads/baitaplon.jpg
 ## Cấu trúc dữ liệu và giải thuật
 >- Bài tập word+code: [Folder](https://bit.ly/33NCdLY)
 >- Kinh nghiệm làm BTL: [tại đây](/kinh-nghiem-btl-cau-truc-giai-thuat)
+## Lập trình hướng sự kiện C#
+>- Bài tập word+code: [Folder](https://bit.ly/3kzKzN2)
+>- Kinh nghiệm làm BTL: [tại đây](/#)
 ## Lập trình di động Android
->- Bài tập word+code: [Folder](https://bit.ly/33NCdLY)
->- Kinh nghiệm làm BTL: [tại đây](/kinh-nghiem-btl-cau-truc-giai-thuat)
+>- Bài tập word+code: [Folder](https://bit.ly/3oxYo0X)
+>- Kinh nghiệm làm BTL: [tại đây](/#)
