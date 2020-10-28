@@ -10,6 +10,10 @@ featureImage: /uploads/baiviet/cpp.png
 
 > Bài 8, Viết chương trình nhập vào 3 số thực a, b, c. Kiểm tra chúng có thỏa mãn là 3 cạnh của tam giác hay không. Nếu tam giác đó là tam giác gì thường, cân đều, vuông, vuông cân
 
+## Lưu ý:
+
+Ba cạnh là tam giác khi 2 cạnh lớn hơn 1 cạnh còn lại và đồng thời cả 3 cạnh không có cạnh nào bằng 0
+
 ## Code:  
 
 ```c++

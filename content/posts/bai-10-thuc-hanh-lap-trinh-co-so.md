@@ -41,7 +41,7 @@ int main(){
 	BMI = cannang / (chieucao * chieucao);
 	cout << "\nKet luan: ";
 	if(BMI < 40){
-	    if(BMI > 30)
+	    if(BMI >= 30)
 	         cout << "Beo, can giam can";
 	    else if(BMI >= 25)
 	         cout << "Thua can";

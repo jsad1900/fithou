@@ -21,14 +21,14 @@ featureImage: /uploads/baiviet/cpp.png
 using namespace std;
 int main(){
 	//bai 9 - fithou.netlify.app - Van Truong
-	int a, b, c;
-	cout << "a = "; cin >> a;
-	cout << "b = "; cin >> b;
-	cout << "c = "; cin >> c;
+	float a, b, c;
+	cout << "nhap a: "; cin >> a;
+	cout << "nhap b: "; cin >> b;
+	cout << "nhap c: "; cin >> c;
 	if(b != 0)
 	   cout << "F(x) = (a + c) / b = " << (a + c) / b;
 	else{
-		cout << "F(x) = a + c =  " << a + c;
+		cout << "F(x) = a - c =  " << a - c;
 	}
 	return 0;
 }

@@ -12,6 +12,9 @@ featureImage: /uploads/baiviet/cpp.png
 > Ví dụ N = 497 . Chữ số lớn nhất nằm ở hàng chục
 
 ## Code  
+
+### Cách 1
+
 ```c++
 #include <iostream>
 #include <math.h>
@@ -44,6 +47,45 @@ int main() {
             cout<<"so lon nhat o hang Don Vi";
          }
      }
+}
+```
+
+### Cách 2
+
+- Có sử dụng toán tử 3 ngôi dạng với `c` là kết quả thì `a>b?c=a:c=b`, nếu `a>b` đúng thì `c= a`, nếu sai `c=b`. So sánh 3 số với nhau là kết quả của phép so sánh 2 cặp số.
+
+```c++
+#include <iostream>
+
+using namespace std;
+
+int main(){
+	// bai 5 - fithou.netlify.app - @NgocDanh
+	int n;
+
+	cout<<"nhap n: ";
+	cin>>n;
+
+	int a[4];
+	a[0] = n%10;
+	a[1] = (n%100)/10;
+	a[2] = n/100;
+	
+	int j;
+	(a[0]>a[1])?j=0:j=1;
+	(a[j]>a[2])?j:j=2;
+
+	if(j==0){
+		cout<<"so lon nhat o hang don vi";
+	}
+	else if(j==1){
+		cout<<"so lon nhat o hang chuc";
+	}
+	else {
+		cout<<"so lon nhat o hang tram";
+	}
+	
+	return 0;
 }
 ```
 

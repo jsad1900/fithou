@@ -17,8 +17,8 @@ featureImage: /uploads/baiviet/cpp.png
  
 using namespace std;
  
-int main(int argc, char** argv) {
-	//bai 7
+int main() {
+	//bai 7 - fithou.netlify.app - @NgocDanh
 	int n;
 	cout<<"Moi ban nhap vao nam can tra: "; cin>> n;
 	if(n%4 == 0 && n%100 != 0 || n%400 == 0) {
