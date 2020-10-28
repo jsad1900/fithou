@@ -68,6 +68,9 @@ Cụ thể giá như sau:
 
 [`Form đăng ký`](https://bit.ly/3kB6LXe)
 
+*Chú ý:*
+> Từ giờ đến lúc thi, bạn có thể đăng ký bất kỳ khi nào. Nhưng tối thiểu trước 1 tuần trước khi thi.
+
 ---
 
 Nhận tư vấn, hỏi đáp  vui lòng inbox cho BEU Team theo các đường dẫn sau:
