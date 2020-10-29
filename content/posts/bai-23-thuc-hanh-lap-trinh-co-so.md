@@ -4,7 +4,7 @@ subtitle: bài tập thực hành ngôn ngữ C/C++
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
-date: 2020-09-27T19:59:59.000Z
+date: 2020-09-26T19:59:59.000Z
 featureImage: /uploads/baiviet/cpp.png
 ---
 
