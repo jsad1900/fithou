@@ -75,7 +75,7 @@ Cụ thể giá như sau:
 
 Nhận tư vấn, hỏi đáp  vui lòng inbox cho BEU Team theo các đường dẫn sau:
 
-[`facebook Ngọc Danh`](https://www.facebook.com/ngocdanh0508)
+[`facebook Ngọc Danh`](https://bit.ly/3oESPxF)
 
 hoặc
 [`facebook Văn Trường`](https://www.facebook.com/profile.php?id=100020053574310)
