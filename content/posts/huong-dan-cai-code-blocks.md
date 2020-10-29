@@ -3,6 +3,7 @@ title: Hướng dẫn cài đặt Code Blocks lập trình C/C++
 subtitle: Phần mềm lập trình C/C++
 category:
   - thực hành lập trình cơ sở
+  - phần mềm
 author: Ngọc Danh
 date: 2020-10-13
 featureImage: /uploads/baiviet/code-blocks.png

@@ -3,6 +3,7 @@ title: Hướng dẫn cài đặt và crack photoshop CS6
 subtitle: Phần mềm chuyên dụng để thiết kế web
 category:
   - thiết kế web
+  - phần mềm
 author: Ngọc Danh
 date: 2020-10-10T03:49:49.295Z
 featureImage: /uploads/baiviet/ptscs6.png
