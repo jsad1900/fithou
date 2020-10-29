@@ -1,6 +1,6 @@
 ---
-title: Bài 15 - thực hành lập trình cơ sở
-subtitle: Kiểm tra số chính phương
+title: Bài 16 - thực hành lập trình cơ sở
+subtitle: Tìm n thỏa mãn
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
