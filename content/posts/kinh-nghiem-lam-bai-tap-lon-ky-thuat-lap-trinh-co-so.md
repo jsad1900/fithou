@@ -89,6 +89,10 @@ Dựa theo mẫu trên, các câu trong bài tập lớn sẽ phải đầy đ�
 - Code: file chương trình chi tiết
 - Test: lập bảng có cả Input và Output tương ứng
 
+## Quy định khoa về BTL (Hơi dài, mình có lược nội dung dưới kia nhé)
+
+[`Tải quy định trình bày BTL FITHOU`](https://bit.ly/2HJY9PG)
+
 ## In bài tập lớn
 
 **Khi in bài tập lớn, chúng ta sẽ có những lưu ý sau để bài tập lớn đẹp nhất:**
