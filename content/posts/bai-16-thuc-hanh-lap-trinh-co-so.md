@@ -15,7 +15,7 @@ featureImage: /uploads/baiviet/cpp.png
 
 ### Thuật toán: 
 
-> Ta có `1/n^2 <10^-6` tương đương với `n^2<10^6`. Vậy chỉ cần dùng while, chạy và tìm ra `n = 1000`
+> Ta có khi `1/n^2 <10^-6` thì dừng lại tương đương với `n^2<10^6`, khi vượt qua `>=10^6` thì xuất n ra. Vậy chỉ cần dùng while, chạy và tìm ra `n = 1000`
 
 ### Code:
 
