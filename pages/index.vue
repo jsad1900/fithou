@@ -51,8 +51,4 @@ export default {
 .home-page .under-subtitle {
   border-top: none;
 }
-.page-main-section {
-  margin-top: unset;
-  padding-top: 10px !important;
-}
 </style>
