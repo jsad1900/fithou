@@ -45,7 +45,7 @@ int main()
         }
         else
         {
-            if(sqrt(n) - (floorf)(sqrt(n)) == 0)
+            if(sqrt(n) - (int)(sqrt(n)) == 0)
             {
                 if(n%2 == 0)
                 {

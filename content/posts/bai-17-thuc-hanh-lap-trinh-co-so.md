@@ -12,7 +12,7 @@ featureImage: /uploads/baiviet/cpp.png
 
 ## Thuật toán:
 
-> Để tách mảng a\[\] thành 2 mảng khác nhau. Ta tách lần lượt mảng chẵn vào mảng b\[\], mảng lẻ vào mảng c\[\]. Sau đó in ra 2 mảng b\[\], c\[\].
+> Để tách mảng a[] thành 2 mảng khác nhau. Ta tách lần lượt mảng chẵn vào mảng b[], mảng lẻ vào mảng c[]. Sau đó in ra 2 mảng b[], c[].
 
 ## Code:
 
