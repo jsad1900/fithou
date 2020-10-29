@@ -7,7 +7,7 @@ date: 1970-10-13T17:30:16.858Z
 featureImage: /uploads/catelogy/soft.jpg
 ---
 ### Phần mềm tính điểm trung bình đại học Mở Hà Nội
->- **Tải và xem hướng dẫn** : [tại đây](/phan-mem-tinh-diem-trung-binh-dh-mo-ha-noi)
+>- **Tải và xem hướng dẫn** : [tại đây](https://bit.ly/3kM5FIo)
 ### Lập trình C++
 >- Hướng dẫn cài `Code::Blocks` để lập trình C/C++: [tại đây](/huong-dan-cai-code-blocks)
 ### Lập trình Java

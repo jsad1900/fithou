@@ -5,7 +5,7 @@ category:
   - phần mềm
 author: Ngọc Danh
 date: 2020-03-05T04:27:56.800Z
-featureImage: https://1.bp.blogspot.com/-ZyegquygH7A/XucF_-XUwxI/AAAAAAAAg_U/ptKtD7Furv8WDaWX_7qUMGKjLfApDpi_wCK4BGAsYHg/d/photo_2020-06-09_20-22-01.jpg
+featureImage: /uploads/bg/3.jpg
 ---
 Học kỳ sắp kết thúc, cũng là lúc các anh em có điểm tổng kết học kỳ. Để dễ dàng tính điểm trung bình, mình có viết ứng dụng nhỏ giúp mọi người xác định nhanh chóng học lực khá, giỏi, xuất sắc,... theo thang điểm hệ số 4.  
 
@@ -30,9 +30,9 @@ Xem video hướng dẫn chi tiết sau để tính: [http://www.youtube.com/wat
 
 ### Tải phần mềm.
 
-[https://bit.ly/2ZjLUzC](https://bit.ly/2ZjLUzC)
+[`Điểm TB.zip`](https://bit.ly/2ZjLUzC)
 
-pass: `blog.ndanh.com`
+pass giải nén: `blog.ndanh.com`
 
 ### Phản hồi 
 
