@@ -15,7 +15,7 @@ featureImage: /uploads/baiviet/cpp.png
 
 ### Thuật toán: 
 
-> Ta có khi `1/n^2 <10^-6` thì dừng lại tương đương với `n^2<10^6`, khi vượt qua `>=10^6` thì xuất n ra. Vậy chỉ cần dùng while, chạy và tìm ra `n = 1000`
+> Ta có khi `1/n^2 <10^-6` thì dừng lại tương đương với `n^2<10^6`, khi vượt qua `>=10^6` thì xuất n ra. Vậy chỉ cần dùng while, chạy và tìm ra `n = 999`
 
 ### Code:
 
@@ -32,7 +32,7 @@ int main(){
 	while(n*n<m){
 		n++;
 	}
-	cout<<"n la: "<<n<<endl;
+	cout<<"n la: "<<n-1<<endl;
 	return 0;
 }
 ```
