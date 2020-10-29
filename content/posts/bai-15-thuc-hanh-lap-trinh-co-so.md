@@ -27,6 +27,8 @@ featureImage: /uploads/baiviet/cpp.png
 using namespace std;
 int main()
 {
+    // bai 15 - fithou.netlify.app - @NgocDanh
+
     int n, i, dem,demDuong, S;
     float tbc;
     i = 0;

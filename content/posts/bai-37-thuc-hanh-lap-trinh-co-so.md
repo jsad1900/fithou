@@ -16,6 +16,8 @@ featureImage: /uploads/baiviet/cpp.png
 
 using namespace std;
 
+// bai 37 - fithou.netlify.app - @NgocDanh
+
 struct TB {
     int cuocPhi, soThueBao;
     char tenKH[30], ngayLap[20];

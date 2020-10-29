@@ -14,8 +14,9 @@ featureImage: /uploads/baiviet/cpp.png
 ```c++
 #include <bits/stdc++.h>
 
-
 using namespace std;
+
+// bai 33 - fithou.netlify.app - @NgocDanh
 
 struct XE {
     int soCho, namSanXuat, giaThue;

@@ -20,6 +20,7 @@ featureImage: /uploads/baiviet/cpp.png
 using namespace std;
 
 int main(){
+	// bai 21 - fithou.netlify.app - @NgocDanh
 	int n, m;
 	cout<<"nhap so hang: ";
 	cin>>n;

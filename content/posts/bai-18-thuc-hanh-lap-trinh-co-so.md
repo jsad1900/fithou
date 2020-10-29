@@ -28,6 +28,8 @@ featureImage: /uploads/baiviet/cpp.png
 using namespace std;
 int main()
 {
+    // bai 18 - fithou.netlify.app - @NgocDanh
+
     int n, i,x, tg, p, dem, a[100];
     dem =0;
     cout<<"nhap n so nguyen can nhap: ";

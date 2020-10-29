@@ -30,8 +30,10 @@ featureImage: /uploads/baiviet/cpp.png
 #include <iostream>
 #include <iomanip>
 using namespace std;
+
 int main()
 {
+    // bai 23 - fithou.netlify.app - @NgocDanh
     int n, i, j, v, a[100][100];
 
     //nhap vao n

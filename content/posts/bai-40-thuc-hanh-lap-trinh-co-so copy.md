@@ -17,6 +17,8 @@ featureImage: /uploads/baiviet/cpp.png
 #include <string.h>
 #include <iomanip>
 using namespace std;
+
+// bai 40 - fithou.netlify.app - @NgocDanh
 struct DS {
     int maTX, namSinh, luong;
     char tenTX[30], bienSo[30], gioiTinh[30];

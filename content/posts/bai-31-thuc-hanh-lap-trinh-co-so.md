@@ -10,9 +10,13 @@ featureImage: /uploads/baiviet/cpp.png
 > **Bài 31**
 
 ## Code:
+```c++
 #include <iostream>
 #include <iomanip>
 using namespace std;
+
+// bai 37 - fithou.netlify.app - @NgocDanh
+
 int main() {
     int a[100], b[100], c[100], n, S, i;
     S=0;

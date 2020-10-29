@@ -23,6 +23,8 @@ using namespace std;
  
 int main()
 {
+    // bai 17 - fithou.netlify.app - @NgocDanh
+
     int n, i, a[100], b[100], c[100], tongDuong, tongAm, j, k;
     float tbcD, tbcA;
     tongDuong = 0;
