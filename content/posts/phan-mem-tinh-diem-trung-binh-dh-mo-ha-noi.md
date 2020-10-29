@@ -30,7 +30,7 @@ Xem video hướng dẫn chi tiết sau để tính: [http://www.youtube.com/wat
 
 ### Tải phần mềm.
 
-> Chú ý: Xem video trước khi tải để tránh xảy ra lỗi
+> Chú ý: Xem video trước để biết cách tính trước khi tải
 
 [`Điểm TB.zip`](https://bit.ly/2ZjLUzC)
 
