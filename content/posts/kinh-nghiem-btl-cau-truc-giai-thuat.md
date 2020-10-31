@@ -83,7 +83,7 @@ Sau đây, mình chia sẻ bài tập lớn do mình và các khóa trước là
 
 **Bài tập lớn file Word + Code**
 
-[BTL_CTDL.zip](https://bit.ly/33NCdLY)
+[`BTL_CTDL.zip`](https://bit.ly/33NCdLY)
 
 
 ## 5. Kinh nghiệm thi
@@ -106,7 +106,4 @@ _Thực hành_
 - Làm lại một chức năng theo yêu cầu giảng viên
 - Ví dụ chưa có sắp xếp theo họ tên thì "viết hàm sắp xếp theo họ tên"
 - Sẽ hỏi về phần đã làm trong BTL (ai nhận phần nào thì khi thi thầy hỏi phần đó)
-
-Good Luck, muốn trao đổi hãy liên hệ [fb.com/ngocdanh0508](https://facebook.com/ngocdanh0508).
-
 
