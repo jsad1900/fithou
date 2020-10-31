@@ -24,7 +24,7 @@ Các thuật toán để quản lý đối tượng có thể chung chức năng
 - Thống kê các phòng có `giá lớn hơn 2000`.
 - ...
 ### Thuật toán cây hoặc đồ thị (khó hơn các thuật toán trên).
-Kỳ này có thay đổi so với kỳ trước khi bổ sung mục này. Nhóm 4 người thì khó chia, phần này mình không có kinh nghiệm nhiều. Mình sẽ bổ sung phần này sau.
+> Phần này thầy cô nói bỏ không làm
 ### Quản lý tối thiểu 2 đối tượng
 Các bạn xem đề bài mẫu ở mục 1, đề là "Quản lý thuê phòng khách sạn". Sẽ chọn 2 đối tượng liên quan đến đề của mình được cho. Ví dụ đề trên sẽ chọn `phòng` và `khách hàng`
   #### Phòng
