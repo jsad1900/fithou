@@ -21,13 +21,9 @@ Chúng tôi hi vọng trang web sẽ giúp ích bạn trong quá trình học t�
 
 ## Kết nối
 
+#### Ngày 02/11/2020 - Gặp mặt học tập các bạn k20 tại A5 ktx pháp vân
 
-<details>
-<summary>Ngày 02/11/2020 - Gặp mặt học tập các bạn k20 tại A5 ktx pháp vân</summary>
 ![](https://i.ibb.co/LtJ3JSY/image.png)
-
-![](https://i.ibb.co/k24dkLb/image.png)
-</details>
 
 ## Liên hệ
 
