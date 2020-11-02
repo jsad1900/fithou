@@ -7,7 +7,7 @@ author: Ngọc Danh
 date: 2020-09-27T19:59:59.000Z
 featureImage: /uploads/baiviet/cpp.png
 ---
-> **Bài 31**
+> **Bài 31** xem đề tại [đây](/de-bai-thuc-hanh-lap-trinh-co-so)
 
 ## Code:
 ```c++
@@ -15,7 +15,7 @@ featureImage: /uploads/baiviet/cpp.png
 #include <iomanip>
 using namespace std;
 
-// bai 37 - fithou.netlify.app - @NgocDanh
+// bai 31 - fithou.netlify.app - @NgocDanh
 
 int main() {
     int a[100], b[100], c[100], n, S, i;

@@ -7,7 +7,7 @@ author: Ngọc Danh
 date: 2020-09-26T19:59:59.000Z
 featureImage: /uploads/baiviet/cpp.png
 ---
-> **Bài 29**
+> **Bài 29** xem đề tại [đây](/de-bai-thuc-hanh-lap-trinh-co-so)
 
 ## Code:
 
