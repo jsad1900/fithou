@@ -20,7 +20,7 @@ export default {
   mainMenu: [
     {
       name: 'Giới Thiệu',
-      link: '/about'
+      link: '/gioi-thieu'
     },
     {
       name: 'Môn học',
@@ -33,6 +33,10 @@ export default {
     {
       name: 'Phần mềm',
       link: '/phan-mem'
+    },
+    {
+      name: 'Group facebook',
+      link: 'https://www.facebook.com/groups/fithounotes/'
     }
   ],
   hero: {

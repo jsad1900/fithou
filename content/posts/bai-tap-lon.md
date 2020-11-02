@@ -24,6 +24,7 @@ featureImage: /uploads/baitaplon.jpg
 ## Kỹ thuật lập trình cơ sở
 >- Bài tập lớn Word + Code: [Folder](https://bit.ly/3lznNFh)
 >- Kinh nghiệm làm BTL: [tại đây](/kinh-nghiem-lam-bai-tap-lon-ky-thuat-lap-trinh-co-so)
+>- Hỗ trợ làm BTL: [tại đây](/ho-tro-lam-bai-tap-lon-ky-thuat-lap-trinh-co-so)
 ## Tin học cơ sở
 >- Bài tập lớn Word: [Folder](https://bit.ly/35IDhQL)
 ## Lập trình hướng đối tượng
