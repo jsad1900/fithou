@@ -19,6 +19,14 @@ Ngoài ra, chúng tớ có nhận hỗ trợ làm bài tập lớn. Mở các l�
 
 Chúng tôi hi vọng trang web sẽ giúp ích bạn trong quá trình học tập. Trên trang web có các bài viết về lập trình, bài tập lớn, bài thực hành mà chúng tôi trải qua tại FITHOU. Và giờ chia sẻ cho mọi người, vì mục đích học tập, phát triển bản thân.
 
+## Kết nối
+
+#### Ngày 02/11/2020 - Gặp mặt học tập các bạn k20 tại A5 ktx pháp vân
+
+![](https://i.ibb.co/LtJ3JSY/image.png)
+
+![](https://i.ibb.co/k24dkLb/image.png)
+
 ## Liên hệ
 
 Chia sẻ, liên hệ với chúng tôi qua các kênh thông tin sau: 
