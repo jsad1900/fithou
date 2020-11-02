@@ -52,7 +52,7 @@ Khi nhận được dự án từ các bạn, BEU Team sẽ chia các công vi�
 ## Bạn nhận được gì?
 Bạn giao cho chúng tớ, chúng tớ cam kết chất lượng tốt nhất cho bạn. Ở dưới đây chúng tớ có demo một dự án đang được hoàn thiện.
 
-[`Demo Hỗ trợ Đề 93`](https://bom.to/MBWDIiJ)
+[`Demo Hỗ trợ Đề 93`](https://bit.ly/34P6Sca)
 
 Bạn được giám sát quá trình làm trực tiếp, và có thể yêu cầu chỉnh sửa trực tiếp trên trang. Sau khi thanh toán, chúng tớ sẽ gửi đầy đủ source code, hướng dẫn giải thích về bài làm.
 
