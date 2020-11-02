@@ -34,7 +34,7 @@ Biết được điều đó, BEU Team có tư vấn, góp ý cho cách làm mi�
 #### Hỗ trợ làm bài tập lớn 
 
 Chúng tớ nhận thấy có khá nhiều bạn khó khăn trong việc làm bài tập lớn, cụ thể như: 
-- Không biết cách làm BTL
+- Không biết cách làm BTL 
 - Sát ngày thi nhưng chưa làm BTL
 - Không có thời gian để hoàn thành
 - Muốn điểm cao nhưng không chắc code có làm đúng không?
@@ -48,6 +48,17 @@ Khi nhận được dự án từ các bạn, BEU Team sẽ chia các công vi�
 **Lưu ý:**
 >Dịch vụ trên mất phí, bởi chúng tớ sẽ làm toàn bộ các yêu cầu theo bài tập lớn.
 >Bạn gửi yêu cầu, chúng tớ sẽ hoàn thiện và gửi bạn bài tập lớn đẹp, đúng yêu cầu giảng viên.
+
+## Bạn nhận được gì?
+Bạn giao cho chúng tớ, chúng tớ cam kết chất lượng tốt nhất cho bạn. Ở dưới đây chúng tớ có demo một dự án đang được hoàn thiện.
+
+[`Trang Hỗ trợ Đề 93`](https://bom.to/MBWDIiJ)
+
+Bạn được giám sát quá trình làm trực tiếp, và có thể yêu cầu chỉnh sửa trực tiếp trên trang. Sau khi thanh toán, chúng tớ sẽ gửi đầy đủ source code, hướng dẫn giải thích về bài làm.
+
+![](https://i.ibb.co/gwySPZb/image.png)
+
+*ảnh chụp dự án đề 93 đang làm*
 
 ## 3. Bảng giá
 Bạn muốn làm bài tập lớn từ A-> Z. Hay chỉ đơn giản cần làm một vài bài code khó trong bài tập lớn, hãy để BEU Team giúp bạn. 
