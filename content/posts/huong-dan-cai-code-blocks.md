@@ -17,13 +17,12 @@ Hôm nay, tôi sẽ hướng dẫn các bạn cài Code::Blocks, một IDE dùng
 1, Tải phần mềm
 ---------------
 
-Các bạn tải Code::Blocks theo đường dẫn sau, phiên bản là 17.12. 
+Các bạn tải Code::Blocks theo đường dẫn sau:
 
-[`codeblocks-17.12mingw.exe`](https://bit.ly/2E87lvm)
+[`Tải code block`](https://bit.ly/35W3Jqk)
 
-*   Phiên bản mới hơn hiện tại là 20.3 nhưng trong quá trình chạy sẽ gặp vài lỗi, nên tôi khuyên bạn chạy 17.12
+*   Phiên bản mới nhất trên window
 *   Phiên bản đã tích hợp MingW, Compiler để chạy C/C++
-*   Muốn tải thêm các phiên bản khác, xem [ở đây](https://sourceforge.net/projects/codeblocks/files/Binaries/)
 
 2, Cài đặt
 ----------
