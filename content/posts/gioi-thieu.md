@@ -1,6 +1,6 @@
 ---
 title: Giới thiệu Về FITHOU NOTES
-subtitle: Giới thiệu, mục tiêu, tương lai
+subtitle: Chúng tớ là sinh viên FITHOU
 category:
 author: Ngọc Danh
 date: 2020-07-29T17:30:16.858Z
@@ -17,7 +17,7 @@ Ngoài ra, chúng tớ có nhận hỗ trợ làm bài tập lớn. Mở các l�
 "*Mỗi người chúng ta, sinh ra đều có một giá trị, đều quan trọng như nhau. Có thể xuất phát điểm giàu nghèo hạnh phúc khác nhau, nhưng chúng ta đều hướng tới hạnh phúc, thành công. Hãy để sau này nhìn lại, chúng ta tự hào về chính mình*" 
 **Ngọc Danh**
 
-Chúng tôi hi vọng trang web sẽ giúp ích bạn trong quá trình học tập. Trên trang web có các bài viết về lập trình, bài tập lớn, bài thực hành mà chúng tôi trải qua tại FITHOU. Và giờ chia sẻ cho mọi người, vì mục đích học tập, phát triển bản thân.
+Chúng tớ hi vọng trang web sẽ giúp ích bạn trong quá trình học tập. Trên trang web có các bài viết về lập trình, bài tập lớn, bài thực hành mà chúng tôi trải qua tại FITHOU. Và giờ chia sẻ cho mọi người, vì mục đích học tập, phát triển bản thân.
 
 ## Kết nối
 
@@ -29,9 +29,9 @@ Chúng tôi hi vọng trang web sẽ giúp ích bạn trong quá trình học t�
 
 Chia sẻ, liên hệ với chúng tôi qua các kênh thông tin sau: 
 
-- Group facebook: [facebook.com/groups/fithounotes/](https://www.facebook.com/groups/fithounotes/)
+- Group facebook: [FITHOU NOTES](https://www.facebook.com/groups/fithounotes/)
 
 - Email: [fithounotes@gmail.com](mailto:fithounotes@gmail.com )
 
-- facebook admin: [https://www.facebook.com/ngocdanh0508](https://www.facebook.com/ngocdanh0508)
+- facebook admin: [Ngọc Danh](https://www.facebook.com/ngocdanh0508)
 
