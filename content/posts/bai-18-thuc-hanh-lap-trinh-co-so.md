@@ -110,6 +110,4 @@ int main()
 
 ```
 
-##   Dữ liệu test:
-
-[![](https://1.bp.blogspot.com/-zylVoherNWY/XhshEf6i5DI/AAAAAAAAcAI/bJ33a0_Bc3UhxTZ93ZZe3aAnJdldLBYtACLcBGAsYHQ/s1600/BAI18-T.png)](https://1.bp.blogspot.com/-zylVoherNWY/XhshEf6i5DI/AAAAAAAAcAI/bJ33a0_Bc3UhxTZ93ZZe3aAnJdldLBYtACLcBGAsYHQ/s1600/BAI18-T.png)
+>Thắc mắc xin trao đổi [Duy Đạt](https://www.facebook.com/duydat2002/)

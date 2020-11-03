@@ -4,7 +4,7 @@ subtitle: Bài tập lớn môn C/C++
 category:
   - kỹ thuật lập trình cơ sở
 author: BEU Team
-date: 2020-10-25
+date: 2020-10-26
 featureImage: /uploads/bg/6.jpg
 ---
 

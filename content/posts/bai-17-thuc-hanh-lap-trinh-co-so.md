@@ -69,7 +69,4 @@ int main()
 }
 
 ```
-
-##   Dữ liệu test:
-
-[![](https://1.bp.blogspot.com/-pV0ZJFRlPUk/XhsbejeNSBI/AAAAAAAAb_E/CSECuwQahEI-K2d14zftu9OAvN9sLrhgACLcBGAsYHQ/s1600/bai17-t.png)](https://1.bp.blogspot.com/-pV0ZJFRlPUk/XhsbejeNSBI/AAAAAAAAb_E/CSECuwQahEI-K2d14zftu9OAvN9sLrhgACLcBGAsYHQ/s1600/bai17-t.png)
+>Thắc mắc xin trao đổi [Duy Đạt](https://www.facebook.com/duydat2002/)
