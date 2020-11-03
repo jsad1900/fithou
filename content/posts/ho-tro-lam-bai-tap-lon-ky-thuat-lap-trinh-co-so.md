@@ -10,11 +10,11 @@ featureImage: /uploads/bg/5.jpg
 
 Với mong muốn giúp các bạn sinh viên FITHOU trong quá trình học tập, làm bài tập lớn. Nhóm BEU chúng tớ có thực hiện hỗ trợ bài tập lớn cho môn `Kỹ thuật lập trình cơ sở`. Dựa vào kinh nghiệm làm bài tập lớn, chúng tớ sẽ giúp bạn đạt được điểm cao, đúng yêu cầu giảng viên. Bạn cần giúp đỡ, BEU Team mang lại giá trị tương xứng. 
 
-## 1.BEU Team là ai?
+## 1.Giới thiệu
 
 Chúng tớ là những sinh viên đang học tại khoa công nghệ thông tin, đại học Mở Hà Nội. Trang `fithou notes` là sản phẩm mà chúng tớ tạo ra giúp chia sẻ kinh nghiệm làm bài, tổng hợp bài tập lớn, ... để giúp mọi người dễ dàng hơn.
 
-Ngoài tư vấn giúp các bạn thì BEU Team còn nhận làm bài tập lớn cho những bạn không đủ thời gian để hoàn thành, muốn bài tập lớn đạt điểm cao,... 
+Ngoài tư vấn giúp các bạn thì chúng tớ còn nhận làm bài tập lớn cho những bạn không đủ thời gian để hoàn thành, muốn bài tập lớn đạt điểm cao,... 
 
 ## 2.Quy trình hỗ trợ
 Môn `kỹ thuật lập trình cơ sở`là môn học quan trọng. Làm quen với lập trình và các khái niệm về biến, vòng lặp, hàm,... Và trong quá trình đó các bạn có thể gặp khó khăn. 
@@ -26,10 +26,6 @@ Các bạn k20 còn bỡ ngỡ vì đây là bài tập lớn đầu tiên của
 - Gần ngày thi nhưng vẫn chưa làm bài tập lớn?
 
 Nếu thực hiện không tốt, các bạn có thể đạt điểm thấp. Mà tệ hơn là còn có thể trật môn, dẫn đến việc học lại. Một loạt hệ lụy kéo theo như tốn tiền học lại, không được học môn sau đó. Vì nếu trật môn này ở kỳ I hiện tại, bạn phải chờ kỳ I năm sau mới được học lại. 
-
-#### Tư vấn miễn phí
-
-Biết được điều đó, BEU Team có tư vấn, góp ý cho cách làm miễn phí. Các bạn nhắn cho chúng tớ tại mục `4. liên hệ`
 
 #### Hỗ trợ làm bài tập lớn 
 
