@@ -4,7 +4,7 @@ subtitle: bài tập thực hành trong C/C++
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
-date: 2020-09-27T19:59:59.000Z
+date: 2020-10-23
 featureImage: /uploads/baiviet/cpp.png
 ---
 > **Bài 33** xem đề tại [đây](/de-bai-thuc-hanh-lap-trinh-co-so)

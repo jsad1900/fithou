@@ -4,7 +4,7 @@ subtitle: Bài tập về mảng
 category:
   - thực hành lập trình cơ sở
 author: Đạt k20
-date: 2020-09-24T19:59:59.000Z
+date: 2020-10-21
 featureImage: /uploads/baiviet/cpp.png
 ---
 

@@ -4,7 +4,7 @@ subtitle: Kiểm tra 3 cạnh của tam giác
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
-date: 2020-09-15T19:59:59.000Z
+date: 2020-10-20
 featureImage: /uploads/baiviet/cpp.png
 ---
 

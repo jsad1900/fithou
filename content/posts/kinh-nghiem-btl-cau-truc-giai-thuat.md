@@ -4,7 +4,7 @@ subtitle: Code + hướng dẫn + file BTL
 category:
   - cấu trúc dữ liệu và giải thuật
 author: Ngọc Danh
-date: 2020-10-10T03:49:49.295Z
+date: 2020-10-25
 featureImage: /uploads/baiviet/kinhnghiem-ctgt.jpg
 ---
 Hôm nay mình sẽ hướng dẫn các bạn làm bài tập lớn môn "Cấu trúc và giải thuật".  Môn này được đánh giá khá khó và quan trọng trong chương trình học. Khi có một nền tảng giải thuật tốt, bạn có thể giải quyết rất nhiều bài toán khó. Bắt đầu thôi nào ^^
