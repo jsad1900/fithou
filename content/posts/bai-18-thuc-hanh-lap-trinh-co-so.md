@@ -3,7 +3,7 @@ title: Bài 18 - thực hành lập trình cơ sở
 subtitle: bài tập về số nguyên
 category:
   - thực hành lập trình cơ sở
-author: Ngọc Danh
+author: Đạt k20
 date: 2020-09-25T19:59:59.000Z
 featureImage: /uploads/baiviet/cpp.png
 ---
@@ -24,115 +24,90 @@ featureImage: /uploads/baiviet/cpp.png
 
 ```c++
 #include <iostream>
-#include <iomanip>
+#include <math.h>
 using namespace std;
+
+void xoa(int a[], int &n, int vt)
+{
+	for (int i=vt; i<=n; i++) a[i]=a[i+1];
+	n--;
+}
+
 int main()
 {
-    // bai 18 - fithou.netlify.app - @NgocDanh
-
-    int n, i,x, tg, p, dem, a[100];
-    dem =0;
-    cout<<"nhap n so nguyen can nhap: ";
-    cin>>n;
- 
-//a,Nhap vao day so nguyen n phan tu
-    for(i=0; i<n; i++) {
-        cout<<"nhap vao gia tri thu "<<i<<": ";
-        cin>>a[i];
-    }
- 
-//xuat ra day so
-    cout<<"Hien thi day vua nhap la: "<<endl;
-    for(i=0; i<n; i++) {
-        cout<<setw(7)<<a[i];
-    }
-    cout<<endl;
- 
-//b, nhap vao so nguyen x va cho biet xuat hien bao nhieu lan
-    cout<<"nhap vao so nguyen x: ";
-    cin>>x;
-    cout<<"so "<<x<<" xuat hien tai cac vi tri: ";
-    for(i=0; i<n; i++) {
-        if(a[i] == x) {
-            dem++;
-            cout<<setw(7)<<i;
-        }
-    }
-    cout<<endl;
-    cout<<"so "<<x<<" xuat hien "<<dem<<" lan"<<endl;
- 
-//c, xoa cac ky tu bang 0 trong day
-    i=0;
-    do {
-        if(a[i] ==0) {
-            n--;
-            for(int v = i; v<n; v++) {
-                a[v] = a[i+1];
-                i++;
-            }
-            i--;
- 
-        }
-        i++;
- 
-    }
-    while(i<n);
-    cout<<"mang sau khi da xoa so 0 la: "<<endl;
- 
-    for(i=0; i<n; i++) {
-        cout<<setw(7)<<a[i];
-    }
-    cout<<endl;
- 
- 
-    //e, tbc cac so chia hetcho 3
-    int S;
-    float tbc;
-    S=0;
-    dem=0;
-    for(i=0; i<n; i++) {
-        if(a[i]%3 ==0) {
-            S += a[i];
-            dem++;
-        }
- 
-    }
-    tbc= S/dem;
-    cout<<"\ntrung binh cong cac so chia het cho 3 la: "<<tbc<<endl;
- 
-    //d, dua so ngto len dau day, so k ngto xuong cuoi
-    int b[100], c[100], demNT, demKNT;
-    demKNT =-1;
-    demNT = -1;
-    for (i = 0; i<n; i++) {
-        dem = 0;
-        int j;
-        for(j = 2; j<a[i]; j++) {
-            if( a[i]%j == 0) {
-                demKNT++;
-                dem++;
-                break;
-            }
-        }
-        if(dem > 0) {
-            c[demKNT] = a[i];
-        }
-        else {
-                demNT++;
-            b[demNT] = a[i];
-        }
-    }
- 
- 
-    cout<<"day sau khi sap xep so nguyen to dau day la: "<<endl;
-    for(i=0; i<=demNT; i++) {
-        cout<<setw(7)<<b[i];
-    }
-    for(i = 0; i<=demKNT; i++) {
-         cout<<setw(7)<<c[i];
-    }
- 
+	int n;
+	cout << "Nhap so phan tu cua day: "; cin >> n;
+	if (n<=0) cout << "Nhap sai. n phai lon hon 0";
+	else
+	{
+		int a[n];
+		for (int i=1; i<=n; i++)
+		{
+			cout << "Nhap phan tu thu " << i << " cua mang: ";
+			cin >> a[i];
+		}
+		system("cls");
+		//a)
+		cout << "Day ban vua nhap la: ";
+		for (int i=1; i<=n; i++) cout << "   " << a[i];
+		//b)
+		int x;
+		cout << "\nNhap x: "; cin >> x;
+		int demx=0;
+		for (int i=1; i<=n; i++) 
+			if (a[i]==x) demx++; 
+		if (demx==0) cout << "x khong xuat hien trong day so";
+		else 
+		{
+			cout << "x xuat hien trong day so " << demx << " lan." << endl << "Cac vi tri cua x xuat hien trong day la: ";
+			for (int i=1; i<=n; i++)
+				if (a[i]==x) cout << "   " << i;
+		}
+		//c)
+		for (int i=1; i<=n; i++) 
+			if (a[i]==0) xoa(a,n,i);
+		cout << "\nDay sau khi xoa so 0 la: ";
+		for (int i=1; i<=n; i++) cout << "   " << a[i];
+		//d)
+		//chia day
+		int snt=0, knt=0, b[100], c[100];
+		for (int i=1; i<=n; i++) 
+			switch (a[i])
+			{
+				case 1: knt++; b[knt]=a[i]; break;
+				case 2: snt++; c[snt]=a[i]; break;
+				default: 
+				bool check=true;
+				for (int j=2; j<=sqrt(a[i]); j++) 
+					if (a[i]%j==0) check=false;
+				if (check==true) c[++snt]=a[i];
+				else b[++knt]=a[i];
+			}
+		//Cach 1
+		//hop day
+		for (int i=1; i<=snt; i++) a[i]=c[i];
+		int j=0;
+		for (int i=snt+1; i<=n; i++) a[i]=b[++j];
+		//xuat day
+		cout << "\nd) Day sau khi sap xep; ";
+		for (int i=1; i<=n; i++) cout << "   " << a[i];
+		//Cach 2
+		cout << "\nd) Day sau khi sap xep; ";
+		for (int i=1; i<=snt; i++) cout << "   " << c[i];
+		for (int i=1; i<=knt; i++) cout << "   " << b[i];
+		//e)
+		int dem=0, tong=0;
+		for (int i=1; i<=n; i++) 
+			if (a[i]%3==0) 
+			{
+				dem++;
+				tong+=a[i];
+			}
+		cout << "\ne) Trung binh cong cac so chia het cho 3 co trong day la: " << (float)tong/dem;
+	}
+	return 0;
 }
+
 ```
 
 ##   Dữ liệu test:
