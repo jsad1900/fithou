@@ -30,7 +30,7 @@ int main() {
     // ma tran 7*8
     int a[][8] = {
             {1, 0, 1,-1, 1,-1, 0, 1},
-            {1, -1,-1,-1, 1,-1,1, 1},
+            {1, -1,-1,-1, 1,-1, 1, 1},
             {0, 0, 1,-1, 1, 0, 1, 1},
             {1, 0, 0, 1, 0,-1, 0, 1},
             {1, 0, 1, 1, 0,-1, 0, 0},
@@ -41,6 +41,8 @@ int main() {
     int n = 7, m =8;
     for(int i=0; i<n; i++){
         for(int j=0; j<m; j++){
+
+            int aa =0, bb=0, cc=0;
             int x=-1;
             if(a[i][j]==0)
                 x = 1;
@@ -50,37 +52,23 @@ int main() {
             for(int k =i; k<n; k++){
                 if(a[k][j]==-1 || a[k][j] == x)
                     break;
-                l++;
+                aa++;
             }
-            if(l>=5 && x!=-1){
-                if(x==1)
-                    cout<<"O thang"<<endl;
-                else
-                    cout<<"1 thang"<<endl;
-                return 0;
-            }
-            l=0;
+
             for(int k =j; k<m; k++){
                 if(a[i][k]==-1 || a[i][k] == x)
                     break;
-                l++;
+                bb++;
             }
-            if(l>=5 && x!=-1){
-                if(x==1)
-                    cout<<"O thang"<<endl;
-                else
-                    cout<<"1 thang"<<endl;
-                return 0;
-            }
-            l=0;
+
             int q=i, k = j;
             while(q!=n && k!=m){
                 if(a[q][k]==-1 || a[q][k] == x)
                     break;
-                l++;
+                cc++;
                 q++; k++;
             }
-            if(l>=5 && x!=-1){
+            if((aa>=5 || bb>=5 || cc>=5) && x!=-1){
                 if(x==1)
                     cout<<"O thang"<<endl;
                 else
