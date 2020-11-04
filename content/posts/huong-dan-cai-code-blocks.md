@@ -5,7 +5,7 @@ category:
   - thực hành lập trình cơ sở
   - phần mềm
 author: Ngọc Danh
-date: 2020-10-13
+date: 2020-10-25
 featureImage: /uploads/baiviet/code-blocks.png
 ---
 Khi bắt đầu học lập trình, có rất nhiều bạn bắt đầu với ngôn ngữ C/C++. Với cú pháp mạch lạc, chạy nhanh cũng như khả năng logic, hiện nay C/C++ được sử dụng trong các trường đại học cho những sinh viên năm nhất.

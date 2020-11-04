@@ -4,7 +4,7 @@ subtitle: Thuộc môn kỹ thuật lập trình cơ sở
 category:
   - thực hành lập trình cơ sở
 author: Ngọc Danh
-date: 2020-10-13
+date: 2020-10-25
 featureImage: /uploads/bg/1.jpg
 ---
 ## Buổi thực hành 1
