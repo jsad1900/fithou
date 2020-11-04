@@ -29,20 +29,15 @@ featureImage: /uploads/baitaplon.jpg
 >- Bài tập lớn Word: [Folder](https://bit.ly/35IDhQL)
 ## Lập trình hướng đối tượng
 >- Bài tập word+code: [Folder](https://bit.ly/33RAwwZ)
->- Kinh nghiệm làm BTL: [tại đây](#)
 ## Thiết kế web
 >- Bài tập word+PSD+Code: [Folder](https://bit.ly/33QGa2w)
 >- Kinh nghiệm làm BTL phần photoshop: [tại đây](/kinh-nghiem-lam-btl-thiet-ke-web-photoshop)
->- Kinh nghiệm làm BTL phần cắt web: [tại đây](/#)
 ## Cơ sở dữ liệu
 >- Bài tập word: [Folder](https://bit.ly/2GX4DKw)
->- Kinh nghiệm làm BTL: [tại đây](#)
 ## Cấu trúc dữ liệu và giải thuật
 >- Bài tập word+code: [Folder](https://bit.ly/33NCdLY)
 >- Kinh nghiệm làm BTL: [tại đây](/kinh-nghiem-btl-cau-truc-giai-thuat)
 ## Lập trình hướng sự kiện C#
 >- Bài tập word+code: [Folder](https://bit.ly/3kzKzN2)
->- Kinh nghiệm làm BTL: [tại đây](/#)
 ## Lập trình di động Android
 >- Bài tập word+code: [Folder](https://bit.ly/3oxYo0X)
->- Kinh nghiệm làm BTL: [tại đây](/#)
