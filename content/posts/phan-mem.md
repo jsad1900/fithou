@@ -6,6 +6,12 @@ author: Ngọc Danh
 date: 1970-10-13T17:30:16.858Z
 featureImage: /uploads/catelogy/soft.jpg
 ---
+### Kho phần mềm 
+
+Kho tải office, window, crack window, winrar reg, ... sạch, không có quảng cáo và virut
+
+[`Tại đây`](https://bom.to/owcfnEa)
+
 ### Phần mềm tính điểm trung bình đại học Mở Hà Nội
 >- **Tải và xem hướng dẫn** : [tại đây](https://bit.ly/3kM5FIo)
 ### Lập trình C++
