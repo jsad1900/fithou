@@ -37,7 +37,6 @@ int main() {
             {0, 0, 0,-1, 1, 1, 0, 1},
             {0, 0, 0, 1, 0,-1, 1, 1},
     };
-    int l;
     int n = 7, m =8;
     for(int i=0; i<n; i++){
         for(int j=0; j<m; j++){
@@ -48,7 +47,7 @@ int main() {
                 x = 1;
             else if(a[i][j]==1)
                 x = 0;
-            l =0;
+                
             for(int k =i; k<n; k++){
                 if(a[k][j]==-1 || a[k][j] == x)
                     break;
