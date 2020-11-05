@@ -31,7 +31,12 @@ int main(){
 	cout<<"Thoi gian di duoc la: ";
 	cin>>T;
 
-	V = S/T;
+	if(T!=0){
+		V = S/T;
+	}
+	else {
+		V = 0;
+	}
 	cout<<setprecision(3);
 	cout<<"Van toc xe la: "<<V<<endl;
 	return 0;

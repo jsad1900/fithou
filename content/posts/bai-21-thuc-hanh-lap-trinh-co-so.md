@@ -79,11 +79,15 @@ int main(){
 	cin>>x;
 	int i, j;
 	int b,c;
+	int k =0;
 	for(i=0; i<n; i++){
 		for(j=0; j<m; j++){
 			if(a[i][j]==x){
 				b=i; c=j;
+				k++;
 			}
+			if(k!=0)
+				break;
 		}
 	}
 	if(i==n-1 && j==m-1)
