@@ -3,18 +3,18 @@ title: Hỗ trợ làm bài tập lớn "Kỹ thuật lập trình cơ sở"
 subtitle: Bài tập lớn môn C/C++
 category:
   - kỹ thuật lập trình cơ sở
-author: BEU Team
+author: Ngọc Danh
 date: 2020-11-02
 featureImage: /uploads/bg/5.jpg
 ---
 
-Với mong muốn giúp các bạn sinh viên FITHOU trong quá trình học tập, làm bài tập lớn. Nhóm BEU chúng tớ có thực hiện hỗ trợ bài tập lớn cho môn `Kỹ thuật lập trình cơ sở`. Dựa vào kinh nghiệm làm bài tập lớn, chúng tớ sẽ giúp bạn đạt được điểm cao, đúng yêu cầu giảng viên. Bạn cần giúp đỡ, BEU Team mang lại giá trị tương xứng. 
+Với mong muốn giúp các bạn sinh viên FITHOU trong quá trình học tập, làm bài tập lớn. `FITHOU NOTES` có thực hiện hỗ trợ bài tập lớn cho môn `Kỹ thuật lập trình cơ sở`. Dựa vào kinh nghiệm làm bài tập lớn, chúng tppo sẽ giúp bạn đạt được điểm cao, đúng yêu cầu giảng viên. Bạn cần giúp đỡ, chúng tôi mang lại giá trị tương xứng. 
 
 ## 1.Giới thiệu
 
-Chúng tớ là những sinh viên đang học tại khoa công nghệ thông tin, đại học Mở Hà Nội. Trang `fithou notes` là sản phẩm mà chúng tớ tạo ra giúp chia sẻ kinh nghiệm làm bài, tổng hợp bài tập lớn, ... để giúp mọi người dễ dàng hơn.
+Chúng tôi là những sinh viên đang học tại khoa công nghệ thông tin, đại học Mở Hà Nội. Trang `fithou notes` là sản phẩm mà chúng tôi tạo ra giúp chia sẻ kinh nghiệm làm bài, tổng hợp bài tập lớn, ... để giúp mọi người dễ dàng hơn.
 
-Ngoài tư vấn giúp các bạn thì chúng tớ còn nhận làm bài tập lớn cho những bạn không đủ thời gian để hoàn thành, muốn bài tập lớn đạt điểm cao,... 
+Ngoài tư vấn giúp các bạn thì chúng tôi còn nhận làm bài tập lớn cho những bạn không đủ thời gian để hoàn thành, muốn bài tập lớn đạt điểm cao,... 
 
 ## 2.Quy trình hỗ trợ
 Môn `kỹ thuật lập trình cơ sở`là môn học quan trọng. Làm quen với lập trình và các khái niệm về biến, vòng lặp, hàm,... Và trong quá trình đó các bạn có thể gặp khó khăn. 
@@ -29,37 +29,40 @@ Nếu thực hiện không tốt, các bạn có thể đạt điểm thấp. M�
 
 #### Hỗ trợ làm bài tập lớn 
 
-Chúng tớ nhận thấy có khá nhiều bạn khó khăn trong việc làm bài tập lớn, cụ thể như: 
+`FITHOU NOTES` nhận thấy có khá nhiều bạn khó khăn trong việc làm bài tập lớn, cụ thể như: 
 - Không biết cách làm BTL 
 - Sát ngày thi nhưng chưa làm BTL
 - Không có thời gian để hoàn thành
 - Muốn điểm cao nhưng không chắc code có làm đúng không?
 
-**Chúng tớ có hỗ trợ làm bài tập lớn giúp bạn theo quy trình sau:**
+**chúng tôi có hỗ trợ làm bài tập lớn giúp bạn theo quy trình sau:**
 
 ![](https://i.ibb.co/d23KSW1/quy-trinh.jpg)
 
-Khi nhận được dự án từ các bạn, BEU Team sẽ chia các công việc cho team thực hiện,
-
 **Lưu ý:**
->Dịch vụ trên mất phí, bởi chúng tớ sẽ làm toàn bộ các yêu cầu theo bài tập lớn.
->Bạn gửi yêu cầu, chúng tớ sẽ hoàn thiện và gửi bạn bài tập lớn đẹp, đúng yêu cầu giảng viên.
+>Dịch vụ trên mất phí, bởi chúng tôi sẽ làm toàn bộ các yêu cầu theo bài tập lớn.
+>Bạn gửi yêu cầu, chúng tôi sẽ hoàn thiện và gửi bạn bài tập lớn đẹp, đúng yêu cầu giảng viên.
 
 ## Bạn nhận được gì?
-Bạn giao cho chúng tớ, chúng tớ cam kết chất lượng tốt nhất cho bạn. Ở dưới đây chúng tớ có demo một dự án đang được hoàn thiện.
+Bạn giao cho chúng tôi, chúng tôi cam kết chất lượng tốt nhất cho bạn. Ở dưới đây chúng tôi có demo một dự án đang được hoàn thiện.
 
 [`Demo Hỗ trợ Đề 93`](https://bom.to/demoktltcs)
 
-Bạn được giám sát quá trình làm trực tiếp, và có thể yêu cầu chỉnh sửa trực tiếp trên trang. Sau khi thanh toán, chúng tớ sẽ gửi đầy đủ source code, hướng dẫn giải thích về bài làm.
+
+Bạn được giám sát quá trình làm trực tiếp, và có thể yêu cầu chỉnh sửa trực tiếp trên trang. Sau khi thanh toán, chúng tôi sẽ gửi đầy đủ source code, hướng dẫn giải thích về bài làm.
 
 ![](https://i.ibb.co/KGvfvhM/image.png)
 
 *ảnh chụp dự án đề 93 đang làm*
 
-## 3. Bảng giá
-Bạn muốn làm bài tập lớn từ A-> Z. Hay chỉ đơn giản cần làm một vài bài code khó trong bài tập lớn, hãy để BEU Team giúp bạn. 
+![](https://i.ibb.co/RpmpBG8/image.png)
 
-Chúng tớ sẽ cam kết như sau:
+*Các dự án hỗ trợ BTL đang làm*
+
+## 3. Bảng giá
+Bạn muốn làm bài tập lớn từ A-> Z. Hay chỉ đơn giản cần làm một vài bài code khó trong bài tập lớn, hãy để chúng tôi giúp bạn. 
+
+Chúng tôi sẽ cam kết như sau:
 - Làm theo yêu cầu từ bạn, bạn có quyền giám sát các bước
 - Hoàn toàn đúng yêu cầu từ giảng viên
 - **Tư vấn, giải đáp chi tiết code trong bài tập lớn.**
@@ -72,7 +75,7 @@ Cụ thể giá như sau:
 
 ## 4. Liên hệ
 
-Đăng ký dịch vụ hỗ trợ bài tập lớn, các bạn điền thông tin vào form sau để BEU Team liên lạc với bạn:
+Đăng ký dịch vụ hỗ trợ bài tập lớn, các bạn điền thông tin vào form sau để chúng tôi liên lạc với bạn:
 
 [`Form đăng ký`](https://bit.ly/3kB6LXe)
 
@@ -83,12 +86,3 @@ Cụ thể giá như sau:
 > Nếu đăng ký tuần cuối cùng trước khi thi, giá sẽ cao hơn. Bạn để ý đăng ký sớm nhé! 
 
 ---
-
-Nhận tư vấn, hỏi đáp  vui lòng inbox cho BEU Team theo các đường dẫn sau:
-
-[`facebook Ngọc Danh`](https://bit.ly/3oESPxF)
-
-hoặc
-[`facebook Văn Trường`](https://www.facebook.com/profile.php?id=100020053574310)
-
-
