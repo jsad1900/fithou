@@ -60,14 +60,15 @@ Bạn được giám sát quá trình làm trực tiếp, và có thể yêu c�
 Bạn muốn làm bài tập lớn từ A-> Z. Hay chỉ đơn giản cần làm một vài bài code khó trong bài tập lớn, hãy để BEU Team giúp bạn. 
 
 Chúng tớ sẽ cam kết như sau:
-- Hoàn 50% tiền nếu lỗi do bài tập lớn từ BEU Team
 - Làm theo yêu cầu từ bạn, bạn có quyền giám sát các bước
 - Hoàn toàn đúng yêu cầu từ giảng viên
-- Tư vấn, giải đáp các phần trong bài tập lớn chi tiết.
+- **Tư vấn, giải đáp chi tiết code trong bài tập lớn.**
 
 Cụ thể giá như sau: 
 
 ![](https://i.ibb.co/hRQj1G8/bang-gia.jpg)
+
+>Đặc biệt: Nếu bạn đăng ký 2 bạn cùng nhau ở gói combo. Sẽ được giảm mỗi bạn 50k, chỉ còn 250k/người. 
 
 ## 4. Liên hệ
 
@@ -76,7 +77,10 @@ Cụ thể giá như sau:
 [`Form đăng ký`](https://bit.ly/3kB6LXe)
 
 *Chú ý:*
-> Từ giờ đến lúc thi, bạn có thể đăng ký bất kỳ khi nào. Nhưng tối thiểu trước 1 tuần trước khi thi.
+
+> Đăng ký 1 tuần trước khi thi. Hiện bọn tớ đang có nhiều đơn nên cần phân chia thời gian đều ra. 
+>
+> Nếu đăng ký tuần cuối cùng trước khi thi, giá sẽ cao hơn. Bạn để ý đăng ký sớm nhé! 
 
 ---
 
