@@ -3,7 +3,7 @@ title: Hỗ trợ làm bài tập lớn "Kỹ thuật lập trình cơ sở"
 subtitle: Bài tập lớn môn C/C++
 category:
   - kỹ thuật lập trình cơ sở
-author: Ngọc Danh
+author: BEU Team
 date: 2020-11-02
 featureImage: /uploads/bg/5.jpg
 ---
@@ -57,7 +57,7 @@ Bạn được giám sát quá trình làm trực tiếp, và có thể yêu c�
 
 ![](https://i.ibb.co/RpmpBG8/image.png)
 
-*Các dự án hỗ trợ BTL đang làm*
+*Các dự án BTL mà team đang hỗ trợ*
 
 ## 3. Bảng giá
 Bạn muốn làm bài tập lớn từ A-> Z. Hay chỉ đơn giản cần làm một vài bài code khó trong bài tập lớn, hãy để chúng tôi giúp bạn. 
