@@ -62,10 +62,10 @@ Bạn được giám sát quá trình làm trực tiếp, và có thể yêu c�
 ## 3. Bảng giá
 Bạn muốn làm bài tập lớn từ A-> Z. Hay chỉ đơn giản cần làm một vài bài code khó trong bài tập lớn, hãy để chúng tôi giúp bạn. 
 
-Chúng tôi sẽ cam kết như sau:
-- Làm theo yêu cầu từ bạn, bạn có quyền giám sát các bước
-- Hoàn toàn đúng yêu cầu từ giảng viên
-- **Tư vấn, giải đáp chi tiết code trong bài tập lớn.**
+Chúng tôi sẽ hỗ trợ như sau:
+
+- **Tư vấn, giải thích chi tiết code trong bài tập lớn.**
+- Cách thi cuối kỳ, in bài tập lớn
 
 Cụ thể giá như sau: 
 
