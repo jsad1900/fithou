@@ -41,7 +41,8 @@ Nếu thực hiện không tốt, các bạn có thể đạt điểm thấp. M�
 
 **Lưu ý:**
 >Dịch vụ trên mất phí, bởi chúng tôi sẽ làm toàn bộ các yêu cầu theo bài tập lớn.
->Bạn gửi yêu cầu, chúng tôi sẽ hoàn thiện và gửi bạn bài tập lớn đẹp, đúng yêu cầu giảng viên.
+>Bạn gửi đề, chúng tôi hoàn thiện code + word gửi bạn
+>Ngoài ra, giải đáp chi tiết về code
 
 ## Bạn nhận được gì?
 Bạn giao cho chúng tôi, chúng tôi cam kết chất lượng tốt nhất cho bạn. Ở dưới đây chúng tôi có demo một dự án đang được hoàn thiện.
