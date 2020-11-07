@@ -6,9 +6,6 @@ author: Ngọc Danh
 date: 1970-10-13T17:30:16.858Z
 featureImage: /uploads/catelogy/soft.jpg
 ---
-### Kho phần mềm 
-
-Kho tải office, window, crack window, winrar reg, ... sạch, không có quảng cáo và virut
 
 [`Tại đây`](https://bom.to/owcfnEa)
 
