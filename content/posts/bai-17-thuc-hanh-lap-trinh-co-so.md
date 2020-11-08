@@ -10,9 +10,7 @@ featureImage: /uploads/baiviet/cpp.png
 
 > Bài 17, Hãy viết chương trình nhập vào dãy số đến khi gặp số 0 thì dừng, sau đó tách số chẵn và lẻ ra 2 mảng khác nhau. Tính trung bình cộng các số chẵn dương và các trung bình cộng các số lẻ âm.
 
-## Thuật toán:
-
-> Để tách mảng a[] thành 2 mảng khác nhau. Ta tách lần lượt mảng chẵn vào mảng b[], mảng lẻ vào mảng c[]. Sau đó in ra 2 mảng b[], c[].
+>Thắc mắc bài 17 xin trao đổi [Duy Đạt](https://www.facebook.com/duydat2002/)
 
 ## Code:
 
@@ -69,4 +67,3 @@ int main()
 }
 
 ```
->Thắc mắc xin trao đổi [Duy Đạt](https://www.facebook.com/duydat2002/)
