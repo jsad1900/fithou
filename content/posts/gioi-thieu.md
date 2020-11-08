@@ -25,6 +25,10 @@ Chúng tớ hi vọng trang web sẽ giúp ích bạn trong quá trình học t�
 
 ![](https://i.ibb.co/LtJ3JSY/image.png)
 
+#### Ngày 06/11/2020 - Gặp mặt học tập các bạn k20 tại A5 ktx pháp vân
+
+![](https://i.ibb.co/WPXfhkY/image.png)
+
 ## Liên hệ
 
 Chia sẻ, liên hệ với chúng tôi qua các kênh thông tin sau: 
