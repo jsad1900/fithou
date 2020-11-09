@@ -35,15 +35,6 @@ Nếu thực hiện không tốt, các bạn có thể đạt điểm thấp. M�
 - Không có thời gian để hoàn thành
 - Muốn điểm cao nhưng không chắc code có làm đúng không?
 
-**chúng tôi có hỗ trợ làm bài tập lớn giúp bạn theo quy trình sau:**
-
-![](https://i.ibb.co/d23KSW1/quy-trinh.jpg)
-
-**Lưu ý:**
->Dịch vụ trên mất phí, bởi chúng tôi sẽ làm toàn bộ các yêu cầu theo bài tập lớn.
->Bạn gửi đề, chúng tôi hoàn thiện code + word gửi bạn
->Ngoài ra, giải đáp chi tiết về code
-
 ## Bạn nhận được gì?
 Bạn giao cho chúng tôi, chúng tôi cam kết chất lượng tốt nhất cho bạn. Ở dưới đây chúng tôi có demo một dự án đang được hoàn thiện.
 
@@ -58,7 +49,12 @@ Bạn được giám sát quá trình làm trực tiếp, và có thể yêu c�
 
 ![](https://i.ibb.co/RpmpBG8/image.png)
 
-*Các dự án BTL mà team đang hỗ trợ*
+
+*Một số bạn hoàn thành đã chuyển khoản*
+
+![](https://i.ibb.co/q5xx89J/thanh-toan.jpg)
+
+![](https://i.ibb.co/K2B4mVK/tin-nhan.jpg)
 
 ## 3. Bảng giá
 Bạn muốn làm bài tập lớn từ A-> Z. Hay chỉ đơn giản cần làm một vài bài code khó trong bài tập lớn, hãy để chúng tôi giúp bạn. 
