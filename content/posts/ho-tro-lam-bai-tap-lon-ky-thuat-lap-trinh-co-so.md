@@ -52,7 +52,7 @@ Bạn được giám sát quá trình làm trực tiếp, và có thể yêu c�
 
 *Một số bạn hoàn thành đã chuyển khoản*
 
-![](https://i.ibb.co/q5xx89J/thanh-toan.jpg)
+![](https://i.ibb.co/PjZjjFC/thanh-toan.jpg)
 
 ![](https://i.ibb.co/K2B4mVK/tin-nhan.jpg)
 
