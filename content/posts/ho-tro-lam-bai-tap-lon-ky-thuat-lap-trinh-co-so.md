@@ -43,12 +43,9 @@ Bạn giao cho chúng tôi, chúng tôi cam kết chất lượng tốt nhất c
 
 Bạn được giám sát quá trình làm trực tiếp, và có thể yêu cầu chỉnh sửa trực tiếp trên trang. Sau khi thanh toán, chúng tôi sẽ gửi đầy đủ source code, hướng dẫn giải thích về bài làm.
 
-![](https://i.ibb.co/KGvfvhM/image.png)
-
 *ảnh chụp dự án đề 93 đang làm*
 
-![](https://i.ibb.co/RpmpBG8/image.png)
-
+![](https://i.ibb.co/KGvfvhM/image.png)
 
 *Một số bạn hoàn thành đã chuyển khoản*
 
