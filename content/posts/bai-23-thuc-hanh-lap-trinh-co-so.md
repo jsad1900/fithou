@@ -31,112 +31,104 @@ featureImage: /uploads/baiviet/cpp.png
 #include <iomanip>
 using namespace std;
 
-int main()
-{
-    // bai 23 - fithou.netlify.app - @NgocDanh
-    int n, i, j, v, a[100][100];
-
-    //nhap vao n
-    cout << "nhap vao so n: ";
-    cin >> n;
-
-    //a, nhap vao ma tran co n gia tri
-    for (i = 0; i < n; i++)
-    {
-        for (j = 0; j < n; j++)
-        {
-            cout << "nhap a[" << i << "][" << j << "]";
-            cin >> a[i][j];
+void nhap(int arr[][100], int n){
+    for(int i=0; i<n; i++){
+        for(int j=0; j<n; j++){
+            cout<<"nhap arr["<<i<<"]["<<j<<"]: ";
+            cin>>arr[i][j];
         }
     }
-    cout << endl;
+}
 
-    //b, xuat ra ma tran vua nhap
-    cout << "Mang sau khi da nhap la: " << endl;
-
-    for (i = 0; i < n; i++)
-    {
-        for (j = 0; j < n; j++)
-        {
-            cout << setw(7) << a[i][j];
+void hien(int arr[][100], int n){
+    for(int i=0; i<n; i++){
+        for(int j=0; j<n; j++){
+            cout<<arr[i][j]<<setw(3);
         }
-        cout << endl;
+        cout<<endl;
     }
-    cout << endl;
+}
 
-    // c, Tinh tich hang k
-    int k, tich;
-    tich = 1;
-    cout << "Nhap gia tri hang k: ";
-    cin >> k;
-    for (j = 0; j < n; j++)
-    {
-        tich *= a[k][j];
+int tichK(int arr[][100], int n, int k){
+    k--;
+    int tich =1;
+    for(int i=0; i<n; i++){
+        tich = tich*arr[k][i];
     }
-    cout << "\nTich hang k la: " << tich << endl;
+    return tich;
+}
 
-    //d, hang co tong cac phan tu nho nhat
-    int nn, s;
-    s = 0;
-    nn = 0;
-    for (j = 0; j < n; j++)
-    {
-        nn += a[0][j];
-    }
-    for (i = 1; i < n; i++)
-    {
-        for (j = 0; j < n; j++)
-        {
-            s += a[i][j];
+int hangNN(int arr[][100], int n){
+    int min =INT_MAX; // do lon toi da cua int
+    int k;
+    for(int i=0; i<n; i++){
+        int tong =0;
+        for(int j=0; j<n; j++){
+            tong = tong + arr[i][j];
         }
-        if (s < nn)
-        {
-            nn = s;
+        if(tong <min){
+            min = tong;
+            k = i;
         }
     }
-    cout << "Hang co tong nho nhat la: " << nn << endl;
+    return k+1;
+}
 
-    //e, dem so phan tu am
-    int dem;
-    dem = 0;
-    for (i = 0; i < n; i++)
-    {
-        for (j = 0; j < n; j++)
-        {
-            if (a[i][j] < 0)
-            {
-                dem++;
+int checkAm(int arr[][100], int n){
+    int check =0;
+    for(int i=0; i<n; i++){
+        for(int j=0; j<n; j++){
+            if(arr[i][j]<0)
+                check++;
+        }
+    }
+    return check;
+}
+
+void sapXep(int arr[][100], int n){
+    for(int i=0; i<n; i++){
+        for(int j=0; j<n; j++){
+            for(int k=j; k<n; k++){
+                if(arr[j][i]<arr[k][i])
+                    swap(arr[j][i], arr[k][i]);
             }
         }
     }
-    cout << "So phan tu am trong mang la: " << dem << endl;
+}
 
-    //f, sap xep ma tran giam dan theo cot
-    cout << "Mang sau khi da sap xep giam dan theo cot la: " << endl;
+int main() {
+    int n;
+    cout<<"Nhap n: ";
+    cin>>n;
 
-    for (j = 0; j < n; j++)
-    {
-        for (i = 0; i < n; i++)
-        {
-            for (v = i + 1; v < n; v++)
-            {
-                if (a[v][j] < a[i][j])
-                {
-                    int tg = a[i][j];
-                    a[i][j] = a[v][j];
-                    a[v][j] = tg;
-                }
-            }
-        }
-    }
-    for (i = 0; i < n; i++)
-    {
-        for (j = 0; j < n; j++)
-        {
-            cout << setw(7) << a[i][j];
-        }
-        cout << endl;
-    }
-    cout << endl;
+    int arr[100][100];
+
+    //nhap mang hai chieu
+    nhap(arr, n);
+
+    //xuat mang hai chjeu
+    cout<<"Hien mang vua nhap"<<endl;
+    hien(arr, n);
+
+    //tich hang k
+    int k;
+    do {
+        cout<<"Nhap vao hang k";
+        cin>>k;
+    } while(k<=0 || k>n);
+    cout<<"Tich hang "<<k<<" la: "<<tichK(arr, n, k)<<endl;
+
+    // tong hang nho nhat
+    cout<<"Tong hang nho nhat la: "<<hangNN(arr, n)<<endl;
+
+    //phan tu am
+    cout<<"Phan tu am trong mang la:"<<checkAm(arr, n)<<endl;
+
+    // sap xep theo cot
+    sapXep(arr,n);
+    cout<<"Hien mang sau khi sap xep cot"<<endl;
+    hien(arr, n);
+
+    return 0;
 }
 ```
