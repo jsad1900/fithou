@@ -22,15 +22,19 @@ int snt(int n)
 }
 int main()
 {
-	int n,dem=0,tong;
+	int n,dem=0,tong=0;
 	cout<<"nhap so n: ";
 	cin>>n;
-	if(snt(n)==1)
-	cout<<n<<" la so nguyen to";
-	else
-	cout<<n<<" khong la so nguyen to";
+	if(n<2)
+		cout<<"khong la so nguyen to"<<endl;
+	else {
+		if(snt(n))
+			cout<<n<<" la so nguyen to"<<endl;
+		else
+			cout<<n<<" khong la so nguyen to"<<endl;
+	}
 	for(int i=2;i<n;i++)
-		if(snt(i)==1)
+		if(snt(i))
 		tong+=i;
 	cout<<"\ntong cac so nguyen to nho hon "<<n<<" la: "<<tong;
 }
